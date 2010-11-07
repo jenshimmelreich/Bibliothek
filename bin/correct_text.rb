@@ -1,10 +1,9 @@
-#! /usr/bin/ruby
+#! /usr/bin/ruby -i
 
-ARGF.inplace_mode = '.bak'
 ARGF.lines do |line|
-  line.gsub! /"a/, 'ä'
-  line.gsub! /"o/, 'ö'
-  line.gsub! /"u/, 'ü'
+  line.gsub! /ä/, 'ä'
+  line.gsub! /ö/, 'ö'
+  line.gsub! /ü/, 'ü'
   line.gsub! /›/, "'"
   line.gsub! /‹/, "'"
   print line
