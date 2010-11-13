@@ -9,5 +9,7 @@ ARGF.lines do |line|
   line.gsub! /Ü/, 'Ü'
   line.gsub! /›/, "'"
   line.gsub! /‹/, "'"
+  line.gsub! /»/, '"'
+  line.gsub! /«/, '"'
   print line
 end
