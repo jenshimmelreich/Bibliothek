@@ -1,8 +1,11 @@
 #!/usr/bin/env ruby
 
+markdown = 'kramdown --no-auto-ids'
+#markdown = 'bluecloth'
+
 def main
   ARGV.each do |file_name|
-    text = `bluecloth #{file_name}`
+    text = `#{markdown} #{file_name}`
     add_css text
     puts text
   end
