@@ -1,4 +1,4 @@
-#! /usr/bin/ruby -i
+#!/usr/bin/env ruby
 
 ARGF.lines do |line|
   line.gsub! /ä/, 'ä'
