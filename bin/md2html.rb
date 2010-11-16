@@ -1,27 +1,58 @@
 #!/usr/bin/env ruby
 
-markdown = 'kramdown --no-auto-ids'
-#markdown = 'bluecloth'
+require 'rubygems'
+require 'bluecloth'
 
 def main
-  ARGV.each do |file_name|
-    text = `#{markdown} #{file_name}`
-    add_css text
+  file_names.each do |file_name|
+    text = IO.read file_name
+    text = transform text
+    text = embed_html text
     puts text
   end
 end
 
-def add_css text
-  text.gsub!(/<head>/, "<head><style type='text/css'>#{css}</style>")
+def file_names
+  ARGV
 end
 
-def css
+def transform text
+  BlueCloth.new(text, :smartypants => true).to_html
+end
+
+def embed_html text
+  html % text
+end
+
+def html
   %[
-    body {
-      font-family: Georgia, 'Times New Roman', Times, serif;
-      font-size: 17px;
-    }
-  ]      
+<html>
+  <head>
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+    <style type='text/css'>
+body {
+  margin: 0px 10px 0px 150px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+  line-height: 140%%;
+}
+h1, h2 {
+  font-size: 1em;
+  line-height: 140%%;
+}
+h2 {
+  margin: 1em 0 0 0;
+}
+p {
+  margin: 0px;
+  line-height: 140%%;
+}
+    </style>
+  </head>
+  <body>
+%s
+  </body>
+</html>]      
 end
 
 main
