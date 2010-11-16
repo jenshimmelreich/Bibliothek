@@ -40,8 +40,13 @@ h1, h2 {
   font-size: 1em;
   line-height: 140%%;
 }
+h1 {
+  margin: 2em 0 0 0;
+}
 h2 {
   margin: 1em 0 0 0;
+  font-weight: normal;
+  font-style: italic;
 }
 p {
   margin: 0px;
