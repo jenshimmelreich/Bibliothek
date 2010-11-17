@@ -14,6 +14,11 @@ task :push do
   system 'git push'
 end
 
+desc 'git: status'
+task :status do
+  system 'git status'
+end
+
 desc 'convert all markdown documents from Texte/* to html in out/*'
 task :md2html do
   Dir['Texte/*.md'].each do |md_file|
