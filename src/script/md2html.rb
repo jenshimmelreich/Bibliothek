@@ -7,7 +7,7 @@ def main
   file_names.each do |file_name|
     text = IO.read file_name
     text = transform text
-    text = embed_html text
+    text = enclose text
     puts text
   end
 end
@@ -20,7 +20,7 @@ def transform text
   BlueCloth.new(text, :smartypants => true).to_html
 end
 
-def embed_html text
+def enclose text
   html % text
 end
 

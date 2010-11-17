@@ -21,7 +21,7 @@ Drei Paradigmen
 
 Immaterieller Arbeit
 --------------------
-"Der Begriff der immateriellen Arbeit hat mehrere Implikationen. Zunächst radikalisierte die These der Wissensgesellschaft: Im kognitiven Kapitalismus greift man nämlich nicht länger nur auf Wissensressourcen zurück, um materielle Güter herzustellen. Stattdessen wendet sich die Kapitalverwertung von innen her der Sphäre der Wissensproduktion zu, d.h. dem Produktionsprozess des Wissens mittels Wissen (vgl. Corsani 2004, 157ff).
+"Der Begriff der immateriellen Arbeit hat mehrere Implikationen. Zunächst radikalisierte die These der Wissensgesellschaft: Im kognitiven Kapitalismus greift man nämlich nicht länger nur auf Wissensressourcen zurück, um materielle Güter herzustellen. Stattdessen wendet sich die Kapitalverwertung von innen her der Sphäre der Wissensproduktion zu, d.h. dem Produktionsprozess des Wissens mittels Wissen (vgl. Corsani 2004, 157ff)."
 (99f)
 
 Führung
