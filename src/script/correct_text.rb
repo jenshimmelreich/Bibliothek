@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/usr/bin/env ruby -i
 
 ARGF.lines do |line|
   line.gsub! /ä/, 'ä'
@@ -11,5 +11,6 @@ ARGF.lines do |line|
   line.gsub! /‹/, "'"
   line.gsub! /»/, '"'
   line.gsub! /«/, '"'
+  line = %<"#{$1.gsub(/\"/, "'")}"\n>if line =~ /^"(.+)"$/
   print line
 end
