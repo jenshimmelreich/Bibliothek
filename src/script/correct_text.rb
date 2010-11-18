@@ -11,6 +11,8 @@ ARGF.lines do |line|
   line.gsub! /‹/, "'"
   line.gsub! /»/, '"'
   line.gsub! /«/, '"'
+  line.gsub! /„/, '"'
+  line.gsub! /“/, '"'
   line = %<"#{$1.gsub(/\"/, "'")}"\n> if line =~ /^"(.+)"$/
   print line
 end
