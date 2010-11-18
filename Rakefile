@@ -19,6 +19,11 @@ task :status do
   system 'git status'
 end
 
+desc 'clear all generated files'
+task :clear do
+  system 'rm -fr out/*'
+end
+
 desc 'convert all markdown documents from Texte/* to html in out/*'
 task :md2html do
   Dir['Texte/*.md'].each do |md_file|
