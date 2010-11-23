@@ -27,8 +27,8 @@
 - Angst (keine Lösung sehen)
 - Abschalten
 
-4. Persönliche Identifikation - Angst
--------------------------------------
+4. Persönliche Identifizierung – Schuld
+---------------------------------------
 - _Selbstverantwortung_, keine Detailsteuerung
 - Arbeit ist Arbeit an der eigenen Person (Projekt wie Kind)
 - Mißerfolg = persönliches Scheitern/Schuld
