@@ -26,7 +26,7 @@ end
 
 desc 'commit, pull, push'
 task :cpp => [:commit, :pull, :push] do
-  puts '...'
+  puts 'commit, pull, push ... complete'
 end
 
 desc 'convert all markdown documents from Texte/* to html in out/*'
