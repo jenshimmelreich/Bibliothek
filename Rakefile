@@ -24,6 +24,11 @@ task :clear do
   system 'rm -fr out/*'
 end
 
+desc 'commit, pull, push'
+task :cpp => [:commit, :pull, :push] do
+  puts '...'
+end
+
 desc 'convert all markdown documents from Texte/* to html in out/*'
 task :md2html do
   Dir['Texte/*.md'].each do |md_file|
