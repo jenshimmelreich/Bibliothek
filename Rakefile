@@ -31,7 +31,7 @@ end
 
 desc 'commit, pull, push'
 task :cpp => [:commit, :pull, :push] do
-  puts "=== cpp ... complete ==="
+  puts "=== complete ==="
 end
 
 desc 'convert all markdown documents from Texte/* to html in out/*'
