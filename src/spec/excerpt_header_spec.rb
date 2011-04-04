@@ -1,9 +1,8 @@
-require(File.join(File.dirname(__FILE__), 'spec_helper'))
+require 'lib/excerpt_header'
 
-describe 'An ExcerptParser' do
-  
+describe ExcerptHeader do
   before do
-    @text = %<Klaus Dörre
+    text = %<Klaus Dörre
     Gibt es ein nachfordistisches Produktionsmodell
     ===============================================
     in: Mario Candeias & Frank Deppe
@@ -21,11 +20,19 @@ describe 'An ExcerptParser' do
     "Allgemein läßt sich ein Produktionsmodell als Netzwerk begreifen."
     (84)
     >
+    @header = ExcerptHeader.new text
   end
-  
-  it 'should create an excerpt from a text' do
-    parser = ExcerptParser.new @text
-    parser.excerpt.should_not be_nil
+
+  it 'should extract the author' do
+    @header.author.should == 'Klaus Dörre'
   end
-  
+
+  it 'should extract the title' do
+    @header.title.should == 'Gibt es ein nachfordistisches Produktionsmodell'
+  end
+
+  it 'should have a mark' do
+    @header.mark.should == 'Dörre 2001'
+  end
+
 end
