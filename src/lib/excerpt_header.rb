@@ -16,4 +16,8 @@ class ExcerptHeader
   def mark
     @text[/^\s*\((.*)\)\s*$/, 1]
   end
+
+  def source
+    @text[/====\s*$(.*)$\s*\(/m, 1]
+  end
 end

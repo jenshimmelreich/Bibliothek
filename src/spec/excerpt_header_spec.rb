@@ -3,23 +3,13 @@ require 'lib/excerpt_header'
 describe ExcerptHeader do
   before do
     text = %<Klaus Dörre
-    Gibt es ein nachfordistisches Produktionsmodell
-    ===============================================
-    in: Mario Candeias & Frank Deppe
-    Ein neuer Kapitalismus
-    Hamburg 2001
-    (Dörre 2001)
-
-    Kein überlegenes Rationalitätsprinzip
-    -------------------------------------
-    "Anders als Gramsci für die fordistische Produktion behauptete."
-    (83)
-
-    Produktionsmodell
-    -----------------
-    "Allgemein läßt sich ein Produktionsmodell als Netzwerk begreifen."
-    (84)
-    >
+Gibt es ein nachfordistisches Produktionsmodell
+===============================================
+in: Mario Candeias & Frank Deppe
+Ein neuer Kapitalismus
+Hamburg 2001
+(Dörre 2001)
+>
     @header = ExcerptHeader.new text
   end
 
@@ -33,6 +23,10 @@ describe ExcerptHeader do
 
   it 'should have a mark' do
     @header.mark.should == 'Dörre 2001'
+  end
+
+  it 'should have a source' do
+    @header.source.should include('& Frank Deppe')
   end
 
 end
