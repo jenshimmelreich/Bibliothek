@@ -1,1 +1,5 @@
-Hello world
+%h1 Excerpts
+
+%ul
+  - @excerpts.each do |excerpt|
+    %li= excerpt.header.title

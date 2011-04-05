@@ -1,3 +1,7 @@
+require 'lib/excerpt'
+require 'lib/excerpt'
+
+
 class ExcerptRepository
   def initialize dir
     @dir = dir
@@ -10,5 +14,10 @@ class ExcerptRepository
   private
 
   def built_excerpts
+    excerpts = []
+    Dir["#{@dir}/*"].each do |file_name|
+      excerpts << Excerpt.new(IO.read file_name)
+    end
+    excerpts
   end
 end
