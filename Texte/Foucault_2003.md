@@ -6,7 +6,7 @@ Dits et Ecrits
 
 Band III
 1976-1979
-Herausgegeben von Daniel Defert und Francois Ewald unter Mitarbert vin Jacques Lagrange
+Herausgegeben von Daniel Defert und Francois Ewald unter Mitarbert von Jacques Lagrange
 
 Gouvernementalität
 ------------------
