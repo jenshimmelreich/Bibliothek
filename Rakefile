@@ -1,3 +1,5 @@
+task :default => [:status]
+
 desc 'git: add all and commit with "----" comment'
 task :commit do
   puts "=== commit ==="
