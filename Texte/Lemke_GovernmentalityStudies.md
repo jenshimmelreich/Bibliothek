@@ -26,3 +26,28 @@ Politische Technologien
 -----------------------
 "Politische Technologien bezeichnen einen Komplex von praktischen Verfahren, Instrumenten, Programmen, Kalkulationen, Maßnahmen und Apparaten, der es ermöglicht, Handlungsformen, Präferenzstrukturen und Entscheidungsprämissen von Akteuren im Himblick auf bestimmte Ziele zu formen und zu steuern."
 (382)
+
+Systematische Überhöhung des Konzepts
+-------------------------------------
+"Während Foucault sein Analyseinstrumentarium jeweils im Hinblick auf die von ihm konkret untersuchten historischen Objekte (Wahnsinn, Delinquenz, Sexualität etc.) bildete, ohne einen allgemeinen Theorieapparat zu entwickeln wird 'Gouvernementalität' in manchen Arbeiten zu einer Art Metanarrativ das für beliebige Untersuchungsgegenstände und -ziele eingesetzt wird, ohne selbst der Überarbeitung, Weiterentwicklung oder Korrektur zu bedürfen."
+(383)
+
+Konzeptionelle Probleme (1)
+---------------------------
+"Erstens beziehen viele Gouvernementalitätsstudien Kämpfe und Konflikte nur unzureichend in die Analyse ein und betonen dem gegenüber die Kohärenz und Konsistenz der untersuchten Regierungstechnologien."
+(383)
+
+Konzeptionelle Probleme (2)
+---------------------------
+"Zweitens neigen viele Gouvernementalitätsstudien dazu, die politische Bedeutung expressiver und emotionaler Faktoren zugunsten bewusster Kalküle und rationaler Konzepte zu vernachlässigen."
+(383)
+
+Konzeptionelle Probleme (3)
+---------------------------
+"Oft bleiben staatstheoretische Fragestellungen in den Gouvernementalitätsstudien ausgeklammert."
+(383f)
+
+Konzeptionelle Probleme (4)
+---------------------------
+"Die wachsende Bedeutung dieser neuen Akteure, Organisationsformen und Politiknetzwerke rechtfertigt es, von einem Regime 'transnationaler' bzw. 'globaler' Gouvernementalität zu sprechen."
+(384)
