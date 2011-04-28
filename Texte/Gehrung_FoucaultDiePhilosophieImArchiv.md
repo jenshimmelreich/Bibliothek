@@ -2,6 +2,7 @@ Petra Gehring
 
 Foucault - Die Philosophie im Archiv
 ====================================
+Gehring, Petra: Foucault - Die Philosophie im Archiv
 Frankfurt/ New York 2004
 (Gehring 2004)
 

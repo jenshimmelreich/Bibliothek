@@ -4,7 +4,8 @@ DER ARBEITSKRAFTUNTERNEHMER
 ===========================
 Eine neue Grundform der Ware Arbeitskraft?
 ------------------------------------------
-in: Kölner Zeitschrift für Soziologie und Sozialpsychologie, Jhg. 50 (1), 1998 (S. 131-158). Der Text ist textidentisch aber nicht seitenkonkordant mit dem Abdruck in der KZfSS
+Voß, Günter/Hans J. Pongratz: Der Arbeitskraftunternehmer. Eine neue Grundform der Ware Arbeitskraft?
+In: Kölner Zeitschrift für Soziologie und Sozialpsychologie, Jhg. 50 (1), 1998 (S. 131-158). Der Text ist textidentisch aber nicht seitenkonkordant mit dem Abdruck in der KZfSS
 
 Arbeitskraftunternehmer
 -----------------------

@@ -2,6 +2,7 @@ Michael Hardt & Antonio Negri
 
 Empire. Die neue Weltordnung
 ============================
+Hardt, Michael/Antonio Negri: Empire. Die neue Weltordnung.
 Frankfurt/New York 2002
 (Negri, Hardt 2002)
 

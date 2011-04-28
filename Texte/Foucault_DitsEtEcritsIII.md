@@ -3,7 +3,8 @@ Michel Foucault
 Schriften in vier Bänden
 Dits et Ecrits
 ==============
-
+Foucault, Michel: Schriften in vier Bänden
+Dits et Ecrits
 Band III
 1976-1979
 Herausgegeben von Daniel Defert und Francois Ewald unter Mitarbert von Jacques Lagrange

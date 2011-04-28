@@ -2,8 +2,8 @@ Richard Sennett
 
 Schlauer als der Chef erlaubt
 =============================
-
-in: Die Zeit, 2011 Nr. 13
+Sennett, Richard: Schlauer als der Chef erlaubt. 
+In: Die Zeit, 2011 Nr. 13
 
 Handwerk
 --------

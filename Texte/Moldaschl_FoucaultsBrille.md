@@ -2,7 +2,8 @@ Manfred Moldaschl
 Foucaults Brille
 Eine Möglichkeit, die Subjektivierung von Arbeit zu verstehen?
 ==============================================================
-in: Manfred Moldaschl (Hrsg., 2003)
+Moldaschl, Manfred: Foucaults Brille. Eine Möglichkeit, die Subjektivierung von Arbeit zu verstehen?
+In: Manfred Moldaschl (Hrsg., 2003)
 Subjektivierung von Arbeit (2. Auflage).  
 München und Mering: Hampp, S. 135-177
 (Moldaschl 2003)

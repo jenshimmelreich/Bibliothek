@@ -3,7 +3,7 @@ Psychopolitik
 =============
 Gouvernementalitätstheoretische Untersuchungen zu Macht und Subjekt in subjektivierten Arbeitsverhältnissen
 ----------------------------------------------------------------------
-Inauguraldissertation zur Erlangung des Grades eines Doktors der Philosophie im Fachbereich Gesellschaftswissenschaften der Johann-Wolfgang-Goethe-Universität zu Frankfurt am Main
+Rau, Alexandra: Psychopolitik. Inauguraldissertation zur Erlangung des Grades eines Doktors der Philosophie im Fachbereich Gesellschaftswissenschaften der Johann-Wolfgang-Goethe-Universität zu Frankfurt am Main
 Frankfurt a.M. 2010
 (Rau 2010)
 

@@ -2,7 +2,8 @@ Richard Heigl
 Zwischen Kooperation und alten Hierarchien  
 Der Einsatz von Web 2.0 in Unternehmen führt zu neuen Konfliktlinien
 ====================================================================
-in: 
+Heigl, Richard: Zwischen Kooperation und alten Hierarchien. Der Einsatz von Web 2.0 in Unternehmen führt zu neuen Konfliktlinien.
+In: 
 ak - analyse & kritik - zeitung für linke Debatte und Praxis
 Nr. 544 / 20.11.2009
 Hamburg 2009

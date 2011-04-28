@@ -2,9 +2,8 @@ _Sven Opitz_
 
 Gouvernementalität im Postfordismus
 ===================================
-Zur Erkundung unternehmerischer Steuerungsregime der Gegenwart
---------------------------------------------------------------
-in: Christina Kaindl (Hg.)
+Opitz, Sven: Gouvernementalität im Postfordismus. Zur Erkundung unternehmerischer Steuerungsregime der Gegenwart.
+In: Christina Kaindl (Hg.)
 Subjekte im Neoliberalismus
 Marburg 2007
 (Opitz 2007)

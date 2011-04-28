@@ -2,7 +2,8 @@ Alain Ehrenberg
 
 Die Müdigkeit man selbst zu sein
 ================================
-in: Endstation. Sehnsucht.
+Ehrenberg, Alain: Die Müdigkeit man selbst zu sein.
+In: Endstation. Sehnsucht.
 Kapitalismus und Depression I.
 herausgegeben von Carl Hegemann
 Berlin 2000
