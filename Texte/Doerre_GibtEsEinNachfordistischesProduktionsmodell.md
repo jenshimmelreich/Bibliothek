@@ -1,7 +1,8 @@
 Klaus Dörre
 Gibt es ein nachfordistisches Produktionsmodell
 ===============================================
-in: Mario Candeias & Frank Deppe
+Dörre, Klaus: Gibt es ein nachfordistisches Produktionsmodell
+in: Candeias, Mario/Frank Deppe
 Ein neuer Kapitalismus
 Hamburg 2001
 (Dörre 2001)
