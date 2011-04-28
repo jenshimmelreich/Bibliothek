@@ -4,7 +4,7 @@ Gouvernementalität
 ==================
 Lemke,Thomas: Gouvernementalität.
 In: Foucault-Handbuch
-Herausgegeven von Clemens Kammler, Rolf Parr und Ulrich Johanner Schneider
+Herausgegeben von Clemens Kammler, Rolf Parr und Ulrich Johanner Schneider
 Stuttgart, Weimar 2008
 
 Leitfaden
