@@ -1,4 +1,5 @@
 _Alexandra Rau_
+
 Psychopolitik
 =============
 Gouvernementalitätstheoretische Untersuchungen zu Macht und Subjekt in subjektivierten Arbeitsverhältnissen

@@ -1,23 +1,27 @@
 require 'lib/excerpt'
-require 'lib/excerpt'
 
 
 class ExcerptRepository
   def initialize dir
     @dir = dir
+    @excerpts = {}
   end
   
-  def excerpts
-    @excerpts ||= built_excerpts
+  def find key
+    @excerpts[key]
   end
 
-  private
+  def excerpts
+    @excerpts.values
+  end
 
-  def built_excerpts
-    excerpts = []
+  def build
     Dir["#{@dir}/*"].each do |file_name|
-      excerpts << Excerpt.new(IO.read file_name)
+      add_excerpt Excerpt.new(IO.read file_name)
     end
-    excerpts
+  end
+
+  def add_excerpt excerpt
+    @excerpts[excerpt.key] = excerpt
   end
 end

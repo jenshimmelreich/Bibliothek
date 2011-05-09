@@ -1,4 +1,5 @@
 Klaus Dörre
+
 Gibt es ein nachfordistisches Produktionsmodell
 ===============================================
 Dörre, Klaus: Gibt es ein nachfordistisches Produktionsmodell

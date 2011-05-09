@@ -1,10 +1,12 @@
 require 'lib/excerpt_header'
+require 'digest/sha1'
+
 
 describe ExcerptHeader do
 
   describe 'for Doerre' do
     before do
-      text = %<Klaus Dörre
+      @text = %<Klaus Dörre
 
 Gibt es ein nachfordistisches Produktionsmodell
 ===============================================
@@ -13,7 +15,7 @@ Ein neuer Kapitalismus
 Hamburg 2001
 (Dörre 2001)
 >
-      @header = ExcerptHeader.new text
+      @header = ExcerptHeader.new @text
     end
    
     it 'should extract the author' do
@@ -30,6 +32,11 @@ Hamburg 2001
    
     it 'should have a source' do
       @header.source.should include('& Frank Deppe')
+    end
+
+    it 'should generate a sha1 of its text as key' do
+      sha1 = Digest::SHA1.hexdigest @text
+      @header.key.should == sha1
     end
   end
 

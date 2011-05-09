@@ -2,6 +2,7 @@
 
 %ul
   - @excerpts.each do |excerpt|
-    - p excerpt.header
-    %li= excerpt.header.title
+    %li
+      %a{ :href => "excerpt/#{excerpt.key}" }
+        = excerpt.header.title
 

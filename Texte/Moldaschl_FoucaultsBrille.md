@@ -1,4 +1,5 @@
 Manfred Moldaschl
+
 Foucaults Brille
 Eine Möglichkeit, die Subjektivierung von Arbeit zu verstehen?
 ==============================================================

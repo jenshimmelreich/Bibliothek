@@ -1,4 +1,4 @@
-_Sven Opitz_
+Sven Opitz
 
 Gouvernementalität im Postfordismus
 ===================================

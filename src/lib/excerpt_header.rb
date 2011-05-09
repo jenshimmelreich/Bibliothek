@@ -1,3 +1,5 @@
+require 'digest/sha1'
+
 class ExcerptHeader
   attr_reader :text
 
@@ -19,5 +21,9 @@ class ExcerptHeader
 
   def source
     @text[/====\s*$(.*)$\s*\(/m, 1]
+  end
+
+  def key
+    Digest::SHA1.hexdigest @text
   end
 end

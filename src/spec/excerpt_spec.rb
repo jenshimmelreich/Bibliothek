@@ -4,6 +4,7 @@ describe 'An Excerpt' do
   
   before do
     @text = %<Klaus Dörre
+
 Gibt es ein nachfordistisches Produktionsmodell
 ===============================================
 in: Mario Candeias & Frank Deppe
@@ -33,6 +34,11 @@ Produktionsmodell
     excerpt.header.should_not be_nil
     excerpt.header.text.should include('Mario Candeias')
   end 
+
+  it 'should use the key of the header' do
+    excerpt = Excerpt.new @text
+    excerpt.key.should == excerpt.header.key
+  end
 
   it 'should create a list of citations' do
     excerpt = Excerpt.new @text

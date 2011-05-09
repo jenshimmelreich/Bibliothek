@@ -9,11 +9,16 @@ class Excerpt
   def initialize text
     @text = text
     parts = text.split(/^\s*$/)
-    @header = ExcerptHeader.new parts.shift
+    header_text = parts.shift + parts.shift
+    @header = ExcerptHeader.new header_text
     @citations = []
     parts.each do |part|
       @citations << Citation.new(part)
     end
+  end
+
+  def key
+    @header.key
   end
 end
 

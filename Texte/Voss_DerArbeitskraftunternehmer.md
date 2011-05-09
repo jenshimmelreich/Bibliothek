@@ -1,4 +1,4 @@
-_G. Günter Voß & Hans J. Pongratz_
+G. Günter Voß & Hans J. Pongratz
 
 DER ARBEITSKRAFTUNTERNEHMER
 ===========================
