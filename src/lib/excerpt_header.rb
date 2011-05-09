@@ -1,4 +1,4 @@
-require 'digest/sha1'
+require 'cgi'
 
 class ExcerptHeader
   attr_reader :text
@@ -24,6 +24,6 @@ class ExcerptHeader
   end
 
   def key
-    Digest::SHA1.hexdigest @text
+    CGI.escape "#{author}_#{title}"
   end
 end

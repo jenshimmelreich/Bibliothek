@@ -1,5 +1,5 @@
 require 'lib/excerpt_header'
-require 'digest/sha1'
+require 'cgi'
 
 
 describe ExcerptHeader do
@@ -34,9 +34,9 @@ Hamburg 2001
       @header.source.should include('& Frank Deppe')
     end
 
-    it 'should generate a sha1 of its text as key' do
-      sha1 = Digest::SHA1.hexdigest @text
-      @header.key.should == sha1
+    it 'should generate a key from title and author' do
+      key = CGI.escape "#{@header.author}_#{@header.title}"
+      @header.key.should == key
     end
   end
 
