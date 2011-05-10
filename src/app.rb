@@ -1,6 +1,7 @@
 require 'rubygems'
 require 'sinatra'
 require 'haml'
+require 'cgi'
 
 require 'lib/excerpt_repository'
 
@@ -12,6 +13,12 @@ set :haml, :format => :html5
 
 set :public, File.dirname(__FILE__) + '/public'
 set :views, File.dirname(__FILE__) + '/views'
+
+get '/excerpt/:id' do
+  id = CGI.escape params[:id]
+  @excerpt = REPOSITORY.find id
+  haml :excerpt
+end
 
 get '/' do
   @excerpts = REPOSITORY.excerpts 

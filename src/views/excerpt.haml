@@ -1,0 +1,9 @@
+%h1= @excerpt.header.title 
+%h2= @excerpt.header.author
+
+%ul
+  - @excerpt.citations.each do |citation|
+    %li
+      %h3= citation.title
+      %p= citation.content
+
