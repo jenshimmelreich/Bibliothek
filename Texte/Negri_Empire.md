@@ -26,11 +26,11 @@ Wie schon im Prozess der Modernisierung alle Produktion industrialisierten wurde
 
 Übergang zu einer informationellen Ökonomie
 -------------------------------------------
-Der erste Aspekt dieser Transformationen betrifft, wie viele Untersuchung bereits festgestellt haben, den Wandel der Fabrikarbeit; Welt war die Automobilindustrie als zentralen Bezugspunkt, dann handelt es sich um den Übergang vom fordistischen zum toyotistischen Modell. (301)
+Der erste Aspekt dieser Transformationen betrifft, wie viele Untersuchung bereits festgestellt haben, den Wandel der Fabrikarbeit; wählt man die Automobilindustrie als zentralen Bezugspunkt, dann handelt es sich um den Übergang vom fordistischen zum toyotistischen Modell. (301)
 
 Das fordistische Modell
 -----------------------
-Zwischen diesen beiden Modellen besteht der entscheidende Unterschied darin, dass das System der Kommunikation zwischen Produktion und Konsumtion der Waren, das heißt der Übergang der Information von der Fabrik zum Markt und umgekehrt, sich strukturell wandelt das Fordistischermodell errichtete ein relativ „stummes“ Verhältnis zwischen Produktion und Konsumtion. (301)
+Zwischen diesen beiden Modellen besteht der entscheidende Unterschied darin, dass das System der Kommunikation zwischen Produktion und Konsumtion der Waren, das heißt der Übergang der Information von der Fabrik zum Markt und umgekehrt, sich strukturell wandelt. Das fordistische Modell errichtete ein relativ „stummes“ Verhältnis zwischen Produktion und Konsumtion. (301)
 
 Toyotismus
 ----------
