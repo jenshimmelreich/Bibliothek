@@ -14,13 +14,13 @@ Symptomale Lektüre
 
 Regierung
 ---------
-„Wie ich zeigen will, steht im Mittelpunkt dieser „theoretischen Verschiebung“ der Begriff der Regierung („gouvernement“). Dieser markiert nicht die Aufgabe der Machtanalytik und den Übergang zu Subjektivität; vielmehr führt Foucault mit „Regierung“ eine neue Dimension in seiner Machtanalytik ein und untersucht Machtbeziehungen unter dem Blickwinkel von „Führung“, um sich sowohl vom Modell des Rechts wie vom Modell des Krieges abzusetzen.... Der zu Grunde gelegte umfassende Begriff von Regierung erlaubt es zum einen, die traditionelle Unterscheidung mikro- und makropolitische Analyseebenen zu umgehen: die „politische Regierung“ als Regierung des Staates ist eine Form von Regierung unter anderen. Gleichzeitig dient das neue Konzept dazu, das Verhältnis der Regierung anderer („govemement des autres“) zu Formen von Selbstregierung („govemement de soi“) zu erfassen und Objektivierungsprozesse substantieller zu untersuchen, als er dies wie vorangegangenen Arbeiten vornehmen konnte.“
+"Wie ich zeigen will, steht im Mittelpunkt dieser „theoretischen Verschiebung“ der Begriff der Regierung („gouvernement“). Dieser markiert nicht die Aufgabe der Machtanalytik und den Übergang zu Subjektivität; vielmehr führt Foucault mit „Regierung“ eine neue Dimension in seiner Machtanalytik ein und untersucht Machtbeziehungen unter dem Blickwinkel von „Führung“, um sich sowohl vom Modell des Rechts wie vom Modell des Krieges abzusetzen.... Der zu Grunde gelegte umfassende Begriff von Regierung erlaubt es zum einen, die traditionelle Unterscheidung mikro- und makropolitische Analyseebenen zu umgehen: die „politische Regierung“ als Regierung des Staates ist eine Form von Regierung unter anderen. Gleichzeitig dient das neue Konzept dazu, das Verhältnis der Regierung anderer („govemement des autres“) zu Formen von Selbstregierung („govemement de soi“) zu erfassen und Objektivierungsprozesse substantieller zu untersuchen, als er dies wie vorangegangenen Arbeiten vornehmen konnte."
 (32)
 
 
 Wahrheit
 --------
-„Seine historische These lautet, dass ein wesentliches Charakteristikum der westlichen Macht darin besteht, dass sie Individuen mit Hilfe und in Übereinstimmung mit einer Wahrheit „führt“, die sie selbst produziert. Foucault identifiziert Regierung als eine spezifische Form der Machtausübung, die weniger als repressiver Zwang oder als ideologische Vorstellung funktioniert, sondern im Gegenteil über die Produktion von Wahrheit operiert. Im Unterschied zu anderen Machtformen verlangt Regierung auf der Seite der Individuen nicht nur Unterwerfung Ungehorsam, sondern Wahrheitsakte. Sein zentrales Problem ist daher die Frage, „wie Menschen sich selbst und andere über die Produktion von Wahrheit regieren“.“
+"Seine historische These lautet, dass ein wesentliches Charakteristikum der westlichen Macht darin besteht, dass sie Individuen mit Hilfe und in Übereinstimmung mit einer Wahrheit „führt“, die sie selbst produziert. Foucault identifiziert Regierung als eine spezifische Form der Machtausübung, die weniger als repressiver Zwang oder als ideologische Vorstellung funktioniert, sondern im Gegenteil über die Produktion von Wahrheit operiert. Im Unterschied zu anderen Machtformen verlangt Regierung auf der Seite der Individuen nicht nur Unterwerfung Ungehorsam, sondern Wahrheitsakte. Sein zentrales Problem ist daher die Frage, „wie Menschen sich selbst und andere über die Produktion von Wahrheit regieren“."
 (33)
 
 Kritik
@@ -35,7 +35,7 @@ Macht als Repression oder Ideologie
 
 Kritik der Ideologiekritik
 --------------------------
-"Foucaults Kritik richtet sich gegen die beiden Voraussetzungen dieser Annahme: die Vorstellung einer materiellen Trennung von Ideen und Wirklichkeit der Konzentration auf Bewusstseinsprozesse in der macht Analyse:“
+"Foucaults Kritik richtet sich gegen die beiden Voraussetzungen dieser Annahme: die Vorstellung einer materiellen Trennung von Ideen und Wirklichkeit der Konzentration auf Bewusstseinsprozesse in der macht Analyse:"
 (93)
 
 Macht und Wissen
@@ -45,7 +45,7 @@ Macht und Wissen
 
 Seele
 -----
-"Das entscheidende Problem liegt in der Art und Weise, wie Foucault die „Materialität der Macht“ zu fassen versucht. Die Disziplin setzt einen Machtmechanismus ins Werk, der weder direkt auf den Körper noch indirekt über das Bewusstsein wirkt, sondern über die „Seele“ operiert: als Einübung von Gesten, erlernen von Verhaltensweisen, Ausbildung von Gewohnheiten etc.“
+"Das entscheidende Problem liegt in der Art und Weise, wie Foucault die „Materialität der Macht“ zu fassen versucht. Die Disziplin setzt einen Machtmechanismus ins Werk, der weder direkt auf den Körper noch indirekt über das Bewusstsein wirkt, sondern über die „Seele“ operiert: als Einübung von Gesten, erlernen von Verhaltensweisen, Ausbildung von Gewohnheiten etc."
 (114)
 
 Subjektivieungsprozesse
