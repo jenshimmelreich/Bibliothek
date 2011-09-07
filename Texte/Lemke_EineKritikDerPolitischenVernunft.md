@@ -112,3 +112,67 @@ Humankapital
 ------------
 "Dieses "menschliche Kapital" besteht aus zwei Komponenten: eine angeborene körperlich-genetische Ausstattung und die Gesamtheit der erworbenen Fähigkeiten, die das Ergebnis von "Investitionen" in entsprechende Stimuli sind: Ernährung, Erziehung ung Ausbildung, aber auch Liebe und Zuwendung etc. Die Arbeitenden erscheinen in dieser Konzeption nicht mehr als abhängig Beschäftigte eines Unternehmens, sondern werden zu autonomen Unternehmern, die eigenverantwortlich Investitionsentscheidungen fällen und auf die Produktion eines Mehrweres abzielen: Unternehmenr ihrer selbst."
 (244)
+
+Neoliberalismus
+---------------
+"Der Neoliberalismus ermitigt die Individuen, ihrer Existenz eine bestimmte unternehmerische Form zu geben. Er reagiert auf eine verstärkte "Nachfrage" nach individuellen Gestaltungsspielräumen und Autonomiebestrebungen mit einem "Angebot" an Individuen und Kollektive, sich aktiv an der Lösung von bestimmten Angelegenheiten und Problemen zu beteiligen, die bis dahin in die Zuständigkeit von spezialisierten und autorisierten Staatsapparaten fielen. Der "Preis" für diese Beteiligung ist, dass sie selbst die Verantwortung für diese Aktivitäten - und für ihr Scheitern - übernehmen müssen."
+(248)
+
+Neolibereale Strategie
+----------------------
+"Wenn diese Annahme richtig ist und die neoliberale Strategie darin besteht, die überkommenen rigiden Regelungsmechanismen durch die Entwicklung von Selbstregulationstechniken zu ersetzen, dann ist es für die politische Analyse unverzichtbar, jene Selbststeuerungskapazitäten eines "autonomen Individuums" und ihre Kopplung an Formen politischer Herrschaft und ökonomischer Ausbeutung zum Gegenstand der Untersuchung zu machen."
+(250f)
+
+Machtmechanismen und Subjektivierungsformen
+-------------------------------------------
+"Subjektivität markiert also keine äußerliche Grenze der Machtbeziehungen oder ein Anwendungsfeld für Machttechnologien; vielmehr funktionieren moderne Machtmechanismen gerade "mittels" spezifischer Subjektivierungsformen."
+(256)
+
+Technologie des Selbst
+----------------------
+"Den Produktionstechniken, Signifikations- bzw. Kommunikationstechniken und Herrschaftstechniken stellt er eine weitere Technologieform zur Seite: "Technologien des Selbst"."
+(258)
+
+Regierung
+---------
+"[Foucault:] Der Kontaktpunkt, in dem die Form der Lenkung der Individuen durch andere mit der Weise ihrer Selbstführung verknüpft ist, kann nach meiner Auffassun Regierung genannt werden." (Foucault)
+(260)
+
+Erfahrung
+---------
+"[Foucault:] Das Projekt war also das einer Geschichte der Sexualität als Erfahrung - wenn man unter Erfahrung die Korrelation versteht, die in einer Kultur zwischen Wissensbereichen, Normativitätstypen und Subjektivitätsformen besteht."
+(261)
+
+Erfahrung
+---------
+"Wissen, Macht und Subjektivität konstituieren jeweils eigene Dimensionen von Erfahrung, die jedoch nicht für sich allein, sondern nur in ihrem Verhältnis zueinander untersucht werden können."
+(261)
+
+Drei simultane Dimensionen
+--------------------------
+"Diese Untersuchungsperspektive betrachtet Sexualität als ein Ensemble, das aus drei simultanen Dimensionen besteht: einem Feld des Wissens, das über Bergriffe, Konzepte, Theorien, wissenschaftliche Disziplinen etc. definiert ist; einer Anzhl von Regeln, die das Erlaubte vom Verbotenen, das Natürliche vom Monströsen, das Normale vom Pathologische etc. scheiden; einer Bezeihung des Individuusms zu sich selbst, die es ihm erlaubt, sich als sexuelles Subjekt unter anderen anzuerkennen."
+(264)
+
+Vier Aspekt der Selbstverhältnisses
+-----------------------------------
+"Um diese historischen Veränderungen von der klassisch-griechischen Ethik zur christlich-pastoralen Ethik untersuchen zu können, führt Foucault eine Reihe weiterer Unterscheidungen ein, die das Feld der Ethik nach vier Hauptgesichtspunkten gliedern, die zugleich die vier Aspekte des Selbstverhältnisses definieren:
+1. die ethische Substanz oder Ontologie: der Teil unserer Selbst oder unseres Verhaltens, der das relevante Feld der moralischen Beurteilung ist, das Material, das die Ethik bearbeitet ("Worauf zielen die moralischen Urteile: auf Handlungen, auf Gefühle, Ansichten oder Begehren?");
+2. die Unterwerfungsweise oder Deontologie: "die Art und Weise, in der Leute aufgefordert oder aufgestachelt werden, ihre moralischen Pflichten anzuerkennen" ("Ergeht der moralische Appell in Form göttlicher Gesetze, natürlicher Rechte, einer kosmologischen Ordnung oder eine universellen Vernunft?");
+3. die Selbstformungstätigkeit oder Askese: die Mittel, die wir anwenden, um uns als ethische Subjekte zu konstituieren ("In welcher Art und Weise müssen wir uns bearbeiten, um bestimmte Ziele zu erreichen?");
+4. das Ziel des moralischen Handelns oder Teleologie ("Welche Art von Sein erstreben wir, wenn wir uns moralisch verhalten? Sollen wir rein werden, oder unsterblich, oder frei, oder Herren unserer selbst, usw.?")."
+(273)
+
+Pastoralmacht
+-------------
+"Foucaults Fazit der "Genealogie des modernen Subjekts" lautet: Das Christentum führt nicht eine neue Moral ein oder neue Vebote, sondern es erfindet eine neue Figur der Subjektivität - und eine neue Form der Macht. ... Diese Zwangsbeziehung zu sich selbst in Begriffen der Wahrheit ist das fundamentale Charakteristikum der Pastoralmacht und definiert eine Regierungstechnologie, die Subjekte mittels der Wahrheit "führt"."
+(290)
+
+Tegierung und Freiheit der Subjekte
+-----------------------------------
+"Da Regierung der Freiheit der Subjekte eine bestimmte Form gibt, um sie zu kontrollieren und zu lenken, stellt umgekehrt dieser Selbstbezug ein Widerstandspotenzial dar, das gegen die Regierungstechologien eingesetzt werden kann."
+(310)
+
+Wahrheit
+--------
+"Das charakteristische Merkmal von Regierung besteht darin, dass sie eine Form der Macht etabliert, die Individuen nicht direkt unterwirft oder beherrscht, sondern sie durch die Produktion von "Wahrheit" anleitet und führt."
+(322f)
