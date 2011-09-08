@@ -176,3 +176,38 @@ Wahrheit
 --------
 "Das charakteristische Merkmal von Regierung besteht darin, dass sie eine Form der Macht etabliert, die Individuen nicht direkt unterwirft oder beherrscht, sondern sie durch die Produktion von "Wahrheit" anleitet und führt."
 (322f)
+
+Zwang zur Wahrheit
+------------------
+"Tatsächlich jedoch besteht die theoretische und politische Bedeutung Foucaults gerade darin, diesen Zwang, für oder gegendie Wahrheit zu sein, selbst zum Gegenstand seiner Arbeit macht:"
+(327)
+
+Wahrheitsspiel
+--------------
+"Diese "historisch-philosophische Praktik" sucht nicht nach den "wirklichen" Ursprüngen und dem "realen" Untergrund der Geschichte, um sie mit den "falschen" Ideen und "illusorischen" Vorstellungen zu konfrontieren, sondern nach einem mobilen System von Beziehungen und Synthesen, das zugleich die Bedingungen der Existenz einer bestimmten Ordnung der Dinge und des Wissens von ihnen bereitstellt, den Subjektivierungs- und Objektivierungsformen."
+(327f)
+
+Objekte und Praktiken
+---------------------
+"Foucault dreht den Primat der Objekte um: Statt die geschichtlichen Praktiken ausgehend von den Objekten zu erklären (im Sinne eine Funktionalität, Teleologie, Finalität, Reproduktion etc.), werden die Objekte zu "Korrelaten" oder "Projektionen" von Praktiken. An die Stelle einer Geschichtsphilosophie tritt eine "wirkliche Historie", die jene Praktiken rekonstruiert, durch die bestimmte "Elemente" so miteinadne verbunden werden, dass retrospektiv ein "Objekt" erscheint, von dem angenommen werden kann, das es dem historischen Prozess vorausgeht."
+(333)
+
+Begriff der Praktiken
+---------------------
+"Ob es sich um diskursive oder nicht-diskursive, um Machtpraktiken oder Selbstpraktiken handelt, immer bezeichnet der Begriff der Praktiken das systematische Zusammenspiel von Formen des Denkens und Handlungsfomen: "Dies sind die 'Praktiken' verstanden als Formen des Denkens und des Handelns, die den Schlüssen zum Verständnis der gegenseitigen Konstitution von Subjekt und Objekt abgeben"."
+(333)
+
+Problematisierung
+-----------------
+"Statt einer transzendentalen Kritik verfolgt Problematisierung eine historische Kritik unseres gesellschaftlichen Seins. Das Charakteristikum dieser Konzeption von Kritik besteht in der Einführung eines Bruchs in das Kontinuum von Wissen und Willen. Für Foucault lässt sich Kritik nicht von einem Wissen ableiten, das sie motiviert und begründet. Kritik repräsentiert weniger ein neutral-theoretisches Wissen als dass sie eine ethische-politische Haltung verkörpert: eine Haltung der Kritik."
+(349f)
+
+Kritik
+------
+"In diesem Sinn besteht Kritik weder in der Affirmation des Besteheneden noch seiner Negation, sondern in einer Problematisierung, die sich auf eine tiefere und grundlegendere Ebene richtet, um den gemeinsamen Boden dieser beiden "Lösungen" zu erforschen:"
+(350)
+
+Kritik
+------
+"Kriik ist nicht das Ergebnis eines Räsonnements, das alle Lösungen zugunsten der einzig richtigen zurückweist, sondern die Freiheit eines Willens, der bestehenede Handlungs- und Denkformen nicht akzeptiert."
+(359)
