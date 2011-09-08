@@ -53,7 +53,7 @@ Subjektivieungsprozesse
 "Statt der Eigenart und „Körperlichkeit“ der Subjektivierungsprozesse nachzugehen, präsentiert er deren Materialität als einfache „Verdoppelung“ physischer Zurichtungsprozeduren."
 (115)
 
-Mikrophsik der Macht
+Mikrophysik der Macht
 --------------------
 "Die Mikrophysik der Macht definierte sich durch drei theoretische Verschiebungen: Erstens die Distanz zu einer Analyse von Institutionen, die sich auf innerinstitutionelle Machtverhältnisse und die Frage ihrer Reproduktion konzentriert, um die Technologien der Macht "dahinter" oder "darunter" zu finden; zweitens ließ sie an die Stelle einer Suche nach Funktionen Strategien und Taktiken treten, die die Frage nach "Adäquanz", "Misserfolg" etc. nicht mehr in Hinblick auf einen funktionalen Imperativ definieren, sondern in einem historischen Feld von Kräfteverhältnissen resituieren; drittens ging sie nicht von fertigen Objekten aus, die dann in ein Spiel von Beziehungen eingeordnet und miteinander "vermittelt" wurden, sondern interessierte sich für die Bedingungen ihrer Konstitution und jene Praktiken, die Objekte als Objekte in einem Feld der Immanenz von Wissen und Macht "produzieren". Es ist das erklärte Ziel Foucaults, dieselben theoretischen Operationen (Technologie, Strategie und Konstitution statt Institution, Funktion und Objekt), die die "Genealogie des Gefängnisses" strukturierten, auch fur die "Genealogie des Staates" nutzbar zu machen."
 (145f)
