@@ -45,3 +45,38 @@ Regieren
 --------
 "Regieren in einer liberal-demokratischen Art und Weise bedeutet Regieren durch die Freiheit und Bestrebungen der Subjekte statt gegen diese. Die Möglichtkeit, der politische Herrschaft "liberale" Grenzen zu setzen, wurde durch die Ausbreitung von Diskursen, Praktiken und Techniken geschaffen, in denene Selbststeuerungsfähigkeiten in freie Individuen eingepflanzt werden können, um deren eigene Verhaltens- und Bewertungsformen in Übereinstimmung mit politischen Zielen zu bringen."
 (13)
+
+System der Selbstregulierung und politische Macht
+-------------------------------------------------
+"Erstens etabliert die Verankerung von Autorität in einem Anspruch auf Wissenschaftlichkeit und Objektivität in einer einzigartigen Weise eine Distanz zwishen Systemen der Selbstregulierung und den formalen Organen politischer  Macht, die in liberal-demokratischer Regierungsrationalität notwendig sind."
+(14)
+
+Leben als Projekt
+-----------------
+"Die Individuen werden heute dazu angehalten zu leben, als ob sie ein Projekt aus sich selbst machten: Sie sollen an ihrer Emotionenwelt arbeiten, an ihren häuslichen und ehelichen Abmachungen, ihren Beziehungen in der Arbeit und ihren sexuellen Lusttechniken, sie sollen einen Lebens"stil" entwickeln, der ihren Existnezwert ihnen selbst gegenüber maximiert."
+(14)
+
+Arbeitsplatz
+------------
+"Eine Schlüsselstelle ist der Arbeitsplatz. Ein neues Vokabular der Arbeitsbeziehungen wird von OrganisationspsychologInnen und MenagementberaterInnen eingesetzt, indem Arbeit von einer Beschränkung von Freiheit und Autonomie zu einem Bereich umgedeutet worden ist, in dem arbeitende Subjekte ihre Autonomie ausdrücken können."
+(18)
+
+Arbeitswelt 
+-----------
+"Die Arbeitswelt wird umgedeutet als Ort, in dem Produktivität gesteigert, Qualtität gesuchert und Innovation vorangetrieben werden soll durch das aktive Engagement der selbsterfüllenden Impulse der ArbeitnehmenerInnen, duch Vereinbarung der Organisationsziele mit den Wünschen des Selbst."
+(18)
+
+Arbeit
+------
+"Wirstschaftlicher Erfolg, Karrierefortschritt und persönliche Entwicklung überschneiden sich in diesem neuen Expertenwissen der autonomen Subjektivität: Die Arbeit ist zum essentiellen Bestandteil auf dem Weg zur Selstverwirklichung geworden und das Streben des autonomen Selbst ist zum entscheidenden Komplizen auf dem Weg zum wirtschaftlichen Erfolg geworden."
+(19)
+
+Neoliberalismus
+---------------
+"Der Neoliberalismus ist vielleicht von dauerhafter Bedeutung, und nicht nur ein vergängliches Phänomen, weil es die Rechte statt der Linken war, der die Formulierung einer politische Rationalität gelang, die mit diesem neuen Regime des Selbst übereinstimmt."
+(24)
+
+Diagnose: Wesen der Gegenwart
+-----------------------------
+"Sie [Diagnose zum Wesen der Gegenwart] würde daher versuchen, die Kategorien und Erklärungsschemata zu dokumentieren, nach denen wir uns selbst denken, die Kriterien und Normen, die wir verwenden, um uns selbst zu beurteilen, die Praktiken, durch die wir auf uns selbst und auf einander wirken, um uns zu einer bestimmten Art von Wesen zu machen."
+(25)
