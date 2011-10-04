@@ -1,7 +1,7 @@
 Thomas Lemke
 
 Governmentality Studies
-======================
+=======================
 Lemke,Thomas: Governmentality Studies.
 In: Foucault-Handbuch
 Herausgegeben von Clemens Kammler, Rolf Parr und Ulrich Johanner Schneider
