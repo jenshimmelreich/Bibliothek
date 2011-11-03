@@ -1,5 +1,8 @@
 Thomas Alkemeyer, Paula-Irene Villa
 
+Somatischer Eigensinn
+=====================
+
 Alkemeyer, Thomas/Villa, Paula-Irene: Somatischer Eigensinn.
 In: Angermüller, Johannes/von Dyk, Silke (Hg.):
 Diskursanalyse meets Gouvernementalitätsforschung.
