@@ -16,4 +16,30 @@ Kondratieff Zyklen
 
 Gegenwärtige Kondratieff Welle
 ------------------------------
-"In der gegenwärtig diagnostizierten fünften Welle ist die mikroelektronisch basierte Informationstechnik die neue heartland technology (Perez 1983): Miniaturisierung der elektronischen Bauelemente und Digitalisierung führen zu einer Reduktion der Kosten, zur Steigerung der Performanz und Durchdringung immer mehr gesellschaftlicher Bereiche. Beim dabei postulierten Übergang von der Güterproduktion zur Wissenserzeugung handelt es sich um die erste globale Revolution, weil sie fast überall und in einem kurzen Zeitraum stattfindet. [...] Industrielle Innovationen bezogen sich traditionellerweise entweder auf Produkte, auf Prozesse oder Management. Durch die Informationstechnik erfolgen sie nun simultan." (60f)
+"In der gegenwärtig diagnostizierten fünften Welle ist die mikroelektronisch basierte Informationstechnik die neue heartland technology (Perez 1983): Miniaturisierung der elektronischen Bauelemente und Digitalisierung führen zu einer Reduktion der Kosten, zur Steigerung der Performanz und Durchdringung immer mehr gesellschaftlicher Bereiche. Beim dabei postulierten Übergang von der Güterproduktion zur Wissenserzeugung handelt es sich um die erste globale Revolution, weil sie fast überall und in einem kurzen Zeitraum stattfindet. [...] Industrielle Innovationen bezogen sich traditionellerweise entweder auf Produkte, auf Prozesse oder Management. Durch die Informationstechnik erfolgen sie nun simultan. [...] Das kann man auf die Formel der Globalissierung der Märkte bei gleichzeitiger Dezentralisiserung der Produktion bringen." (60f)
+
+Dynamik der Technik
+-------------------
+"Etwas konkreter lässt sich die soziale Dynamik der Technik in drei zeitliche Abschnitte fassen, in denen spezifische Leistungen erbracht werden müssen, nämlich die Phasen der Entstehung, Stabilisierung und Durchsetzung (Weyer 1997)." (69)
+
+Enstehungsphase
+---------------
+"Die Entstehungsphase ist durch Kreativität, Abweichung von Bestehendem und die Schaffung von Neuem gekennzeichnet. Kreativitätsfördernde Bedingungen werden zwar theoretisiert, jedoch ist diese frühe Phase der technischen Entwicklung weitgehend von Zufällen abhängig, die von außen kaum steuerbar sind. [...] Die entscheidende Leistung der Entstehungsphase besteht in der Ausbildung technischer und sozialer Konstruktionsprinzipin, die über die Innovation hinaus stabil bleiben. Die soziale Kernfiguration lässt sich dabei auf den Begriff des Leitbilds bringen. Hier geht es um antizipierte Nutzungsvisionen, die die Such- und Problemlösungsstrategien der TechnikentwicklerInnen steuern." (70)
+
+Stabilisierungsphase
+--------------------
+"In dieser Stabilisierungsphase geht es darum, Handlungsstrategien durchweg heterogener Akteure so miteinander zu verkoppeln, dass eine technische Entwicklung die Chance hat, sich auf dem Markt zu bewähren. Hier wird der technische Entwickler zum heterogenous engineer, der Managementkompetenzen und politisches Geschick in Anschlag bingen muss, um beispielsweise die Elektrifizierung Amerikas, das Penicillin, oder den Dieselmotor durchzusetzen. [...] Wie mit dem Übergang zur Stabilisierungsphase Amateure und Bastler sich zu Konstrukteuren und Organisatoren funktionierender Netzwerke mausern und damit als strategiefähige, berechenbare und verläßliche Akteure auftreten, zeigt das Beispiel des Personalcomputers." (71f)
+
+Durchsetzungs- oder Diffusionsphase
+-----------------------------------
+"In der Durchsetzungs- oder Diffusionsphase nimmt der Markt eine Innovation an. Dieser muss jedoch erst einmal geschaffen werden. [...] Die zentrale Leistung der Netzwerke besteht hier darin, den Kreis der AkteurInnen zu erweitern, so dass die prospektiven NutzerInnen einbezogen werden." (72f)
+
+Systemtheorie
+-------------
+(146f)
+
+Wissensgesellschaft
+-------------------
+(162f)
+
+
