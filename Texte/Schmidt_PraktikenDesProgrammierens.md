@@ -4,7 +4,7 @@ Praktiken des Programmierens.
 Zur Morphologie von Wissensarbeit in der Software-Entwicklung
 =============================================================
 Schmidt, Robert: Praktiken des Programmierens. Zur Morphologie von Wissensarbeit in der Software-Entwicklung.
-In: Zeitschrift für Sotiologie, Jg. 37, Heft 4, August 2008, S. 282-300
+In: Zeitschrift für Soziologie, Jg. 37, Heft 4, August 2008, S. 282-300
 (Schmidt 2008)
 
 practical turn
