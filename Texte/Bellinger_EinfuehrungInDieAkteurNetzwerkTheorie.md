@@ -33,3 +33,27 @@ Netzwerk
 Übersetzung
 -----------
 "In der Terminologie der Systemtheorie sind Übersetzungen die Letztelemente des sozialen Systems und können nicht aus den Intentionen von Subjekten abgeleitet werden. Auch wenn die Handlungsprogramme individueller Akteure Übersetzungen leiten und Akteure davon ausgehen, dass sie ihren eigenen Interessen nachgegen, sind diese Akteure und ihre Handlungsprogramme selbst das Ergebnis von Verhandlungen, Verschiebungen und Anpassungen, kurz: Der Akteur ist eine Konstruktion, ein Hybride bestehend aus mehr oder weniger verschiedenartigen Elementen." (39)
+
+Problematisierung
+-----------------
+"Netzwerkbildung beginnt dort, wo ein Problem empfunden wird. [...] Der übersetztende Akteur definiert ein Problem so, dass andere es als ihr Problem akzeptieren." (40)
+
+Interessement
+-------------
+"Interessement ist das zweite Moment des Übersetzungsprozesses. [...] Die Akteure werden in einem neuen Netzwerk eingebunden, alte Netzwerke verwschieben sich oder werden ersetzt." (40)
+
+Enrolment
+---------
+"Es binden sich nicht nur die überseztenden Akteure ein, das Netzwerk funktioniert nur dann, wenn der übersetzende Akteur selbst eine neue Rolle übernimmt. [...] Enrolment ist ein Transformationsprozess, der alle im Netzwerk betrifft." (41)
+
+Mobilisierung
+-------------
+"Akteure bilden Netzwerke, indem sie Vermittlungsinstanzen untereinandern derart zirkulieren lassen, dass die Positionen der Akteure im Netzwerk stabil werden. Die Vermittlungsinstanzen sind die 'Sprache' des Netzwerkes. Durch Vermittlungsinstanzen 'übersetzen' Akteure ihre Interntionen in andere Akteure. Vermittlungsinstanzen sind Vertreter, Fürsprecher, Delegierte - so wie z.B. der Pedokomparator delegiert wurde, den Boden zwischen Savanne und Urwald zu repräsentieren." (41)
+
+Fraktales Modell
+----------------
+"Die Akteur-Netzwerk-Theorie ist ein fraktales Modell, denn Netzwerke bestehen aus Akteuren, die sich selbst aus heterogenen Elementen zusammensetzen, d.h. Netzwerke sind." (43)
+
+Black-Boxes
+-----------
+"Wenn Netzwerke zu Akteuren und Akteure zu Netzwerken werden, muss der Übersetzungsprozess darauf zielen, das Funktionieren eines Akteurs in einem Netzwerk zu stabilisieren, seine Rollen zu fixieren, seine Handlungen irreversibel zu machen, kurz: Black Boxes zu konstruieren. Eine Black Box liegt vor, wenn Inputs erwartungsgemäß zu Outputs werden." (43)
