@@ -38,3 +38,11 @@ Problem und Akteur
 Sozio-Logik der Übersetzung
 ---------------------------
 "Ich schlage von, diese besondere Logik, durch die Probleme direkt mit Gruppen verbunden werden, die Sozio-Logik der Übersetzung zu nennen." (65)
+
+Sozio-Logik der Übersetzung
+---------------------------
+"Übersetzung kündigt die Notwendigkeit einiger Umwege an und weist auf die erforderlichen Veränderungen der Route hin. Das Konzept der Sozio-Logik betont, dass diese Konversionen und Routenwechsel gleichzeitig für die Probleme und die Akteure gelten." (67)
+
+Das Unanalysierte
+-----------------
+"Alles, was wir hier über die Struktur des Unanalysierten sagen müssen, ist dies: Seine Struktur ähnelt dem des Unbewussten. Es repräsentiert das, was ruhig gehalten wird, damit der Rest festgestellt werden kann." (68)
