@@ -7,6 +7,7 @@ Die Domestikation der Kammmscheln und der Fischer der St. Brieuc-Bucht
 Callon, M.:
 Einige Elemente einer Soziologie der Übersetung:
 Die Domestikation der Kammmscheln und der Fischer der St. Brieuc-Bucht
+In: Bellinger, Andrea/ Krieger, David J.:
 ANThology. Ein einführendes Handbuch zur Akteur-Netzwerk-Theorie.
 Bielefeld: 2006
 (Callon 1986)
