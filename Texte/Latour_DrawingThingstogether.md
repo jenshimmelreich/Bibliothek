@@ -58,3 +58,12 @@ Inskription
 7. Ein Aspekt dieser Neukombinationen ist die Möglichkeit, verschieden Bilder von vollkommen unterschiedlichem Ursprung und Maßstab zu überlagern. [...]
 8. Einer der wichtigsten Vorteile ist jedoch, dass die Inskription (nach etwas Reinigung) zum Bestandteil eines geschriebenen Textes gemacht werden kann. [...] Durch das Labor haben der Text und das Spektaktel der Welt am Ende denselben Charakter. [...]
 9. Der letzte Vorteil ist jedoch der größte. Der zweidimensionale Charkter von Inskriptionen erlaubt ihnen, mit der Geometrie zu verschmelzen." (285ff)
+
+Universeller Austauscher
+------------------------
+"Die Ballung von Zeichnungen in einem optische konsistenten Raum is einmal mehr der 'universelle Austauscher', der es erlaubt, Arbeit zu planen, prompt zu erledigen, zu erkennen und Verantwortlickeit zuzuweisen." (295)
+
+Büro
+----
+"Ein Büro ist - in vielen Hinsichten und mit jedem Jahr zunehmend - ein kleines Laboratorion, indem viele Elemente miteinander verbunden werdenn können, weil ihr Maßstab und ihre Natur angeglichen wurden: juristische Texte, Spezifikationen, Standards, Gehaltslisten, Landkarten, Untersuchungen ([...])." (296)
+
