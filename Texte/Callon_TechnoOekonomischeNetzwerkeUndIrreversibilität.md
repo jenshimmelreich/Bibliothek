@@ -98,4 +98,30 @@ Erfolgreiche Übersetzung
 ------------------------
 "Ein Übersetzungsprozess, der allgemein akzeptiert wird, tendiert jedoch dazu, seine Geschichte abzulegen. Er wird offensichtlich und damit zu einer Angelegenheit, der jeder zustimmen kann. [...] Ein erfolgreicher Übersetzungsprozess generiert auf diese Weise einen mit anderen geteilten Raum, Äquivalenz und Kommensurabilität; er gruppiert." (325)
 
+Koordination
+------------
+"Ich sprechen von schwacher Koordination, wenn ich ein Netzwerk charakterisieren möchte, welches keine ausdrücklich lokalen Regeln hat. Umgekehrt spreche ich von starker Koordination, wenn ich mich auf ein von sowohl lokalen als auch allgemeinen Regeln geformtes Netzwerk beziehe. Im Vergleich zum Ersteren ist das Universum des Letzteren bezüglich möglicher Übersetzungsprozesse relativ eingeschränkt und das Verhalten des Netzwerkes relativ vorausehbar." (329)
 
+Konvergenz
+----------
+"Ich werde den Begriff 'Konvergenz' verwenden, um mich auf eine Kombination von Gruppierung und Koordination zu beziehen." (329)
+
+Grenze eines Netzwerkes
+-----------------------
+"Die Grenze eines Netzwerkes kann mit seinem Konvergenzpegel in Beziehung gesetzt werden. Dementsprechzend möchte ich vorschlagen, dass ein Element als außerhalb eines Netzwerkes gelegen betrachtet werden muss, wenn es bei Einbezug ins Netzwerk dessen Gruppierung und Koordinierung, d.h. seine Konvergenz, schwächen würde." (330)
+
+Normalisierung
+--------------
+"Normalisierung macht eine Serie von Verbindungen voraussehbar, grenzt Schwankungen ein, gruppiert Akteure und Vermittler und reduziert die Zahl der Übersetzungen sowie die Menge an Informatiuon, die in Umlauf gesetzt wird. Sie arbeitet, indem sie Schnittstellen standardisiert, d.h. indem sie Akteure und Vermittler standardisiert und begrenzt." (333)
+
+Wenig konvergent Netzwerke
+--------------------------
+"Je weniger konvergent ein Netzwerk ist, desto weniger wird es irreversibel gemacht und desto mehr können die Akteure, die es komponieren, bezüglich ihrer Konzepte wie Strategie, Verhandlung und Abwandlung von Zielen, Projektrevisionen sowie Koalitionsänderungen verstanden werden. Unter solchen Umständen muss die Analyse mit den Akteuren beginnen und ihre fluktuierenden Interaktionen auswerten. Die Spur ist immer heiß." (336)
+
+Konvergente Netzwerke
+---------------------
+"Das andere Extrem bilden völlig konvergente und irreversibel gemachte Netzwerke, in denen die Akteure zu Agenten mit genauen Zielen und Instrumenten für das Einführen von Hierarchien, Berechnen von Kosten und Messen von Einküften werden. Die Spur ist kalt und die Geschicht ist karg. Die Zustände der Welt, d.h. die Zustände des Netzwerkes sind jederzeit für jeden Punkt bekannt. Die von der in den Vermittlern inskribierten Übersetzung gelieferte Information ist perfekt (das Netzwerk ist bekannt und voraussehbar), jedoch beschränkt (sie geht nicht über das betrachtete Netzwerk hinaus)." (336)
+
+Beschreibung und Erklärung
+--------------------------
+"Aber der Gegensatz zwischen Beschreibung und Erklärung wird größtenteils von der Methode unterhöhlt, die ich vorgeschlagen habe. Je konvergenter und weniger reversibel ein Netzwerk ist, desto mehr geraten die von den Vermittlern gelieferten Beschreibungen zu Erklärungen oder Voraussagen. Das Verlangen nach Erklärung geht daovn aus, dass eine Netzwerkevolution mit Hilfe einer kleine Anzahl von Variablen oder Konzepten beschrieben werden kann." (337)
