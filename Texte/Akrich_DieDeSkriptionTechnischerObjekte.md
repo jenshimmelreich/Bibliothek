@@ -1,48 +1,34 @@
-Madleine Akrich & Bruno Latour
+Madleine Akrich
 
-Zusammenfassung einer zweckmäßigen Terminologoie
-für die Semiotik menschlicher und nicht-menschlicher Konstellationen
-====================================================================
+Die De-Skription technischer Objekte
+====================================
 
-Akrich, M./Latour, B.
-Zusammenfassung einer zweckmäßigen Terminologoie
-für die Semiotik menschlicher und nicht-menschlicher Konstellationen
+Akrich, M:
+Die De-Skription technischer Objekte
 ANThology. Ein einführendes Handbuch zur Akteur-Netzwerk-Theorie.
 Bielefeld: 2006
-(Akrich 1992)
+(Akrich 1992b)
 
-Setting (Dispositif)
---------------------
-"[...] das Objekt der Analyse wird 'Setting' oder 'Setup' (in Französische 'dispositiv') genannt." (399)
+Inskribieren - Skript
+---------------------
+"Ein großer Teil der Arbeit von Inovatioren ist der des 'Inskribierens' dieser Vision der Welt (oder der Verhersage darüber) in den technische Inhalt des neuen Objekts. Ich nenne das Endprodukt dieser Arbeit ein 'Skript' oder ein 'Szenario'." (411)
 
-Aktant, Akteur
---------------
-"Aktant (actant): Was immer agiert oder Handlungen verlagert, wobei Handlung selbst definiert wird als eine Reihe von Performanzen gegenüber Herausforderungen und Prüfungen. Von diesen Performanzen wird eine Reihe von Kompetenzen abgeleitet, mit denen der Aktant ausgestattet ist; der Fusionspunkt eines Metalls ist eine Prüfung, durch die die Stärke einer Legierung definiert wird; der Bankrott einer Firma ist eine Prüfung, durch die die Treue eines Verbündeten definiert werden kann; ein Akteur ist ein Aktant, der mit einem Charakter ausgestattet ist (mormalerweise anthropomroph)." (399f)
+Skript
+------
+"Also definieren technische Objekte wie ein Filmskript den Rahmen einer Handlung zusammen mit den Akteuren und dem Raum, in dem sie agieren sollen." (411)
 
-Deskription, Inskription
-------------------------
-"Skript, Deskription, Inskription oder Transkription (script, description, inscription, transcription): Das Ziel der wissenschaftlichen schriftlichen Analyse eines Settings ist es, den Text von dem, wie die verschiedenen Akteure innerhalb der Settings miteinander reagieren und aufeinander einwirken, auf Papier zu bringen. Die De-Skription, gewöhnlich durch einen Analytiker, ist die der In-Skription durch den Ingenieur, Erfinder, Hersteller oder Designer entgegengesetzte Bewegung. [...] Die De-Skription ist nur möglich, wenn ein außergewöhnlicher Ereignis - eine Krise - die Richtung der Übersetzung von Dingen zurück zu Worten modifiziert und dem Analytiker erlaubt, die Bewegung von Worten zu Dingen nachzuzeichen." (400)
+Designer - Benutzer
+-------------------
+"Wenn wir also an technischen Objekten und nicht an Chimären interessiert sind, können wir methodologisch nicht allein mit der Sichtweise des Designers oder des Benutzers zufriedern sein. Stattdessen müssen wir kontinuierlich zwischen dem Designer und dem Benutzer, zwischen dem vom Designer projizierten Benutzer und dem wirklichen Benutzer, zwischen der im Objekt inskribierten Welt und der durch deren Verschiebung beschriebenen Welt hin- und zurückgehen." (412)
 
-Präskription, Gewährung (affordance)
-------------------------------------
-"Präskription (prescription), Proskription (proscription), Gewährungen (affordances), Erlaubnisse (allowances): Was eine Vorgabe den Aktanten - menschlichen oder nicht-menschlichen -, die es antizipiert, erlaubt oder verbietet. Es ist die Moralität eines Settings sowohl in negativer (was es vorschreibt) als auch in positiver Hinsicht (was es gestattet)." (401)
+Netzwerk der technische Objekts
+-------------------------------
+"Die Erforschung der Lichtanlage (oder jedes anderen technischen Objekts) ermöglicht uns, die 'Soziologie' des Netzwerkes zu schaffen, das von seiner Zirkulation definiert wird." (413)
 
-Subskription, De-Inskription
-----------------------------
-"Subskription (subscription) oder das Gegenteil, De-Inskription (de-inscription): Die Reaktion der antizipierten Aktanten - der menschlichen und der nicht-mesnschlichen - auf das, was ihnen vorgeschrieben, und das, was ihnen untersagt wird. [...] Die Kluft zwischen den Vorschriften (Präskriptionen) und den Unterordnungen (Subskriptionen) definiert die An- oder Abwesenheit einer Krise, die eine Beschreibung des Settings erlaubt." (401f)
+Sichtbarkeit der Präskription
+-----------------------------
+"Wären die Benutzer wirklich so fügsam gewesen, wie die Designer beabsichtigen, hätte ich nicht gesehen, dass die Anlage eine große Reihe von technisch delegierten Präskriptionen repräsentierte, die von den Entwicklern an den Benutzer gerichtet waren." (415)
 
-Prä-Inskription
----------------
-"Prä-Inskription (pre-inscription): Die Kompetenzen, die von Akteuren erwartet werden können, bevor sie am Setting eintreffen, und die notwendig sind, um die Krise zwischen Präskription und Subskription aufzulösen." (401)
-
-Asktiption
-----------
-"Askription (ascription): Der Zuschreibungsprozess, durch den der Ursprung der Aktivität des Settings letztlich im Setting selbst entschieden wird; sie ist kein primärer Mechnismus wie all die anderen, sondern ein sekundärer; [...]" (403)
-
-Designer, Autor
----------------
-"Wer oder was der Designer eines Settings ist, ist das Resultat eines Askriptions- oder Zuschreibungsprozesses. Dieser Ursprung aber kann in vielen Formen im Setting selbst inskribiert sein - Warenzeichen, Unterschriften, Rechtsgrundlagen, Beweise, dass Standards erfüllt werden oder allgemeiner: was die Industrie 'Rückverfolgbarkeit' nennt." (403f)
-
-UND - ODER
-----------
-"UND (syntagmatisch, Assoziation; Allianzen); ODER (paradigmatisch, Substitution, Übersetzung): Die zwei fundamentalen Dimensionen, um der Reinskription eines Settings zu folgen; daher ihre Dynamik oder Geschichte; [...]" (404)
+Aufbau technischer Objekte
+--------------------------
+"Im Nachhinein werden die Prozesse verdeckt, die am Aufbau technischer Objekte beteiligt waren. Die kausalen Verbindungen, die sie etablierten, werden naturalisiert. Es gab - oder zumindest scheint es so - niemals die Möglichkeit, dass es anders hätte sien können." (427)
