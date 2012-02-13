@@ -34,3 +34,15 @@ Subskription, De-Inskription
 Prä-Inskription
 ---------------
 "Prä-Inskription (pre-inscription): Die Kompetenzen, die von Akteuren erwartet werden können, bevor sie am Setting eintreffen, und die notwendig sind, um die Krise zwischen Präskription und Subskription aufzulösen." (401)
+
+Asktiption
+----------
+"Askription (ascription): Der Zuschreibungsprozess, durch den der Ursprung der Aktivität des Settings letztlich im Setting selbst entschieden wird; sie ist kein primärer Mechnismus wie all die anderen, sondern ein sekundärer; [...]" (403)
+
+Designer, Autor
+---------------
+"Wer oder was der Designer eines Settings ist, ist das Resultat eines Askriptions- oder Zuschreibungsprozesses. Dieser Ursprung aber kann in vielen Formen im Setting selbst inskribiert sein - Warenzeichen, Unterschriften, Rechtsgrundlagen, Beweise, dass Standards erfüllt werden oder allgemeiner: was die Industrie 'Rückverfolgbarkeit' nennt." (403f)
+
+UND - ODER
+----------
+"UND (syntagmatisch, Assoziation; Allianzen); ODER (paradigmatisch, Substitution, Übersetzung): Die zwei fundamentalen Dimensionen, um der Reinskription eines Settings zu folgen; daher ihre Dynamik oder Geschichte; [...]" (404)
