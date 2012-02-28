@@ -24,4 +24,25 @@ Bielefeld: 2006
 "Weshalb ist es so schwierig, die vermittelnde Rolle der Technik mit einiger Präzision einzuschätzen? Weil die HAndlung, die wir einzuschätzen versuchen, dem 'Blackboxing' unterliegt, einem Prozess, der die vereinte Produktion von Akteuren und Artefakten völlig undurchsichtig macht." (491)
 
 ## Techniken - Diskurse
-"Bis zu diesem Punkt habe ich die Bezeichnugen Erzählung und Handlungsprogramm, Ziel und Funktion, Übersetzung und Interesse, menschlich und nicht-menschlich verwendet, als wären Techniken zuverlässige Bewohner der Welt des Diskurses. Aber Techniken modifizieren die Materie unseres Ausdrucks, nicht nur seine Form. Techniken haben Bedeutung, aber sie erzeugen Bedeutung über einen speziellen Typ von Artikulation, der die Grenzen des allgemeinen Verständnisses zwischen Zeichen und Dingen überschreitet." (494f)
+"Bis zu diesem Punkt habe ich die Bezeichnugen Erzählung und Handlungsprogramm, Ziel und Funktion, Übersetzung und Interesse, menschlich und nicht-menschlich verwendet, als wären Techniken zuverlässige Bewohner der Welt des Diskurses. Aber Techniken modifizieren die Materie unseres Ausdrucks, nicht nur seine Form. Techniken haben Bedeutung, aber sie erzeugen Bedeutung über einen speziellen Typ von Artikulation, der die Grenzen des allgemeinen Verständnisses zwischen Zeichen und Dingen überschreitet." (493f)
+
+## Veränderung der Ausdrucksmaterie
+"In diesem Kontext sollte der Begriff des Umwegs, der Übersetzung, nicht nur modifiziert werden (wie bei den voausausgegengenen Beispielen), um die Verschiebung in der Definition von Zielen und Funktionen, sondern auch eine Veränderung in der tatsächlichen Ausdrucksmaterie zu umfassen. Das Handlungsprogramm der Ingenieure ('Veranlasse Fahrer dazu, auf dem Campus zu verlangsamen') ist nun in Beton inskribiert. Statt 'inskribiert' hätte ich auch 'objektiviert', 'verdinglicht', 'realisiert', 'materialisiert' oder 'eingraviert' sagen können, aber alle diese Worte implizieren einen übermächtigen menschliche Agenten, der formloser Materie seien Willen aufzwingt, während Nicht-Menschen ebenfalls handeln, Ziele ersetzen und zu deren Neudefinition beitragen." (494)
+
+## Objekt - Akteur
+"Die Kopräsenz von Sprecher und Empfänger ist mit dem Bezugsrahmen zusammengebrochen. Ein Objekt vertritt einen Aktuer und schafft eine Asymmetrie zwischen den abwesenden Schöpfern und gelegentlichen Verwendern. [...] Es ist nicht wie in der Fiktion, dass ich hier bin und woanders, dass ich ich selbst und jemand anderer bin, sondern dass eine lang vergangene Handlung eines lang verschwundenen Akteurs hier noch aktiv ist, heute, an mir - ich lebe inmitten von technische Delegierten." (496)
+
+## Technische Übersetzung
+"Die Bodenschwelle ist letztlich nicht aus Materie gemacht; sie ist voller Ingenieure, Rektoren und Gesetzgeber, die ihr Wollen und ihre Erzählungen mit denen von Kies, Beton, Farbe und Standardberechnungen mischen. Die Vermittlung, die technische Übersetzung, die ich zu verstehen versuche, ruht auf dem blinden Fleck, wo Gesellschaft und Materie ihre Eigenschaften austauschen.[...] Ich kämpfe um die Zone zu erreichen, wo einige, wenn auch nicht alle, der Eigenschaften des Betons zu Polizisten, und einige, wenn auch nicht alle, Eigenschaften von Polizisten zu Bodenschwellen werden." (497)
+
+## Intentionalität
+"Zweckgerichtetes Handeln und Intentionalität mögen nicht Eigenschaften von Objekten sein, aber sie sind auch keine Eigenschaften von Menschen. Sie sind die Eigenschaften von Institutionen, von Dispositiven (dispositifs). [...] 'Boeing 747' fliegen nicht, Fluggesellschaften fliegen." (503)
+
+## Projekt
+"Wenn man ein Projekt betrachtet, bevor es ein Objekt ist,sieht man nicht nur die Personen, die es bewohnen, sondern auch die Übersetzungen, die sie bewirken wolen: fünf Sprecher, fünf Versionen von 'Aramis', die in einem maßstabgetreuen Modell zusammenlaufen, dessen Aufgabe es ist, ihre Ideen über das politisch Wertvolle, technische Umsetzbare, Effiziente, Zweckdienliche und Profitable zu versöhnen." (507)
+
+## Gesellschaft
+"Gesellschaft ist das Ergebnis lokaler Konstruktion, aber wir sind auf der Baustelle nicht allein, da wir dort auch die vielen Nicht-Menschen mobilisieren, durch die die Ordnung von Raum und Zeit umgebildet worden ist." (510)
+
+## Technische Vermittlung
+"Was haben menschliche Kollektive, was diese sozial komplexen Paviane nicht besitzen? Technische Vermittlung - die wir nun zusammenfassen können: Technische Handlung ist eine Form von Delegation, die uns erlaubt, während Interaktionen anderswo, früher, von anderen Aktanten gemachte Schritte zu mobilisieren." (512)
