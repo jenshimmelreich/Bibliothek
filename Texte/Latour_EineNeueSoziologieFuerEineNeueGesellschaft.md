@@ -9,6 +9,9 @@ Einführung in die Akteur-Netzwerk-Theorie
 Frankfurt am Main: 2010
 (Latour 2010)
 
+## Einleitung:
+## Wie kann man die Aufgabe wiederaufnehmen, den Spuren der Assoziationen zu folgen?
+
 ## Soziale
 "Im vorliegenden Werk will ich aufzeigen, wieso das Soziale nicht als eine Art von Mateial oder Sphäre aufgefaßt werden kann, und bestreiten, daß sich eine 'sozial Erklärung' irgendeines anderen Sachverhalts liefern läßt." (10)
 
