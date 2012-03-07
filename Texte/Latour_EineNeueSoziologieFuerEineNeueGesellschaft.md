@@ -50,3 +50,18 @@ Frankfurt am Main: 2010
 
 ## Definition von Gruppen
 "Für jede zu definierende Gruppe wird dementsprechend eine Liste von Anti-Gruppen aufgestellt. Das ist recht angenehm für Beobachter, denn es bedeutet, daß die Akteure ständig mit der Kartographierung des 'sozialen Kontexts' beschäftigt sind, in den sie gestellt sind, und sie so dem Analytiker eine ausgewachsene Theorie darüber anbieten, mit welcher Art von Sozilogie sie zu behandeln seien." (59)
+
+## Untersuchung von Gruppen
+"Für die Soziologen der Assoziationen ist jegliche Untersuchung jeglicher Gruppe durch jegliche Sozialwissenschaftler Teil und Posten dessen, was die Gruppe existieren, dauern, zerfallen oder verschwinden läßt." (61)
+
+## Ostensive und performative Definition von Gruppen
+"Was wir verloren haben - eine festehende Liste von Gruppen -, haben wir anderswo wieder hinzugewonnen, denn Gruppierungen müssen ständig gebildet oder neu gebildet werden, und während dieser Schöpfung oder Neuschöpfung hinterlassen die Gruppenbildner viele Spruen, die der Analytiker als Daten verwenden kann. Dieser Unterschied läßt sich beispielsweise dadurch kennzeichnen, daß soziale Aggreagete nicht Gegenstand einer ostensiven Definition sind - wie Tassen und Katzen und Stühle, auf die wir mit dem Zeigefingen deuten können -, sondern nur einer performativen Definition." (62)
+
+## Ostensive versus perfomative Definition
+"Das Problem bei jeder ostensiven Definition des Sozialen ist, daß anscheinend keine zusätzliche Anstrengung nötig ist, um die Gruppen in Existenz zu halten,, und der Einfluß des Analytikers unerheblich bleibt - oder bloß als störender Faktor gilt, der zu minimieren ist. Der große Nutzen einer performativen Definition liegt darin, daß sie in die entgegengesetzte Richtung weist: Sie lenkt die Aufmerksamkeit auf die erforderlichen Mittel, um die Gruppen unablässig aufrechtzuerhalten, und auf den entscheidenden Beitrag, der durch die spezifischen Ressourcen des Analytikers geliefert wird." (64)
+
+## Zwischenglied - Mittler
+"Ein Zwischenglied ist in meinem Vokabular etwas, das Bedeutung oder Kraft ohne Transformation transportiert: Mit seinem Input ist auch sein Output definiert. [...] Mittler übersetzen, entstellen, modifizieren und transformieren die Bedeutung oder die Elemente, die sie übermittlen sollen." (70)
+
+## Mittler und Zwischenglieder
+"Die Soziologen des Sozialen glauben an einen Typ sozialer Aggregate, an wenige Mittler und viele Zwischenglieder; für die ANT git es keinen bevorzugten Typ sozialer Aggregate, eine endlose Zahl von Mittlern, und wenn diese in getreue Zwischenglieder verwandelt werden, so bildet das nicht die Regel, sondern eine seltene Ausnahme, die durch irgendeine zusätzliche Arbeit erklärt werden muß - gewöhnlich durch die Mobilisierung von noch mehr Mittlern!" (72)
