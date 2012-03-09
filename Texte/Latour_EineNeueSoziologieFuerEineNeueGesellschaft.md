@@ -65,3 +65,40 @@ Frankfurt am Main: 2010
 
 ## Mittler und Zwischenglieder
 "Die Soziologen des Sozialen glauben an einen Typ sozialer Aggregate, an wenige Mittler und viele Zwischenglieder; für die ANT git es keinen bevorzugten Typ sozialer Aggregate, eine endlose Zahl von Mittlern, und wenn diese in getreue Zwischenglieder verwandelt werden, so bildet das nicht die Regel, sondern eine seltene Ausnahme, die durch irgendeine zusätzliche Arbeit erklärt werden muß - gewöhnlich durch die Mobilisierung von noch mehr Mittlern!" (72)
+
+
+## Zweite Quelle der Unbestimmheit:
+## Handeln wird aufgehoben
+
+## Handeln
+"Handeln ist nicht transparent, es steht nicht unter der vollen Kontrolle des Bewußtseins. Diese altehrwürdige Quelle der Unbestimmtheit ist es, die wir mit dem seltsamen Ausdruck Akteur-Netzwerk wieder lebendig machen wollten: Handeln ist ein Knoten, eine Schlinge, ein Konglomerat aus vielen überraschenden Handlungsquellen, die man eine nach der anderen zu entwirren lernen muß." (77)
+
+## Agency
+"[Das Wort agency ist in der Tat auch ins Deutsche nicht adäquat durch einen einzigen Begriff zu übertragen. Während es klassischerweise als 'Handeln' und 'Handlung' übersetzt wird (aber auch mit 'Kraft', 'Wirkmächtigkeit' oder 'Wirksamkeit'), geht die neuere wichtige Nuance des verteilbaren Handlungspotentials und verschiedener, auch nicht-menschlicher Handlungsträger dabei verloren. [...] Dort [in der französischen Übersetzung] finden wir etwa forme d'existence (Existenzform), mode d'existence (Existenzweise, -modes, Seinsweise, Existenzform), entité (Entität), actant (Aktant), agent (Agent, Handlungsträger), agence (Agentur, als Pendant zu agency), wobei forme d'existence am häufigsten vorkommt. Neben der von dort entlehnten 'Existenform' habe ich 'Handlungsträger' bevorzugt verwendet, sofern möglich, da sich 'Handlungsträgerschaft' nicht nur wegen seiner Schwerfälligkeit verbietet. A.d.Ü]" (79)
+
+## Handeln
+"Damit die Sozialwissenschaften ihre anfängliche Energie wiedergewinnen, ist es entscheidend, gerade nicht die verschieden Existenformen, die das Handeln tragen in eine Art von allgemeienm Handlungsträger zusammenzuschmelzen - 'Gesellschaft', 'Kultur', 'Struktur', 'Felder', 'Individuen' oder welchen Namen auch immer man ihm gibt -, der selbst sozial wäre. Handeln sollte eine Überraschung bleiben, eine Vermittlung, eine Ereignis. Daher sollten wir auch hier wieder nicht von der 'Determination des Handelns durch die Gesellschaft', den 'kalkulierenden Fähigkeiten der Individuen' oder der 'Macht des Unbewußten' ausgehen, wie wir es üblicherweise tun, sondern davon, daß das Handeln unterdeterminiiert ist, daß es Unbestimmtheiten und Kontroversen darüber gibt, wer und was handelt, wenn 'wir' handeln - und daß es selbstverständdlich keine Möglichkeit gibt zu entscheiden, ob die Quelle der Unbestimmtheit im Analytiker oder im Akteur liegt." (80)
+
+## Akteur
+"Ein 'Akteur' in dem Bindestrich-Ausdruck Akteur-Netzwerk ist nicht der Ursprung einer Handlung, sondern das bewegliche Ziel eines riesigen Aufgebots von Entitäten, die zu ihm hin stromen." (81)
+
+## Akteur
+"Das Wort 'Akteur' zu verwenden bedeutet, daß nie klar ist, wer und was handelt, wenn wir handeln, denn kein Akteur auf der Bühne handelt allein." (81)
+
+## Akteure
+"Und doch sagte die Sängerin, daß sie ihr Leben mit ihrer Stimme teilt und daß die Stimme sie dazu bringt, bestimmte Dinge zu tun. Sind wir in der Lage, diese merkwürdige Redeweise zu respektieren oder nicht? Denn sie ist sehr präzise, sehr aufschlußreich, sehr eindrucksvoll und außerdem sehr bewegend." (85)
+
+## Kontroversen
+"Doch während es unzählige Existenzformen gibt, haben die Kontroversen über sie die nette Eigenschaft, sich selbst zu ordnen." (91)
+
+## Akteure
+"Genauso ist es meines Erachtens möglich, eine begrenzte Menge von Zugriffsmöglichkeiten vorzuschlagen, um zu verfolgen, wie die Akteure in ihren Berichten über ihre Handlungsquellen Entitäten diskreditieren oder kreditieren." (91)
+
+## Handlungsträger
+"Handlungsträger sind Teil eines Berichts; ihnen wird eine bestimmte Gestalt verliehen; sie werden von anderen konkurrierenden Handlungsträgern abghoben; und schließlich werden sie von irgendeiner Art von Handlungstheorie begleitet." (92)
+
+## Figuration
+"Figuration ist einer der technischen Termini, die ich einführen muß, um die reflexhaften Reaktionen der 'sozialen Erklärung' zu brechen, denn es ist wichtig zu begreifen, daß es sehr viel mehr Figuren und Gestalten gibt als bloß anthropomorphe. Dies ist einer der vielen Fälle, wo die Soziologie lernen muß abstrakter zu werden. Einer Entität Anonymität zu verleihen gibt ihr ebensosehr eine Gestalt, wie sie mit einem Namen, einer Nase, eine Stimme ode einem Gesicht zu versehen." (93f)
+
+## Aktant
+"Um sich vom Einfluß der 'figurativen Soziologie' frei zu machen, wie man sie nennen könnte, verwendet die ANT den technschen Ausdruck Aktant, der aus der Literaturwissenschaft entlehnt ist. [... - ein Beispiel] Daß die erste Figuration ein strukturelles Merkmal ist, die zweite eine Körperschaft, die dritte ein Individuum, die vierte ein loses Aggregat von Individuen macht natürlich einen großen Unterschied aus für den Bericht, doch sie alle liefern verschiedene Fugurationen derselben Aktionen. [...] Die große Schwierigkeit der ANT ist es, sich nicht vom Figurationstyp beeindrucken zu lassen: Ideo- oder Techno- ode Biomorphismen sind genausogut 'Morphismen' wie die Verkörperung eines Aktanten in einem einzigen Individuum." (95)
