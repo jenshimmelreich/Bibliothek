@@ -102,3 +102,21 @@ Frankfurt am Main: 2010
 
 ## Aktant
 "Um sich vom Einfluß der 'figurativen Soziologie' frei zu machen, wie man sie nennen könnte, verwendet die ANT den technschen Ausdruck Aktant, der aus der Literaturwissenschaft entlehnt ist. [... - ein Beispiel] Daß die erste Figuration ein strukturelles Merkmal ist, die zweite eine Körperschaft, die dritte ein Individuum, die vierte ein loses Aggregat von Individuen macht natürlich einen großen Unterschied aus für den Bericht, doch sie alle liefern verschiedene Fugurationen derselben Aktionen. [...] Die große Schwierigkeit der ANT ist es, sich nicht vom Figurationstyp beeindrucken zu lassen: Ideo- oder Techno- ode Biomorphismen sind genausogut 'Morphismen' wie die Verkörperung eines Aktanten in einem einzigen Individuum." (95)
+
+## Handlungshteorien
+"Viertens sind Akteure ebenfalls in der Lage, ihre eigenen Handlungsthreorien vorzuschlagen, um zu erklären, wie die Handlungsträger ihrer Wirkungen entfalten." (100)
+
+## Handlungstheorie
+"Für das Folgende ist es grundlegend, daß dieser Unterschied quer durch alle Existenzformen verläuft, ganz gleich, welches ihre Figuration ist. Ein sogenanntes 'kaltes und anonymes Kräftefeld' kann in den Bericht als Mittler eingegen, während eine nahestehende, individuelle, 'lebendige', 'erlebte' intentionale Person als bloßes Zwischenglied dargestellt werden kann. Mit anderen Worten: Aus der Wahl einer bestimmten Figuration läßt sich schlecht voraussagen, welche Handlungstheorie herangezogen werden wird. Was zählt, ist nicht der Typ der Figuren, sondern das Spektrum von Mittlern, die man sich entfalten läßt." (101)
+
+## Mittlern
+"Bei Mittlern ist die Situation eine andere: Aus Ursachen lassen sich keine Wirkungen deduzieren, sie stellen bloß Gelegenheiten, Umstände und Präzedenzfälle bereit." (102)
+
+## Schlüsselfrage der Sozialwissenschaften
+"Daher besteht die Schlüsselfrage für eine Sozialwissenschaft darin zu entscheiden, ob sie versucht, aus einigen wenigen Ursachen möglichest viele Wirkungen abzuleiten, die 'potentiell' bereits da waren, oder ob sie versucht, möglicht viele Ursachen durch eine Reihe von Akteuren zu ersetzen - das ist die technische Bedeutung, die das Wort 'Netzwerk' später annehmen wird." (104)
+
+## Ursache - Wirkung
+"'Meine Marionetten suggerieren mir machnmal, Dinge zu tun, auf die ich selbst nie gekommen wäre.' Wenn eine Kraft eine andere manipuliert, so bedeutet das nicht, daß sie eine Ursache ist, die Wirkungen hervorbringt; sie kann ebenfalls eine Gelegenheit für andere Dinge sein, anzufanden zu agieren." (104)
+
+## Metaphysik
+"Entweder bleiben wir bei den Analytikern, die nur über eine einzige ausgearbeitete Metaphysik verfügen, oder wir 'folgen den Akteuren', die mit mehr als einer zurechtkommen. Konkretheit erreicht man nicht dadurch, daß man hinsichtlich der Akteure eine Figuration gegenüber einer anderen bevorzugt, sondern dadurch, daß in den Berichten der relative Anteil der Mittler gegenüber den Zwischengliedern zunimmt. An diesem Verhältnis wird man im Grunde immer eine gute soziologische ANT-Untersuchung erkennen." (107)
