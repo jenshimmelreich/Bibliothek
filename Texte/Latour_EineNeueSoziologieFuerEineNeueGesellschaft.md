@@ -120,3 +120,36 @@ Frankfurt am Main: 2010
 
 ## Metaphysik
 "Entweder bleiben wir bei den Analytikern, die nur über eine einzige ausgearbeitete Metaphysik verfügen, oder wir 'folgen den Akteuren', die mit mehr als einer zurechtkommen. Konkretheit erreicht man nicht dadurch, daß man hinsichtlich der Akteure eine Figuration gegenüber einer anderen bevorzugt, sondern dadurch, daß in den Berichten der relative Anteil der Mittler gegenüber den Zwischengliedern zunimmt. An diesem Verhältnis wird man im Grunde immer eine gute soziologische ANT-Untersuchung erkennen." (107)
+
+## Dritte Quelle der Unbestimmtheit:
+## Welche Aktion fpr welche Objekte?
+
+## Action - Handlung
+"[Wie schon im Vorigen wurde auch hier action mit Handeln, Handlung und Aktion übersetzt, to act mit handeln, tun und agieren. Wird action stringent mit 'Handeln' übersetzt, dann handeln provokanterweise auch Dinge. Da Latour den emphatischen intentionalen Handlungsbegriff der traditionellen Soziologie kritisiert und somit auch nicht auf Dinge übertragen will, scheint mir eine uneinheitliche und differenziertere Übersetzung, die Objekte in der regel 'nur' agieren oder Tätigkeiten verrichten läßt, angemessen. A. d. Ü.]" (109)
+
+## Sozial
+"Also bezeichnet 'sozial' für die ANT einen besonderen Typ von Assoziationen zwischen bislang 'unassoziierten' Kräften." (112)
+
+## Soziale Nr. 2
+"Das eine sind die lokalen, nackten, dynamischen, ausrüstungslosen face-to-face-Interaktionen - die ich von nun an als 'Soziales Nr. 3' bezeichnen will;" (112)
+
+## Ausdehnung, Dauer des Sozialen Nr. 3
+"Der Hauptvorteil, wenn  man den Begriff der sozialen Kraft - Soziales Nr. 1 - auflöst und ihn durch kurzlebige Interaktionen ersetzt - Soziales Nr. 3 -, besteht darin, daß jedesmal, wenn wir die Ausdehnung einer beliebigen Interaktion in der Zeit und im Raum erklären wollen, wir die praktische Mittel für diese Ausgehnung aufspüren müssen." (114)
+
+## Ausdehnung sozialer Ferigkeiten
+"Beachtet man nicht sorgfältig den Unterschied zwischen den elementaren sozialen Fertigkeiten und den zu ihrer Ausdehnung mobilisierten nicht sozialen Mitteln, dann laufen die Analytiker Gefahr zu glauben, die Anführung sozialer Kräfte liefere bereits eine Erklärung." (115)
+
+## Dauer und Dinge
+"In der Praxis sind es stets Dinge - und ich meine das letzte Wort jetzt buchstäblich -, die ihre 'stählerne' Eigenschaft der fragilen 'Gesellschaft' leihen." (117)
+
+## Den Akteuren folgen
+"Der Slogan 'Den Akteuren folgen' wird dann zu: 'Den Akteuren folgen, wenn sie sich ihren Weg durch die Dinge bahnen, die sie den sozialen Fertigkeiten hinzugefügt haben, um die ständig sich verschiebenden Interaktionen dauerhafter zu machen." (118)
+
+## Macht und Dauer
+"Macht kann nur mit Hilfe jener Macht dauern und sich ausdehnen, die durch Entitäten ausgeübt wird, die nicht schlafen, und durch Assoziationen, die sich nicht auflösen; doch dazu müssen sehr viel mehr Materialien als soziale Pakte eingesetzt werden." (121)
+
+## Rolle für Objekte
+"Sobald man beginnt, Zweifel an der Fähigkeit sozialer Bindungen zu hegen, sich von selbst dauerhaft auszudehnen, läßt sich eine plausible Rolle für Objekte erkennen." (121)
+
+## Akteur, Aktant
+"Wenn wir dagegen bei unserer Entscheidung bleiben, von den Kontroversen um Akteure und Handlungsquellen auszugeben, dann ist jedes Ding, das eine gegebene Situation verändert, indem es einen Unterschied macht, ein Akteur - oder, wenn es noch keine Figuration hat, eine Aktant. Daher sind die hinsichtlich jeglichem Handlungsträger zu stellenden Fragen einfach die folgenden: Macht er einen Unterschied im Verlauf der Handlung irgendeines anderen Handlungsträgers oder nicht? Gibt es irgendeine Probe, einen Versuch, der es jemandem erlaubt, diesen Unterschied zu ermittlen?" (123)
