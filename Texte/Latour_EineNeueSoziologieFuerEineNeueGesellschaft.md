@@ -153,3 +153,9 @@ Frankfurt am Main: 2010
 
 ## Akteur, Aktant
 "Wenn wir dagegen bei unserer Entscheidung bleiben, von den Kontroversen um Akteure und Handlungsquellen auszugeben, dann ist jedes Ding, das eine gegebene Situation verändert, indem es einen Unterschied macht, ein Akteur - oder, wenn es noch keine Figuration hat, eine Aktant. Daher sind die hinsichtlich jeglichem Handlungsträger zu stellenden Fragen einfach die folgenden: Macht er einen Unterschied im Verlauf der Handlung irgendeines anderen Handlungsträgers oder nicht? Gibt es irgendeine Probe, einen Versuch, der es jemandem erlaubt, diesen Unterschied zu ermittlen?" (123)
+
+## Affordance - Metaphysik des Handelns
+"Sondern es bedeutet, daß zwischen voller Kausalität und schierer Inexistenz viele metaphysische Schattierungen existieren können. Außer zu 'determinieren' und als bloßer 'Hintergrund für menschliche Handeln' zu dienen, könnten Dinge vielleicht ermächtigen, ermöglichen, anbieten, ermutigen, erlauben, nahelegen, beeinflussen, verhindern, autorisieren, ausschließen und so fort.^[Hier hat sich der Begriff des 'Angebots' (affordance) als nützlich erwiesen, eingeführt in James J. Gobson (1982), _Wahrnehmung und Umwelt: der ökologische Ansatz in der visuellen Wahrnehmung_. Die Vielfalt der Handlungsmodi, wenn man mit Technik - harter und weicher - zu tun hat, wird wunderbar verfolgt von Lucy A. Suchman (1987), _Plans and Situated Actions_, ...]" (124)
+
+## Objekt-orientierte Soziologie
+"Wie dem auch sei, weil eine objekt-orientierte Soziologie für objekt-orientierte Menschen geschaffen wurde, wurde diese Denkrichtung überhaupt bemerkt - und ist es sinnvoll, eine Einführung in sie zu schreiben." (127)
