@@ -159,3 +159,33 @@ Frankfurt am Main: 2010
 
 ## Objekt-orientierte Soziologie
 "Wie dem auch sei, weil eine objekt-orientierte Soziologie für objekt-orientierte Menschen geschaffen wurde, wurde diese Denkrichtung überhaupt bemerkt - und ist es sinnvoll, eine Einführung in sie zu schreiben." (127)
+
+## Gesellschaft - Kollektiv
+"'Gesellschaft' werde ich nur für die Versammlung bereits zusammengebrachter Entitäten beibehalten, von denen die Soziologen des Sozialen glauben, daß sie aus sozialen Stoff bestehen. 'Kollektiv' wird dagegen das Projekt des Versammelns neuer Entitäten bezeichnen, die noch nicht zusammengebracht worden sind und von denen es daher offenkungig ist, daß sie nicht aus sozialen Stoff bestehen." (129)
+
+## Symmetrie
+"ANT ist nicht, ich wiederhole: ist nicht, die Behauptung irgendeiner absurden 'Symmetrie zwischen Menschen und nicht-menschlichen Wesen'." (131)
+
+## Symmetrie
+[Fußnote:] "Doch im Sinn hatte ich keienswegs _und_, sondern _weder - noch_: eine gleichzeitige _Auflösung beider Kollektoren_. Das letzte, was ich wollte, war, Natur und Gesellschaft mittels 'Symmetrie' eneues Leben einzuhauchen." (131)
+
+## Objekt zum Reden bringen
+"Daher mußten spezifische Tricks erfunden werden, um die Objekte  zum Reden zu bringen, das heißt Beschreibungen ihrer selbst anzubieten, Skripte von dem zu produzieren, wozu sie andere - Menschen oder Nicht-Menschen - bringen." (137)
+
+## Innovationen in der Werkstatt
+"Die erste Lösung besteht darin, Innovationen in der Werkstatt des Handwerkers zu studieren, in der Entwicklungsabteilung des Ingenieurs, [...].“ (138)
+
+## Distant als Erkenntnisinstrument
+"Zweitens: Selbst die alltäglichsten, traditionellesten und stummsten Werkzeige hören auf, für selbstverständlich gehalten zu werden, wenn sich ihnen Nutzer nähern, die durch Distnaz ungeschicht und unwissend geworden sind [...]" (139)
+
+## Pannen
+"Eine dritte Art von Gelegenheit beiten Unfälle, Defekte und Pannen [...]" (139)
+
+## Geräte zur Welt gekommen
+"Viertens: [...] künstlich, durch die Berichte der Historiker, den Krisenzustand herzustellen, in dem Maschinen, Apparate und Geräte zur Welt gekommen sind." (140)
+
+## Fiktion
+"Und schließlich, wenn alles andere scheitert, kann die Ressource der Fiktion [...] die soliden Obejkte von heute in die fluiden Zustände versetzen, in denen ihre Verknüpfungen mit Menschen vielleicht wieder Sinn machen." (141)
+
+## Handlung - Marx, Bourdieu, Goffman
+"Es wäre unglaubwürdig, wenn die Millionen von Beteiligten an unseren Handlungen nur durch drei Existenzformen, und nur drei, in die sozialen Bindugen hineingelangen dürften: als 'materielle Basis', die soziale Beziehungen 'determiniert', wie in den Marxschen Typen von Materialismus; als ein 'Spiegel', der soziale Unterschiede bloß 'reflektiert', wie bei den kritischen Soziologien Pierre Bourdieus; oder als Hintergrund für die Bühne, auf der menschliche Akteure die Hauptrollen spielen wie  in Erving Goffmans interaktionistischen Berichten." (145f)
