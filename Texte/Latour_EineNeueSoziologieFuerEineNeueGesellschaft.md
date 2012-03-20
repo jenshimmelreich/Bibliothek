@@ -189,3 +189,43 @@ Frankfurt am Main: 2010
 
 ## Handlung - Marx, Bourdieu, Goffman
 "Es wäre unglaubwürdig, wenn die Millionen von Beteiligten an unseren Handlungen nur durch drei Existenzformen, und nur drei, in die sozialen Bindugen hineingelangen dürften: als 'materielle Basis', die soziale Beziehungen 'determiniert', wie in den Marxschen Typen von Materialismus; als ein 'Spiegel', der soziale Unterschiede bloß 'reflektiert', wie bei den kritischen Soziologien Pierre Bourdieus; oder als Hintergrund für die Bühne, auf der menschliche Akteure die Hauptrollen spielen wie  in Erving Goffmans interaktionistischen Berichten." (145f)
+
+## Vierte Quelle der Unbestimmtheit
+## Unbestreitbare Tatsachen versus umstrittene Tatsachen
+
+## Soziale Erklärung
+"Ihre Reaktionen waren vielleicht übertrieben, doch sie zeigten, daß, wenn immer eine soziale Erklärung gegeben wurde, etwas sehr Trickreiches vor sich ging. Anstatt daß dadurch eine Verbindung zwischen zwei Entitäten hergestellt wurde, geschah es oft, daß die eine Entität die andere ersetzte." (172)
+
+## Grenzen sozialer Erklärung
+"Wenn die Geselllschaft die Religion erklärt, dann reicht die Gesellschaft aus. Wenn die Gesellschaft das Recht erklärt, dann reicht die Gesellschaft aus. Wenn die Gesellschaft die Wissenschaft erklärt ... 
+An diesem Punkt bricht alles zusammen. Wieso? Weil es in diesem Fall, und nur in diesem, von Anfang an für die Forscher wie für die Informanten offenkundig war, daß 'Faktoren' nicht imstande sind, eine Aktion durch ein Ereignis zu transportieren, das auf den Status eines Zwischenglieds reduziert beleibt." (182)
+
+## Sozial
+"Sozial ist nirgendwo im besonderen, als ein Ding unter anderen Dingen, sondern kann überall zirkulieren als eine Bewegung, die nicht-soziale Dinge verbindet. Zweite Etappe: das Soziale - Nr. 2 - ist wieder da als Assoziation." (186)
+
+## Akteur
+"Diese Autoren behaupten, daß ein Faktor ein Akteur in einer Verkettung von Akteuren ist und keine Ursache, auf die eine Reihe von Zwischengliedern folgt. Sobald man sich darauf einläßt, scheinen überraschenderweise die praktischen Details des jeweils vorliegenden Falles eine Erklärung des Kontextes bereitzustellen, der eigentlich jene erklären sollte." (187)
+
+## Gesellschaft
+"Wenn wir so viele Mittler nur gut genug beschrieben, gab es keinen Bedarf mehr für eine Gesellschaft, die hinter ihnen lag." (188)
+
+## Übersetzung
+"Damit nimmt das Wort 'Übersetzung' eine spezialisierte Bedeutung an: eine Relation, die nicht Kausalität transportiert, sondern zwei Mittler dazu veranlaßt zu koexistieren." (188)
+
+## Soziologie der Assoziationen
+"Ich kann nun das Ziel dieser Soziologie der Assoziationen genauer formulieren: es gibt keine Gesellschaft, keinen sozialen Bereich und keine sozialen Bindungen, sondern es existieren Übersetzungen zwischen Mittlern, die aufzeichenbare Assoziationen generieren können." (188)
+
+## Empirismus
+"Die Kartographierung wissenschaftlicher Kontroversen über umstrittene Tatsachen sollte es uns erlauben, den Schauplatz des Empirismus von Grund auf zu erneuern - und damit die große Trenung zwische 'Natürlichem' und 'Sozialem'." (199f)
+
+## Ontologie
+"Im folgenden ist 'Ontologie' dasselbe wie 'Metaphysik', mit dem einzigen Unterschied, daß man diese um die Frage der Einheit und damit der Wahrheit ergänzt hat." (203)
+
+## Tatsachen in der Herstellung
+"Die science studies bieten viele Kniffe an, um Tatsachen in der Herstellung zu verfolgen und vielfache Stätten zu finden, an denen sie noch nicht zu kalten, routinemäßigen unbestreitbaren Tatsachen geronnen sind." (207)
+
+## World Wide Web
+"Je weiter sich Wissenschaft und Technologie verbreiten, desto mehr machen sie soziale Bindungen physisch nachzeichenbar. Eine materielle Infrastruktur stellt jeden Tag mehr Beweise für ein präzises Verfolgen von Assoziationen bereit, wie jeder Blick in das World Wide Web zeigt, das damit zum World Wide Lab wird." (207)
+
+## ANT-Bericht
+"Wenn wir die Qualtitätskontrolle für einen ANT-Bericht durchführen müßten, ware sicherzustellen, daß a) keine neue Entität als unbestreitbare Tatsache eigeführt wird, sondern stets zunächst als umstrittene Tatsache; b) daß das Fortdauern der Kontroverse nicht einer Schwäche des empirischen Zugriffs oder einer faulen Form von Relativismus geschuldet ist, sondern der Komplexität der entstehenden Tatsachen; c) daß die Versammlung, die Institution oder das Instrument, die eine dauerhafte Stabilisierung gewährleisten, klar angegeben werden; und schließlich d), daß man die Verfahren genau festhält, die es erlauben, den Übergang von der Mannigfaltigkeit - was ich als Metaphysik bezeichnet habe - zu ihrer zunehmenden Vereinigung - Ontologie - zu verfolgen." (210)
