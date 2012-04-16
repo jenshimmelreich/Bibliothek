@@ -229,3 +229,17 @@ An diesem Punkt bricht alles zusammen. Wieso? Weil es in diesem Fall, und nur in
 
 ## ANT-Bericht
 "Wenn wir die Qualtitätskontrolle für einen ANT-Bericht durchführen müßten, ware sicherzustellen, daß a) keine neue Entität als unbestreitbare Tatsache eigeführt wird, sondern stets zunächst als umstrittene Tatsache; b) daß das Fortdauern der Kontroverse nicht einer Schwäche des empirischen Zugriffs oder einer faulen Form von Relativismus geschuldet ist, sondern der Komplexität der entstehenden Tatsachen; c) daß die Versammlung, die Institution oder das Instrument, die eine dauerhafte Stabilisierung gewährleisten, klar angegeben werden; und schließlich d), daß man die Verfahren genau festhält, die es erlauben, den Übergang von der Mannigfaltigkeit - was ich als Metaphysik bezeichnet habe - zu ihrer zunehmenden Vereinigung - Ontologie - zu verfolgen." (210)
+
+## Fünfte Quelle der Unbestimmtheit: Das Verfassen riskanter Berichte
+
+## Text als Mittler
+"Da uns allen bewußt ist, daß Fabrikation und Artifizialität nicht das Gegenteil von Wahrheit und Objektivität sind, zögern wir nicht, den Text selbst als Mittler hervorzuheben." (216)
+
+## Bericht als Mittler
+"Die Karrieren der Mittler sollten den ganzen Weg bis zum abschließenden Bericht verfolgt werden, denn eine Kette ist nur so stark sie ihr schwächstes Glied." (223)
+
+## Netzwerk
+"Es [ein Netzwerk] charakterisiert den Grad von dessen Obektivität, das heißt die Fähigkeit jedes Akteurs, die anderen Akteure dazu zu bringen unerwartete Dinge zu tun. Ein guter Text bringt Netzwerke von Akteuren auf den neuesten Stand, wenn er seinem Verfasser erlaubt, ein Ensembele von Beziehungen aufzuzeichen, die als ebenso viele Übersetzungen definiert sind." (224)
+
+## Netzwerk
+"Netzwerk ist ein Konzept, kein Ding da draußen. Es ist ein Werkzeig, mit dessen Hilfe etwas beschrieben werden kann, nicht das Beschriebene." (228)
