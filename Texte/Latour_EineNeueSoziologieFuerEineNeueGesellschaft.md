@@ -243,3 +243,21 @@ An diesem Punkt bricht alles zusammen. Wieso? Weil es in diesem Fall, und nur in
 
 ## Netzwerk
 "Netzwerk ist ein Konzept, kein Ding da draußen. Es ist ein Werkzeig, mit dessen Hilfe etwas beschrieben werden kann, nicht das Beschriebene." (228)
+
+## Erstes Notizbuch
+"Das erste Notizbuch sollte als Logbuch der Untersuchung selbst dienen." (232)
+
+## Zweites Notizbuch
+"Ein zweites Notizbuch sollte geführt werden, um Informationen derart zu sammeln, daß es gleichzeitug möglich ist, alle Posten chronologisch geordnet zu halten und sie in Kategorien einzuordnen, aus denen sich später zunehmend verfeinerte Dateien und Unterdateien entwickeln werden." (233)
+
+## Drittes Notizbuch
+"Ein drittes Notizbuch sollte stets zur Hand sein für Schreibversuche aus dem Stegreif." (233)
+
+## Viertes Notizbuch
+"In einem vierten Typ von Notizbuch sollte man sorgfältig die Auswirkungen des schriftlichen Berichts auf die Akteure festhalen, deren Welt entweder entfaltet oder vereinigt worden ist." (234)
+
+## Beschreibung - Erklärung
+"Eine Beschreibung, die zusätzlich noch eine Erklärung verlangt, ist eine schlechte Beschreibung. Allerdings gibt es eine Ausnahme: Das sind relativ stabile Situationen, wo einige Aktuere in der Tat die Rolle voll determinierter - und so voll 'erklärter' - Zwischenglieder spielen; in diesen einfachen Fällen genügt der traditionelle, prärelativistische Rahmen durchaus." (238)
+
+## Sozialwissenschaften
+"Es ist nicht so, als wüßten wir, die Sozialwissenschaftler, die Antwort, die irgendwo jenseits der Akteure läge, noch ist es so, daß sie, die berümten 'Akteure selbst', die Antwort kennen. Tatsache ist, daß niemand die Antworten kennt - und daher müssen diese kollektiv in Szene gesetzt, stabilisiert und revidiert werden durch jenes virtuelle Kollektiv, das nur durch energische und ständig aufgefrischte Sozialwissenschaften zusammengerufen werden kann." (241f)
