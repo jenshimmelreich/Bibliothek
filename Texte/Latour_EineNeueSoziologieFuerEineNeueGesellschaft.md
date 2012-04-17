@@ -261,3 +261,15 @@ An diesem Punkt bricht alles zusammen. Wieso? Weil es in diesem Fall, und nur in
 
 ## Sozialwissenschaften
 "Es ist nicht so, als wüßten wir, die Sozialwissenschaftler, die Antwort, die irgendwo jenseits der Akteure läge, noch ist es so, daß sie, die berümten 'Akteure selbst', die Antwort kennen. Tatsache ist, daß niemand die Antworten kennt - und daher müssen diese kollektiv in Szene gesetzt, stabilisiert und revidiert werden durch jenes virtuelle Kollektiv, das nur durch energische und ständig aufgefrischte Sozialwissenschaften zusammengerufen werden kann." (241f)
+
+## Teil II
+## Wie kann man Assoziationen wieder nachzeichenbar machen?
+
+## Gesellschaft - Soziologie
+"Um es noch eindeutiger zu formulieren: Entweder gibt es eine Gesellschaft, oder es gibt eine Soziologie." (282)
+
+## Überfließen
+"So kann man durchaus sagen, daß jede gegebene Interaktion von Bestandteilen überzufließen scheint, die bereits in der Situation vorhanden sind und aus einer anderen Zeit, von einem anderen Ort stammen und von anderen Existenzformen hervorgebracht worden sind." (288)
+
+## Drei Schritte
+"Ich werde in drei Schritten vorgehen: Zuerst werden wir das Globale wieder lokal machen, um den Automatismus zu brechen, der von der Interaktion zum 'Kontext' führt; als nächstes werden wir das Lokale neu verteilen, um zu verstehen, wieso Interaktion eine solche Abstraktion ist; und schließlich werden wir die Stätten verknüpfen, die von den ersten beiden Schritten offenfgelegt worden sind, und die verschiedenen Tansportmittel hervorheben, die das Soziale als Assoziation definiereren." (298)
