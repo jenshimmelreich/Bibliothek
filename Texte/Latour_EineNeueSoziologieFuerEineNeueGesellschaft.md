@@ -273,3 +273,32 @@ An diesem Punkt bricht alles zusammen. Wieso? Weil es in diesem Fall, und nur in
 
 ## Drei Schritte
 "Ich werde in drei Schritten vorgehen: Zuerst werden wir das Globale wieder lokal machen, um den Automatismus zu brechen, der von der Interaktion zum 'Kontext' führt; als nächstes werden wir das Lokale neu verteilen, um zu verstehen, wieso Interaktion eine solche Abstraktion ist; und schließlich werden wir die Stätten verknüpfen, die von den ersten beiden Schritten offenfgelegt worden sind, und die verschiedenen Tansportmittel hervorheben, die das Soziale als Assoziation definiereren." (298)
+
+## Erster Schritt: Das Globale lokalisieren
+
+## Verbindungen lokaler Interaktionen
+"Wir müssen kontinueriliche Verbindungen erstellen, die von einer lokalen Interaktion zu jenen anderen Orten, Zeiten und Aktanten führen durch die eine lokale Stätte dazu gebracht wird, etwas zu tun." (299)
+
+## Globales und Lokales
+"Wenn man irgendeine lokale Stätte 'innerhalb' eines größeren Rahmens situiert, ist man gezwungen, zu springen. Damit gibt es einen Abgrund zwischen dem, was einschließt, und dem, was eingeschlossen wird, zwischen dem Globaleren und dem Lokaleren. Was würde geschehen, wenn wir jeglichen Bruch und Riß verbieten würden und allein Krümmungen, Streckungen und Komprimierungen erlaubten?" (300)
+
+## Transportmittel, Transportkanal
+"Für unser Projekt ist es wichtig, daß man in einer solchen abgeflachten Topologie, wenn irgendeine Aktion von einem Ort zum nächsten transportiert werden soll, unbedingt einen  Transportkanal und ein Transportmittel braucht." (300)
+
+## Strukturelle Effekte
+"Die erste Art von Klammer, die wir befestigen wollen, ist eine, die man durch die eher naive Frage gewinnt: 'Wo werden die strukturellen Effekte tatsächlich produziert?'" (302)
+
+## Mikro - Makro
+"Unser Interesse an diesen bescheidenen Mittlen wird nicht durch irgendeinen reflexiven Drang diktiert oder durch Mißtrauen gegenüber der wirklichen Effizienz dieser Strukuren. Sondern sie bieten ganz einfach ideale Tracer an, um herauszufinden, welche Art von Verhältnis letzten Edndes zwischen dem Mikro und dem Makro besteht." (303)
+
+## Makro
+"Das Makro beschreibt nicht länger eine umfassendere oder ausgedehntere Stätte, in der das Mikro wie eine Russische Puppe eingebettet ist, sondern einen anderen, gleichfalls lokalen, gleichfalls Mikro-Ort, der mit vielen anderen durch irgendein Medium verbunden ist, das spezifische Typen von Spuren transportiert." (304)
+
+## Oligoptikum
+"Um diese erste Kategorie von Orientierungspunkten zu bezeichen, schlage ich das Wort Oligoptikum als Oberbegriff vor und reserviere den Ausdruck 'Rechenzentren' für jene Stätten, an denen buchstäbliche und nicht bloß metphorische Berechnungen durchgeführt werden, ermöglicht durch das mathematische oder zumindest arithmetische Format der dort hin- und von dort wegbeförderten Dokumente." (312)
+
+## Oligoptiken
+"Von Oligoptiken aus sind robuste, aber extrem schmale Ansichten des (verbundenen) Ganzen möglich - solange die Verbindungen halten." (313)
+
+## Oligoptiken - die Frage nach dem Wo
+"Selbst wenn die Frage zunächst recht seltsam - wenn nicht gar von schlechtem Geschmack zu zeugen - scheint: Wann immer jemand von einem 'System', einer 'globalen Eigenschaft', einer 'Struktur', einer 'Gesellschaft', einem 'Imperium', einer 'Weltwirtschaft', einer 'Organisation' spricht, sollte der erste ANT-Reflex darin bestehen zu fragen: 'In welchem Gebäude? In welchem Büro? Durch welchen Korridor erreichbar? Welchen Kollegen vorgelesen? Wie zusammengetragen?'" (316f)
