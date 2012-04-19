@@ -302,3 +302,21 @@ An diesem Punkt bricht alles zusammen. Wieso? Weil es in diesem Fall, und nur in
 
 ## Oligoptiken - die Frage nach dem Wo
 "Selbst wenn die Frage zunächst recht seltsam - wenn nicht gar von schlechtem Geschmack zu zeugen - scheint: Wann immer jemand von einem 'System', einer 'globalen Eigenschaft', einer 'Struktur', einer 'Gesellschaft', einem 'Imperium', einer 'Weltwirtschaft', einer 'Organisation' spricht, sollte der erste ANT-Reflex darin bestehen zu fragen: 'In welchem Gebäude? In welchem Büro? Durch welchen Korridor erreichbar? Welchen Kollegen vorgelesen? Wie zusammengetragen?'" (316f)
+
+## Größrnordnung
+"Das Problem ist, daß Sozialwissenschaftler die Größenordnung als eine der vielen Variabeln verwenden, die sie aufstellen, bevor sie an ihre Studie gehen, während Größenordnung etwas ist, das die Akteure durch den Transport bestimmter Spuren in bestimmten Transportmitteln leisten, indem sie sich gegenseitig skalieren, verräumlichen und kontextualisieren." (317)
+
+## Panoramen
+"Das 'Große Bild' ist nämlich nicht mehr als das: ein Bild. Dann läßt sich allerdings die Frage formulieren: In welchem Kino, in welcher Ausstellung wird es gezeigt? Durch welche optischen Hilfsmittel wird es projiziert? An welches Publikum ist es adressiert? Indem ich geradezu obsessiv solche Fragen stelle, schlage ich vor, diese neue Art von Klammer Panoramen zu nennen. [...] Die volle Kohärenz ist ihre Stärke- und ihre größte Schwäche." (323)
+
+## Programme
+"Manchmal offerieren sie [Panoramen] gänzlich neue Programme, etwa wenn ein neues Schauspiel gegeben wird mit dem Titel 'Das Ende der Geschichte', 'Der Kampf der Kulturen' oder 'Die Risikogesellschaft'. Manchmal haben sie einen wichtigen Einfluß auf die Geschichte, wenn sie eine vollständige Neuinterpretation des Zeitgeistes vorschalgen wie die Phänomenologie des Geistes oder das Kommunistische Manifest." (324)
+
+## Totalität
+"Die Sträke dieser Vorrichtungen [Panoramen] liegt darin, daß sie geschickt die Totalität in Szene setzen, das Auf und Ab ordnen, das 'Mikro', 'Meso' und 'Makro' ineinander verschachteln." (324)
+
+## Panoramen
+"Meist verrät gerade dieses Übermaß an Kohärenz die Illusion." (325)
+
+## Totalisierende Ansichten
+"Ihre totalisierenden Ansichten sollte man nicht als Akt professionellen Größenwahns verachten, sondern, wie alles andere auch, der Vielfalt der Stätten hinzufügen, die wir in unseren Untersuchungen entfalten wollen." (326)
