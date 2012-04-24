@@ -320,3 +320,29 @@ An diesem Punkt bricht alles zusammen. Wieso? Weil es in diesem Fall, und nur in
 
 ## Totalisierende Ansichten
 "Ihre totalisierenden Ansichten sollte man nicht als Akt professionellen Größenwahns verachten, sondern, wie alles andere auch, der Vielfalt der Stätten hinzufügen, die wir in unseren Untersuchungen entfalten wollen." (326)
+
+## Zweiter Schritt: das Lokale neu verteilen
+
+## Artikulatoren und Lokalisatoren
+"Denn was mit dem Ausdruck 'lokale Interaktion' bezeichnet wurde, ist die Versammlung all der anderen lokalen Interaktionen, die woanders in Zeit und Raum verteilt und dazu gebracht worden sind, durch das Relais verschiedener nicht-menschlicher Akteure auf den Schauplatz einzuwirken. Die transportierte Präsenz von Orten an andere Orte will ich als Artikulatoren oder Lokalisatioren bezeichnen." (334f)
+
+## Ontologische Stufen der Handlungsinitiation
+"Aber nur, weil kein materielles Element des Ortes eine bestimmte Handlung 'determiniert', kann noch lange nicht der Schluß gezogen werden, daß diese Elemente nichts tun. Wir sind inzwischen mit weitaus mehr ontologischen Stufen vertraut als mit den beiden albernen Extremen des Seines und des Nichts." (336)
+
+## Strukturierende Schablonen
+"Auch wenn es keine 'verborgene, zugrundeliegende Struktur' gibt, heißt das noch lange nicht, daß es keine strukturierenden Schablonen gäbe, die durch auffindbare Kanäle zirkulieren und die am offensichtlichsten in Techniken materialisiert werden - wobei Papiertechniken und, allgemeiner, intellektuelle Technologie eine genauso wichtige Rolle spielen wie Zahnräder, Hebel und chemische Bindungen." (337)
+
+## Auflösung der Grundlage des Lokalen
+"In den meisten Situationen sind Handlungen bereits von Anfang an der Interferenz von heterogenen Entitäten unterworfen, die nicht dieselbe lokale Präsenz haben, nicht aus derselben Zeit stammen, nicht gleichzeitg sichtbar sind und nicht gleich viel Druck ausüben." (348)
+
+## Struktur
+"In einer solchen abgekürzten Redeweise ist eine 'Struktur' einfach eine Akteur-Netzwerk, über das man nur spärliche Informationen hat oder dessen Beteiligte so still sind, daß keine neue Information erforderlich ist. Und eine 'Interaktion' ist eine Stätte, die so sorgfältig von sich als Zwischenglieder verhaltenden Lokalisatoren gerahmt wird, daß sie ohne allzu viele Probleme als 'lokales' Geschehen betrachtet werden kann." (348f)
+
+## Kluft der Ausführung
+"[...], es gibt immer noch eine riesigen Abstand zwischen den generischen Akteuren, die von diesen Bewegungen vorformatiert werden, und dem Handlungsverlauf, der durch voll involvierte Teilnehmer ausgeführt wird." (354)
+
+## Kluft der Ausführung
+"Um die 'Kuft der Ausführung' auszufüllen, besteht die Lösung normalerweise darin, in eine anderen Gang zu schalten und abrupt 'Subjektivität', 'Intentionalität' und 'Innenwelt' einzuführen oder zumindest auf irgendeine Art von 'mentaler Ausstattung' zurückzugreifen." (356)
+
+## Plug-ins
+"Wenn wir zu zeigen vermochten, daß glorifizierte Orte wie das Lokale und das Globale aus zirkulierenden Entitäten bestehen, warum dann nicht annehmen, daß Subjektivitäten, Rechtfertigungen, Unbewußtes und Persönlichkeiten ebenfalls zirkulieren? Und natürlich: Sobald wir diese sehr seltsame, aber unausweichliche Frage stellen, bieten sich neue Typen von Klammern an, um uns bei unserer Untersuchung zu helfen. Man könnte sie Subjektivierer, Personalisierer oder Individualisierer nennen, doch ich ziehe den neutraleren Ausdruck Plug-ins von und borge mir diese wunderbare Metapher aus unserem neuen Leben im Web aus." (357)
