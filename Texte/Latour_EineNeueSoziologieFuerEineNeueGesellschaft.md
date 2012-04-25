@@ -346,3 +346,40 @@ An diesem Punkt bricht alles zusammen. Wieso? Weil es in diesem Fall, und nur in
 
 ## Plug-ins
 "Wenn wir zu zeigen vermochten, daß glorifizierte Orte wie das Lokale und das Globale aus zirkulierenden Entitäten bestehen, warum dann nicht annehmen, daß Subjektivitäten, Rechtfertigungen, Unbewußtes und Persönlichkeiten ebenfalls zirkulieren? Und natürlich: Sobald wir diese sehr seltsame, aber unausweichliche Frage stellen, bieten sich neue Typen von Klammern an, um uns bei unserer Untersuchung zu helfen. Man könnte sie Subjektivierer, Personalisierer oder Individualisierer nennen, doch ich ziehe den neutraleren Ausdruck Plug-ins von und borge mir diese wunderbare Metapher aus unserem neuen Leben im Web aus." (357)
+
+## Vollständige menschliche Akteure
+"Sondern man bemerkt, daß, um 'vollständige' menschliche Akteure zu erhalten, man diese aus vielen sukzessiven Schichten zusammensetzen muß, von denen sich jede von der nächsten empirisch unterscheidt." (358) 
+
+## Realistisches Ganzes
+"Ein realistisches Ganzes zu sein ist nicht unstrittiger Ausgangspunkt, sondern die provisorische Realisisierung einer buntscheckigen Assemblage." (359)
+
+## Person
+"Statt dessen sollten wir nun imstande sein, empirisch zu beobachten, wie ein anonymer und generischer Körper dazu gebracht wird, eine Person zu werden: Je intensiver der Schauer angebotener Subjektivitäten, desto mehr Innerlichkeit erhält man." (359f)
+
+## Vorformatierung
+"Beispielsweise hat ein Supermarkt Sie als Verbraucher vorformatiert, aber nur als einen generischen. Damit sie sich in einen aktiven und verstehenden Verbraucher verwandeln, müssen Sie ebenflass mit der Fähigkeit ausgestattet sein, zu rechnen und auszuwählen." (362)
+
+## Plug-ins abonnieren
+"Doch mit der neuen Topographie, die wir entwerfen, ist eine andere Quelle der Kompetenz [nicht Vererbung und Formung] vielleicht an den Fingerspitzen zu lokalisieren: Dort zirkulieren Plug-ins, die sich abonnieren lassen und die man auf der Stelle herunterladen kann, um lokal und provisorisch kompetent zu werden.
+Wenn man Supermärkte auf diese Weise betrachtet beginnt sich ein Spektrum unzähliger Werkzeuge abzuzeichnen [...]" (362)
+
+## Kognitive Fähigkeiten
+"Kognitive Fähigkeiten liegen nicht 'in mir', sondern sind in der gesamten formatierten Umgebung verteilt, die nicht nur aus Lokalisatoren besteht, sondern auch aus vielen Vorschlägen, wie Kompetenz aufzubauen sei, aus zahlreichen kleinen intellektuellen Technologien." (365)
+
+## Ego
+"Aber was ist mit mir, dem Ego? Bin ich nicht in der Tiefe meines Herzens, in den Windugnen meines Gehirns, in der innersten Sphäre meiner Seele, in der Regsamkeit meines Geistes, ein 'Individuum'? Natürlich bin ich es, doch nur solange ich individualisiert, spiritualisiert, interiorisiert worden bin. Gewiß ist die Zirkualtion dieser 'Subjektivierer' oft schwerer zu verfolgen. Doch wenn man nach ihnen sucht findet man sie überall: Fluten, Schauer, Schwärme von Psycho-Morphs, wie man sie nennen könnte, weil sie einen buchstäblich die Form einer Psyche verleihen." (366)
+
+## Subjektivierung
+"Was ich hier zu tun versuche, ist einfach, zu zeigen, wie die Grenzen zwischen Soziologie und Psychologie vielleicht ein für allemal umgekrempelt werden könnten. Dafür gibt es nur eine Lösung: Jede einzelne Entität, die die frühere Innenwelt bevölkerte, aus der Außenwelt kommen lassen, nicht als negativer Zwang, der 'die Subjektivität einschränkt', sondern als ein positives Angebot zur Subjektivierung. Sobald wir dies tun, nimmt der frühere Akteur, Teilnehmer, Agent, Person, Individuum - ganz gleich, unter welchem Namen - dasselbe sternförmige Aussehen an, das wir füher schon beobachtet hatten, als wir das Globable flach machten und das Lokale umverteilten. Er wird dazu gebracht, ein Individuum/Subjekt zu sein, oder er wird dazu gebracht, ein Statist, eine Nicht-Entität zu sein, und zwar durch einen Schwarm anderer Existenzformen." (367)
+
+## Subjektivierer, Individualisierer, Lokalisierer, Oligoptiken
+"Man muß eine Menge Subjektivierer abonnieren, um ein Subjekt zu werden, und eine Menge Individualisierer herunterladen, um ein Individuum zu werden - genauso wie man eine Menge Lokalisierer zusamennschalten muß, um einen lokalen Ort zu erhalten, und eine Menge Oligiptiken, damit ein Kontext andere Orte 'beherrschen' kann. " (372)
+
+## Handlungstheorie
+"Doch in der ANT ist dies nicht länger notwendig: Die Handlungstheorie selbst ist eine andere, denn uns interessieren Mittler, die andere Mittler dazu bringen, Dinge zu tun. 'Dazu bringen' ist nicht dasselbe wie 'verursachen' oder 'tun': Im Zentrum dieser Tätigkeit gibt es eine Verlagerung, eine Verdoppelung, eine Übersetzung, die sofort das ganze Argument modifiziert. Vorher war es unmöglich, einen Akteur mit dem zu verknüpfen, was ihn zum Handeln brachte, ohne dafür angeklagt zu werden, ihn zu 'beherrschen', 'einzuschränken' oder zu 'versklaven'. Dies ist nicht Länger der Fall, Je mehr Verknüpfungen er hat, desto mehr existiert er. Und je mehr Mittler es gibt, um so besser." (374)
+
+## Akteur
+"Nun ist es der bislang in diesem Buch als Punkt, Atom oder Ursprung beibehaltene Akteur, der ebenfalls flach werden und gezwungen werden muß, eine sternförmige Gestalt anzunehmen." (374)
+
+## Subjektivität
+"Subjektivität ist keine Eigenschaft menschlicher Seelen, sondern des Versammelns selber - natürlich nur, sofern es dauert." (377)
