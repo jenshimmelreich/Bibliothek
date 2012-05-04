@@ -383,3 +383,36 @@ Wenn man Supermärkte auf diese Weise betrachtet beginnt sich ein Spektrum unzä
 
 ## Subjektivität
 "Subjektivität ist keine Eigenschaft menschlicher Seelen, sondern des Versammelns selber - natürlich nur, sofern es dauert." (377)
+
+## Transportmittel, Verbindungen
+"Die nun richtiggehend in Akteur-Netzwerke umgewandelten Orte treten in den Hintergrund; in den Vordergrund rücken Transportmittel, Verbindungen und Verknüpfungen." (379)
+
+## Maßstab
+"Nur wenn Flachheit zur Standardeinstellung des Beobachters gemacht wird, kann die Aktivität, die notwendig ist, um einen Größenunterschied zu erzeugen, entdeckt und registriert werden." (380)
+
+## Konnektoren - Mittler - Dazwischen
+"Drei neue Fragen können nun angegangen werden. Die erste besteht darin, den Typus von Konnektoren auszumachen, die den Transport von Existenzformen über große Entfernungen ermöglichen und zu verstehen, wie sie das Soziale so effizient formatieren können. Die zweite Frage lautet, worin die Natur der so transportierten Existenzformen besteht, was uns dazu führt, dem von mir verwendeten Begriff des Mittlers eine präzisere Bedeutung zu verleihen, Und drittens, wenn das Argument der Verknüpfungen und Konnektoren richtig ist, dann sollte es möglich sein, uns einer logischen Konsequent zu stellen, die die Leser sicher bereits beschägtigt hat: Was liegt zwischen den Verbindungen?" (381f)
+
+## Formen
+"Sobald wir uns darauf konzentrieren, was von Ort zu Ort zirkuliert, ist der erste Typ von Entitäten, der in den Fokus gerät: Formen. [...] Eine Form ist einfach etwas, das es erlaubt, etwas anderes von einem Ort an einen anderen zu transportieren." (386)
+
+## Materielle Beschreibung des Formalismus
+"Was auch immer das Medium sein mag, nun ist eine materielle Beschreibung des Formalismus möglich, die das Verknüpfungsvermögen von Formen - die als so physisch wie möglich begriffen werden - sehr ernst nimmt, während sie die Vorstellung aufgibt, daß Formalismen selbst formal beschrieben ewrden könnten." (388)
+
+## Metrologie
+"Sobald das Lokale und das Globale verschwinden, wird offensichtlich, wie wichtig Standards sind und welche immensen Vorteile wir aus der Metrologie - im weitesten Sinne des Begriffs - ziehen können." (391)
+
+## Universale Übereinkunft
+"Können wir eine Art von universaler Übereinkunft erzielen? Natürlich! Sofern wir eine Möglichkeit finden, unser lokales Instrument an eine der vielen metrologischen Ketten anzuschließen, deren materielles Netzwerk vollständig beschreibbar ist und deren Kosten ziemlich genau angegeben werden können." (393)
+
+## Quasi-Standards
+"Die Koordination zwischen Handlungsträgern wird hauptsächlich durch die Verbreitung von Quasi-Standards erreicht." (394)
+
+## Vergleichbar
+"Vielmehr erlaubt die Zirkulation von Quasi-Standards anonymen und isolierten Aktanten, langsam, Schicht um Schicht, vergleichbar und kommensurabel zu werden - was sicherlich ein großer Teil von dem ist, was wir mit 'menschlich sein' meinen." (395)
+
+## Versammelnde Aussagen
+"Versammelnde Aussagen spielen genau die gleiche Rolle, sofern wir darin keine bloßen 'Repräsentation' oder 'Verzerrung' bestehender sozialer Kräfte sehen." (397)
+
+## Versammelnde Aussagen
+"Gerade weil die Größenordnung kein feststehendes Merkmal des Sozialen ist, spielen solche versammelnden Aussagen eine so wichtige Rolle. Sobald man zuläßt, daß sie etwas anderes nur repräsentieren, verdinglichen oder vergegenständlichen, beispielsweise den sozialen Kontext hinter ihnen, ist ihre Effizienz nicht länger sichtbar. [...] Wie könnte das Kollektiv versammelt werden ohne versammelnde Aussagen?" (399)
