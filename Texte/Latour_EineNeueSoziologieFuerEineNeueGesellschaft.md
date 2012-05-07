@@ -416,3 +416,36 @@ Wenn man Supermärkte auf diese Weise betrachtet beginnt sich ein Spektrum unzä
 
 ## Versammelnde Aussagen
 "Gerade weil die Größenordnung kein feststehendes Merkmal des Sozialen ist, spielen solche versammelnden Aussagen eine so wichtige Rolle. Sobald man zuläßt, daß sie etwas anderes nur repräsentieren, verdinglichen oder vergegenständlichen, beispielsweise den sozialen Kontext hinter ihnen, ist ihre Effizienz nicht länger sichtbar. [...] Wie könnte das Kollektiv versammelt werden ohne versammelnde Aussagen?" (399)
+
+## Existenzformen
+"Ist es nicht offensichtlich, daß es empirisch keinen Sinn macht, sich zu weigern, auf Existenzformen zu stoßen, die die Menschen dazu bringen, Dinge zu tun?" (404)
+
+## Sozialwissenschaft
+"Können wir eine Sozialwissenschaft antizipieren, welche die Wesen ernst nimmt, welche die Menschen zum Handeln bringen?" (405)
+
+## Den Akteuren folgen
+"Es ist kontraintuitiv, unterscheiden zu wollen, 'was vom Beobachter kommt' und 'was vom Objekt kommt', wenn die offensichtliche Antwort lautet: 'der Strömung nachgehen'. Objekt und Subjekt mögen existieren, doch alles Interessante ereignet sich stromauf und stromab. Man muß nur der Strömung nachgehen. Ja, den Akteuren folgen oder vielmhr dem, was sie handeln macht, nämlich den zirkulierenden Entitäten." (408)
+
+## Mittler
+"In der neuen Definition verhält es sich genau umgekehrt: Menschliche Teilnehmer und sozialer Kontext sind in den Hintergrund gerückt; was nun hervorgehoben wird, sind all die Mittler, deren starke Vermehrung neben vielen anderen Entitäten hervorbringt, was man Quasi-Objekte und Quasi-Subjekte nennen könnte." (408f)
+
+## Zentrum der sozialen Welt
+"Dinge, Quasi-Objekte und Verknüpfungen sind das wirkliche Zentrum der sozialen Welt, nicht der Handlungsträger, die Person, das Mitglied oder der Teilnehmer - und auch nicht die Gesellschaft oder einer ihrer Stellvertreter." (409)
+
+## Sozial
+"Sozial ist kein Ort, kein Ding, keine Domäne oder irgendeine Art von Stoff, sondern eine provisorische Bewegung neuer Assoziationen. [...] wir stellen gewissermaßen Landebahnen bereit, auf denen andere Existenformen in das Kollektiv hineingelangen können, die ebenso komplett, allgegenwärtig, respektabel und empirirsch sind wie das Soziale der Soziologen, auch wenn letztere sie bislang nicht so gründlich verfolgt haben." (410)
+
+## Wissenschaft
+"Die Wissenschaft kann selbstverständllich weder durch ihren sozialen Kontext erklärt werden, noch muß sie dazu verwendet werden, die Bestandteile sozialer Beziehungen zu erklären. Auch sie hat Besseres zu tun: unter anderem, überall zu zirkulieren und Entitäten auf wissenschaftliche Weise miteinander zu verbinden." (410f)
+
+## Konnektoren
+"Und dasselbe könnte von vielen anderen Typen von Konnektoren gesagt werden, die nun ins Zentrum der Aufmerksamkeit rücken, weil es ihre Fortbewegungen sind, die soziale Verbindungen vorzeichnen - wobei 'sozila verbindeung', wie wir inzwischen wissen, nicht bedeutet: 'Verbindungen, die aus dem Sozialen gemacht sind', sonder neue Assoziationen zwschen nichtsozialen Elementen." (411)
+
+## Existenzformen
+"Was bedeutet es, von juristischen, religiösen, wissenschaftlichen, technischen, ökonomischen und politischen 'Weisen' des Assoziierens zu sprechen? [...] Um zu verstehen, was ich als das höchste Ziel der ANT ansehe, müssen wir Entitäten aus ihren Käfigen herauslassen, denen es bis jetzt strikt untersagt war, den Schauplatz zu betreten, und ihnen erlauben umherzustreichen. [...] Ich verleihe ihnen die terminologische Bezeichnung Existenformen (modes d'existence) oder auch Äußerungsregime (régimes d'énonciation)." (412)
+
+## Mittler
+"Endlich haben uns die Mittler ihren wirkliche Namen mitgeteilt: 'Wir sind Existenzformen, Wesen, die das Kollektiv genauso umfassend zusammenbringen und versammeln, wie das, was ihr bislang das Soziale genannt habt, während ihr euch nur auf eine standardisierte Version der Versammlungen beschränkt habt; wenn ihr den Akteuren folgen wollt, dann müßt ihr uns ebenfalls folgen.'" (413)
+
+## Plasma
+"Ich nenne diesen Hintergrund Plasma und verstehe darunter das, was noch nicht formatiert, noch nicht gemessen, noch nicht sozialisiert ist, was noch nicht in metrologischen Netzwerken zirkuliert, noch nicht registriert, überwacht, mobilisiert oder subjektiviert ist." (419)
