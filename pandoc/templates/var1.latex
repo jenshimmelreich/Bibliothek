@@ -1,0 +1,47 @@
+\documentclass[12pt,letterpaper,oneside,article]{memoir} 
+% Typeblock size - width 4.8in, length/width ratio phi 
+\settypeblocksize{*}{4.8in}{1.618} 
+\makepagestyle{myruled} 
+\makeheadrule {myruled}{\textwidth}{\normalrulethickness} 
+%\makefootrule {myruled}{\textwidth}{\normalrulethickness} 
+{\footruleskip} 
+\makeevenhead {myruled}{\small\itshape\rightmark}{}{\small \thepage} 
+\makeoddhead {myruled}{\small\itshape\rightmark}{}{\small \thepage} 
+\makeatletter % because of \@chapapp 
+\makepsmarks {myruled}{ 
+  \nouppercaseheads 
+    \createmark       {chapter}      {both} {shownumber}{\@chapapp\ }{. 
+    \ } 
+      \createmark       {section}      {right}{shownumber}{}           {. 
+      \ } 
+        \createplainmark {toc}           {both} {\contentsname} 
+          \createplainmark {lof}           {both} {\listfigurename} 
+            \createplainmark {lot}           {both} {\listtablename} 
+              \createplainmark {bib}           {both} {\bibname} 
+                \createplainmark {index}         {both} {\indexname} 
+                  \createplainmark {glossary}      {both} {\glossaryname} 
+                  } 
+
+                  \makeatother 
+                  \setsecnumdepth{subsection} 
+                  \pagestyle{myruled} 
+                  % Chapter and section heading fonts 
+                  \renewcommand{\chapnumfont}{\normalfont\Large} 
+                  \renewcommand{\chaptitlefont}{\chapnumfont} 
+                  \setsecheadstyle{\normalfont\large\raggedright} 
+                  \setsubsecheadstyle{\normalfont\raggedright} 
+                  \setsubsubsecheadstyle{\normalsize\raggedright} 
+                  \setsecnumdepth{subsection} 
+                  % Title, author, and date 
+                  \pretitle{\begin{flushleft}\Large\bfseries} 
+                    \posttitle{\par\end{flushleft}\hrule\vskip 1.5em} 
+                    \preauthor{\begin{flushleft}\textsc} 
+                    \postauthor{\par\end{flushleft}\vskip 0.5em} 
+                    \predate{\begin{flushleft}\normalsize} 
+                    \postdate{\par\end{flushleft}\vskip 0.5em} 
+                    % Abstract 
+                    \renewcommand{\abstractnamefont}{\normalfont\small\textsc} 
+                    \setlength{\absparindent}{0em} 
+                    \setlength{\absleftindent}{0em} 
+                    \setlength{\absrightindent}{0em} 
+                    \abstractrunin 
