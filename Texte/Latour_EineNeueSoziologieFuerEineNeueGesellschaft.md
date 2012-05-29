@@ -449,3 +449,16 @@ Wenn man Supermärkte auf diese Weise betrachtet beginnt sich ein Spektrum unzä
 
 ## Plasma
 "Ich nenne diesen Hintergrund Plasma und verstehe darunter das, was noch nicht formatiert, noch nicht gemessen, noch nicht sozialisiert ist, was noch nicht in metrologischen Netzwerken zirkuliert, noch nicht registriert, überwacht, mobilisiert oder subjektiviert ist." (419)
+
+
+## Schluß: Von der Gesellschaft zum Kollektiv -
+## Kann das Soziale neu erfunden werden?
+
+## Handlung
+"Nur in einer Welt, die aus Unterschieden besteht, machen die eigenen Handlungen 'einen Unterschied'." (433)
+
+## Forschung - Politik
+"Forschung bedeutet daher stets, in dem Sinne Politik zu machen, daß sie versammelt oder zusammensetzt, woraus die gemeinsame Welt besteht." (440)
+
+## Disziplinen
+"Sondern es bedeutet, daß sie, wie der Name schon sagt, Disziplinen sind: Jede hat sich dafür entschieden, eine bestimmte Art von Mittlier zu entfalten und einen bestimmten Type von Stabilisierung zu begünstigen; so bevölkern sie die Welt mit verschiedenen Typen von gut abgerichteten und vollständig formatierten Bewohnern." (442)
