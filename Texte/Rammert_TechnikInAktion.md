@@ -4,12 +4,9 @@ Werner Rammert
 # Verteiltes Handeln in soziotechnischen Konstellationen
 
 @incollection{rammert2006technik,
- author={Rammert, Werner}, 
+ author={Werner Rammert}, 
  title={Technik in Aktion: Verteiltes Handeln in soziotechnischen Konstellationen}, 
- booktitle={Technografie}, 
- booktitle={zur Mikrosoziologie der Technik}, 
- publisher={Campus-Verl.}, 
- year={2006}, 
+ crossref={rammert2006technografie},
 }
 
 ## Kritik an der ANT

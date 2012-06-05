@@ -3,12 +3,11 @@ Edwin Hutschins
 # Die Technik der Teamnavigation:
 # Ethnografie einer verteilten Kognition
 
-Hutchins, E.:
-Die Technik der Teamnavigation: Ethnografie einer verteilten Kognition.
-In: Rammert, W./Schubert , C.:
-Technografie. Zur Mikrosoziologie der Technik,
-Frankfurt/New York: 2006
-(Hutchins 2006)
+@incollection{hutchins2006teamnavigation,
+ author={Edwin Hutschins}, 
+ title={Die Technik der Teamnavigation: Ethnografie einer verteilten Kognition.}, 
+ crossref={rammert2006technografie},
+}
 
 ## Problemlösung als Repräsentation
 "In seinem wegweisenden Buch 'The Science of the Artificial' schreibt Herbert Simon (1981: 153), 'Ein Problem zu lösen bedeutet einfach, es so zu repräsentieren, dass die Lösung transparent wird.'" (71)

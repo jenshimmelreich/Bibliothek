@@ -2,12 +2,11 @@ Hubert Knoblauch & Christian Heath
 
 # Die Workplace Studies
 
-Knoblauch, H./Heath, C:
-Die Workplace Studies.
-In: Rammert, W./Schubert , C.:
-Technografie. Zur Mikrosoziologie der Technik,
-Frankfurt/New York: 2006
-(Knoblauch 2006)
+@incollection{knoblauch2006workplace,
+ author={Hubert Knoblauch and Christian Heath}, 
+ title={Die Workplace Studies}, 
+ crossref={rammert2006technografie},
+}
 
 ## Situierte Handlung
 "Aus theortisch-analytischer Perspektive ist der Begriff der situierten Handlung ('situated action') eine Schlüsselkategorie der Workplace Studies. Theoretisch schließt dieser Begriff an die Ethnomethodologie an, die Wirklichkeit als Ergebnis fortwährender situativer Handlungen betrachtet. Die Rationalität des Handelns ist in ihrer Sicht grundsätzlich eine Rationalität der Situation - eine Vorstellung, wie sie in Suchmans Formulierung auf den Begriff gebracht wird." (144) 

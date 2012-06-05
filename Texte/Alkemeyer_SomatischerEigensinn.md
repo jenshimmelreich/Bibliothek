@@ -1,12 +1,12 @@
-Thomas Alkemeyer, Paula-Irene Villa
+Thomas Alkemeyer & Paula-Irene Villa
 
 # Somatischer Eigensinn
 
-Alkemeyer, Thomas/Villa, Paula-Irene: Somatischer Eigensinn.
-In: Angermüller, Johannes/von Dyk, Silke (Hg.):
-Diskursanalyse meets Gouvernementalitätsforschung.
-Frankfurt/New York: 2010
-(Alkemeyer 2010)
+@incollection{akrich2006terminologie,
+ author={Thomas Alkemeyer & Paula-Irene Villa}, 
+ title={Somatischer Eigensinn}, 
+ crossref={angermueller2010diskursanalyse},
+}
 
 ## Butlers egriff der Subjektivation
 "Zentral für diese Perspektive ist zunächst die klare Unterscheidung zwischen konkreten Individuen einerseits und spezifischen Subjekten andererseits. Ein Subjekt ist gewissermaßen eine sozial bewohnbare Zone, die durch diskursive Semantiken geschaffen wird: ein 'diskursiver Platz', in dem - und nur in dem - es mäglich ist, soziale Anerkennung zu erlangen. [...] Individuen werden mithin dadurch, dass sie sich mit dem Duskurs vernähen - und von anderen in diesen mehr oder minder herrschaftsförmig vernäht werden - zu anerkennbaren, anerkennungswürdigen und zurechnungsfähigen Personen: ohne die Annahme socher Titel keine legitime soziale Existenz und ohne die Auseinandersetzung mit diesen Titeln keine Identität." (320)

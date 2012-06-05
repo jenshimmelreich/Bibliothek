@@ -3,12 +3,11 @@ Bruno Latour
 # Ethnografie einer Hochtechnologie: 
 # Das Pariser Projekt 'Aramis' eines automatischen U-Bahn-Systems
 
-Latour, B.:
-Ethnografie einer Hochtechnologie: Das Pariser Projekt 'Aramis' eines automatischen U-Bahn-Systems
-In: Rammert, W./Schubert , C.:
-Technografie. Zur Mikrosoziologie der Technik,
-Frankfurt/New York: 2006
-(Latour 2006)
+@incollection{latour2006aramis,
+ author={Bruno Latour}, 
+ title={Ethnografie einer Hochtechnologie: Das Pariser Projekt 'Aramis' eines automatischen U-Bahn-Systems}, 
+ crossref={rammert2006technografie},
+}
 
 ## Soziale Erklärung
 "Gemäß dem von Lynch (1985) aus der Ethnomethodologie entwickelten Prinzip ist die einzige soziale Erklärung in den spezifischen technischen Quellen zu finden, welche die Handelnden selber verwenden. Außerdem ist die einzige zu verwendene Metasprache deren Sprache." (30)

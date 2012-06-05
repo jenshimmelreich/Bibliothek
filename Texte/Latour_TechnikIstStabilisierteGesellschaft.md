@@ -2,12 +2,11 @@ Bruno Latour
 
 # Technik ist stabilisierte Gesellschaft
 
-Latour, B.:
-Technik ist stabilisierte Gesellschaft
-In: Bellinger, Andrea/ Krieger, David J.
-ANThology. Ein einführendes Handbuch zur Akteur-Netzwerk-Theorie.
-Bielefeld: 2006
-(Latour 1991)
+@incollection{latour2006technik,
+ author={Bruno Latour}, 
+ title={Technik ist stabilisierte Gesellschaft}, 
+ crossref={belliger2006anthology},
+}
 
 ## Text - Kontext
 "Sogar bei einem solch einfachen Beispiel ist bereits nachvollziehbar, dass wir bei der Erforschung von Wissenschaft und Technik nicht einer gegebenen Aussage durch einen Kontext nachgehen können. Stattdessen müssen wir der simutanen Produktion von 'Text' und 'Kontext' folgen." (372)

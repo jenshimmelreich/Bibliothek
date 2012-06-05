@@ -3,6 +3,20 @@ Bruno Latour
 # Eine neue Soziologie für eine neue Gesellschaft
 # Einführung in die Akteur-Netzwerk-Theorie
 
+@BOOK{latour2010soziologie, 
+ title={Eine neue Soziologie für eine neue Gesellschaft: Einführung in die Akteur-Netzwerk-Theorie (suhrkamp taschenbuch wissenschaft)},
+ author={Bruno Latour},
+ publisher={Suhrkamp Verlag},
+ year={2010},
+ month={7},
+ edition={2},
+ isbn={9783518295670},
+ url={http://amazon.de/o/ASIN/3518295675/},
+ price={EUR 17,00},
+ totalpages={488},
+ timestamp={2012.06.05},
+}
+
 Latour, B.:
 Eine neue Soziologie für eine neue Gesellschaft
 Einführung in die Akteur-Netzwerk-Theorie

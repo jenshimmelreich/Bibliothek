@@ -2,12 +2,11 @@ Bruno Latour
 
 # Die Macht der Assoziation
 
-Latour, B.:
-Die Macht der Assoziation
-In: Bellinger, Andrea/ Krieger, David J.:
-ANThology. Ein einführendes Handbuch zur Akteur-Netzwerk-Theorie.
-Bielefeld: 2006
-(Latour 1986)
+@incollection{latour2006assozitation,
+ author={Bruno Latour}, 
+ title={Die Macht der Assoziation}, 
+ crossref={belliger2006anthology},
+}
 
 ## Macht
 "Wenn ein Akteur einfach nur Macht hat, geschieht nichts und er/sie ist machtlos; wenn andererseits ein Akteur Macht ausübt, führen andere die Handlungen aus ... Um dieses Paradoxon zu erforschen, wird im Folgenden ein Diffusionsmodell von Macht, in dem sich ein erfolgreicher Befehl unter einem ihm von einer zentralen Quelle gegebenen Impetus bewegt, mit einem Übersetzungsmodell kontrastiert, in dem solch ein Befehl - sofern erfolgreich - aus den Handlungen einer Kette von Akteuren resultiert, von denen sie jeder entsprechend seinen/ihren eigenen Projekten 'übersetzt'." (195)

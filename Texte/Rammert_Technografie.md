@@ -3,17 +3,16 @@ Werner Rammert & Conelius Schubert (Hg.)
 # Technografie
 # Zur Mikrosoziologie der Technik
 
-@book{rammert2006technografie
- author={Rammert, Werner [Hrsg.]}, 
- title={Technografie}, 
- title={zur Mikrosoziologie der Technik}, 
- pages={445 S. : Ill., graph. Darst.}, 
- publisher={Campus-Verl.}, 
- year={2006}, 
- address={Frankfurt [u.a.]}, 
- isbn={978-3-593-38227-2, 3-593-38227-X}, 
- language={ger},
- keywords={Techniksoziologie}, 
- keywords={Aufsatzsammlung}, 
+@BOOK{rammert2006technografie
+ title={Technografie: Zur Mikrosoziologie der Technik},
+ editor={Werner Rammert and Cornelius Schubert},
+ publisher={Campus Verlag},
+ year={2006},
+ month={11},
+ edition={1},
+ isbn={9783593382272},
+ url={http://amazon.de/o/ASIN/359338227X/},
+ price={EUR 39,90},
+ totalpages={448},
+ timestamp={2012.06.05},
 }
-

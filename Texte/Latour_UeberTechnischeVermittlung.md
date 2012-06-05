@@ -3,13 +3,11 @@ Bruno Latour
 # Über technische Vermittlung
 # Philosophie, Sozilogie und Genealogie
 
-Latour, B.:
-Über technische Vermittlund
-Philosophie, Sozilogie und Genealogie
-In: Bellinger, Andrea/ Krieger, David J.
-ANThology. Ein einführendes Handbuch zur Akteur-Netzwerk-Theorie.
-Bielefeld: 2006
-(Latour 1994)
+@incollection{latour2006vermittlung,
+ author={Bruno Latour}, 
+ title={Über technische Vermittlung. Philosophie, Soziologie und Genealogie}, 
+ crossref={belliger2006anthology},
+}
 
 ## Aktant
 "Wir müssen lernen, Handlungen viel mehr Agenten zuzuschreiben - auf sie zu verteilen -, als es weder für die materialistische noch für die soziologische Darstellung akzeptabel ist. Agenten könne menschlich oder (wie die Waffe) nicht-menschlich sein und jeder kann Ziele (oder Funktionen, wie Ingeniereure es bevorzugt ausdrücken) haben. Da das Wort 'Agent' im Fall von Nicht-Menschen ungwöhnlich ist, ist ein besserer Terminus 'Aktant', ein Lehnwort aus der Semiotik, das jede EnTität beschreibt, die in einem Plot bis zur Zuweisung einer figurativen oder nichtfigurativen Rolle agiert ('Bürger', 'Schusswaffe')." (488) 
