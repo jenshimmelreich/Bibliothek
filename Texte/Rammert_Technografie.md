@@ -3,7 +3,7 @@ Werner Rammert & Conelius Schubert (Hg.)
 # Technografie
 # Zur Mikrosoziologie der Technik
 
-@book{UBHD2058709,
+@book{rammert2006technografie
  author={Rammert, Werner [Hrsg.]}, 
  title={Technografie}, 
  title={zur Mikrosoziologie der Technik}, 

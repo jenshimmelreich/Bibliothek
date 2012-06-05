@@ -3,7 +3,7 @@ Werner Rammert
 # Technik in Aktion:
 # Verteiltes Handeln in soziotechnischen Konstellationen
 
-@incollection{rammert2006technografie,
+@incollection{rammert2006technik,
  author={Rammert, Werner}, 
  title={Technik in Aktion: Verteiltes Handeln in soziotechnischen Konstellationen}, 
  booktitle={Technografie}, 
