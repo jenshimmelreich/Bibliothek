@@ -28,3 +28,20 @@ Entwurf (unveröffentlicht)
 
 ## Intuitive Einverleibung der Anforderungsstrukturen
 "Ein entsprechend disponierter Körper-Leib erschließt ein Spielgeschehen deshalb wie intuitiv, weil seine Wahrnehmenungsfähigkeiten aus der Einverleibung der Anforderungsstruktiren des Spiels selbst resultieren." (17)
+
+## Subjekt-Bildungen
+"Subjekt-Bildungen wären vor diesem Hintergrund als Vorgänge zu verstehen, in denen Dispositionen so kultiviert werden, dass sie es einem Menschen gestatten, an einer sozialen Praktik (bzw. einem Geflecht von Praktiken) dergestalt teilzunehmen, dass er  in der Praktitik Subjektstatus erlangt, d.h. als Subjekt anerkannt wird." (18)
+
+## Manifestation von Individuen
+"Individuen manifestieren sich als intelligibe, zurechnungs- und reflexionsfähige Subjekte ausschließlich in situierten Praktiken." (20)
+
+## Subjektförmigkeit - Reflexionsfähigkeit
+"Denn auch Subjektförmigkeit zeigt sich ausschließlich am sichtbaren körperlichen Verhalten als kompetente Mitgliedschaft in einer Praktik, d.h. in norm-, regel- und situationsgerechten 'Auftritten' sowie einem Können, das von den Teilnehmern als praktikadäquat akzeptiert wird. Ebenso sind die Reflexionsfähigkeiten des Subjekts an diese Kontexte gebunden: sie entstehen und zeigen sich als Momente der jeweiligen Praktik, wären also empirisch ebenfalls im Hinblick auf ihre jeweilige praktikspezifische Gestalt hin zu untersuchen, z.B. darauf hin, welche besonderen Formen, Weisen und Techniken der Selbstbeobachtung verschiedenen Praktiken nahelegen." (20)
+
+## Untersuchungsdimensionen
+1. Anforderungsprofile: "Methodologisch können dabei die Körper der Teilnehmern als 'Flächen' betrachtet werden, auf denen sich die jeweiligen impliziten Normen der Anerkennbarkeit zeigen und der (ethnographischen) Beobachtung zugänglich gemacht werden können." (21)
+2. Subjektpositionen
+3. Mitspielfähigkeiten. "Konzept der Anerkennung [...] Für die empirische Forschung wäre Anerkennung als Adressierung zu operationalisieren: [...]" (21)
+4. Raum-zeitliche Settings, Materialitäten
+5. Öffentlichkeit
+6. Selbstpraktiken
