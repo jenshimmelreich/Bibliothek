@@ -26,3 +26,15 @@ Clifford Geertz
 
 ## Ausdrucksform
 "Als Bild, Fiktion, Modell und Metapher ist der Hahnenkampf eine Ausdrucksform. Seine Funktion ist es nicht, soziale Leidenschaften zu zähmen, noch sie zu schüren (wenn diese Spiel mit dem Feuer auch ein wenig von beidem tut), sondern sie mit Hilfe von Federn, Blut, Menschenansammlungen und Geld darzustellen." (246)
+
+## Kulturform als Text
+"Die Untersuchung der Kulturformen findet ihre Parallelen nicht mehr im Sezieren eines Organismus, im Diagnostizieren eines Symptoms - wie die vorherrschenden Analogien in der gegenwärtigen Ethnologie lauten -, sondern gleicht eher dem Durchdringen eines literarische Textes." (253)
+
+## Kultur als Gefühlsschulung
+"Wenn ein Balinese Hahnenkämpfe besucht und an ihnen mitwierkt, bedeutet das für ihn eine Art Gefühlsschulung. Er lernt dort, wie das Ethos seiner Kulutr und sein privates Empfinden (zumindes bestimmte Aspekte davon) aussehge, wenn sie in einem kollektiven Text ausbuchstabiert werden; [...]" (254)
+
+## Kunstformen und Subjektivität
+"Da diese Subjektivität nicht eigentlich existeirt, bevor sie organisiert wird, erschaffen und erhalten Kunstformen genau diese Subjektivität, die sie vermeintlich nur entfalten. Streichquartette, Stilleben und Hahnenkämpfe sind nicht einfach Wiederschein einer vorweg existierenden Empfindung, die analog wiedergegeben wird; sie sind für die Hervorbringung und Erhaltung solcher Empfindungen konstitutiv. [...] In dieser Weise also, indem sie die Erfahrungen in ein spezifische Licht taucht und ihnen Farbe verleiht, spielt die Kunst als Kunst ihre Rolle im sozialen Leben, und nicht so sehr durch irgendwelche materiellen Auswirkungen." (257)
+
+## Kultur: Ensemble von Texten
+"Die Kultur eines Volkes besteht aus einem Ensemble von Texten die ihrerseits wieder Ensembles sind, und der Ethnologie bemüht sich, sie über die Schultern derjenigen, für die sie eigentlich gedacht sind, zu lesen." (259)
