@@ -3,12 +3,11 @@ Alex Preda
 # Wie Techniken Finanzmärkte erschaffen:
 # Der Fall des Börsentickers
 
-Preda, A.:
-Wie Techniken Finanzmärkte erschaffen: Der Fall des Börsentickers.
-In: Rammert, W./Schubert , C.:
-Technografie. Zur Mikrosoziologie der Technik,
-Frankfurt/New York: 2006
-(Preda 2006)
+@incollection{preda2006finanzmaerkte,
+ author={Alex Preda}, 
+ title={Wie Techniken Finanzmärkte erschaffen: Der Fall des Börsentickers.}, 
+ crossref={rammert2006technografie},
+}
 
 ## Agency
 "'Agency' wird als die Kapazität von Handlungen definiert, vorhandene Strukturen zu transformieren und den Handlungskontext zu rekonfigurieren (Emirbayer und Mische, 1998: 970). [...] Eine Beschränkung des 'agency' auf intentionale Handlungen ist von Problemen wie Regression und Zirkularität begleitet (Schatzki, 2002: 190, Lynch, 1992: 251-252). Ein Teil der Lösung ist es, Artefakte und Technik als 'mit Bestimmungskräften ausgestatten zu betrachten, die entweder diese Wesen so stark wie Sozialphänomene machen oder Materialität und Sozialität als ko-determinant anzusehen' (Schtzki, 2002: 108)." (103)

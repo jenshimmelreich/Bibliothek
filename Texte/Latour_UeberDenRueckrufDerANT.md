@@ -2,12 +2,11 @@ Bruno Latour
 
 # Über den Rückruf der ANT
 
-Latour, B.:
-Über den Rückruf der ANT.
-In: Bellinger, Andrea/ Krieger, David J.:
-ANThology. Ein einführendes Handbuch zur Akteur-Netzwerk-Theorie.
-Bielefeld: 2006
-(Latour 1999)
+@incollection{latour2006rueckruf,
+ author={Bruno Latour}, 
+ title={Über den Rückruf der ANT}, 
+ crossref={belliger2006anthology},
+}
 
 ## Netzwerk
 "Früher bedeutete das Wort 'Netzwerk' noch eindeutig, wie Deleuzes und Guattars Begriff 'Rhizom', eine Reihe von Transformationen - Übersetzungen, Umformungen -, die nicht von irgendeinem traditionellen Begriff der Sozialtheorie erfasst werden konnten." (561)

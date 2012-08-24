@@ -2,11 +2,11 @@ Madleine Akrich
 
 ## Die De-Skription technischer Objekte
 
-Akrich, M:
-Die De-Skription technischer Objekte
-ANThology. Ein einführendes Handbuch zur Akteur-Netzwerk-Theorie.
-Bielefeld: 2006
-(Akrich 1992b)
+@incollection{akrich2006deskription,
+ author={Madleine Akrich}, 
+ title={Die De-Skription technischer Objekte}, 
+ crossref={belliger2006anthology},
+}
 
 ## Inskribieren - Skript
 "Ein großer Teil der Arbeit von Inovatioren ist der des 'Inskribierens' dieser Vision der Welt (oder der Verhersage darüber) in den technische Inhalt des neuen Objekts. Ich nenne das Endprodukt dieser Arbeit ein 'Skript' oder ein 'Szenario'." (411)

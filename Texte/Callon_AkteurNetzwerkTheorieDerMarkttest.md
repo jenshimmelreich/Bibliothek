@@ -3,12 +3,11 @@ Michel Callon
 # Akteur-Netzwerk-Theorie
 # Der Markttest
 
-Callon, M.:
-Akteur-Netzwerk-Theorie. Der Markttest.
-In: Bellinger, Andrea/ Krieger, David J.:
-ANThology. Ein einführendes Handbuch zur Akteur-Netzwerk-Theorie.
-Bielefeld: 2006
-(Callon 1999)
+@incollection{callon2006markttest,
+ author={Michel Callon}, 
+ title={Akteur-Netzwerk-Theorie Der Markttest}, 
+ crossref={belliger2006anthology},
+}
 
 ## Akteur
 "Der wichtigste [positive Punkt] ist, dass die ANT auf keiner stabilen Theorie des Akteurs basiert; stattdessen nimmt sie die radikale Indeterminiertheit des Akteurs an. Die Größe des Akteurs, seine psychologische Konstitution die Motivationen hinter seinen Handlungen - keines von diesen ist vorherbestimmt." (546)

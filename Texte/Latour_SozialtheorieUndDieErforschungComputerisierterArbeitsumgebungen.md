@@ -2,12 +2,11 @@ Bruno Latour
 
 # Sozialtheorie und die Erforschung computerisierter Arbeitsumgebehungen
 
-Latour, B.:
-Sozialtheorie und die Erforschung computerisierter Arbeitsumgebehungen
-In: Bellinger, Andrea/ Krieger, David J.:
-ANThology. Ein einführendes Handbuch zur Akteur-Netzwerk-Theorie.
-Bielefeld: 2006
-(Latour 1996)
+@incollection{latour2006arbeitsumgebungen,
+ author={Bruno Latour}, 
+ title={Sozialtheorie und die Erforschung computerisierter Arbeitsumgebehungen}, 
+ crossref={belliger2006anthology},
+}
 
 ## Computersystem und Organisationsform
 "Man kann nicht mehr eindeutig feststellen, ob es sich bei einem Computersystem um eine begrenzte Organisationsform handelt oder ob eine Organisationsform eine erweiterte Form von Computersystem darstellt. Der Grund dafür liegt nicht - wie im Wunschtraum der Ingenieure und im Albtraum der Soziologen - in einer nunmehr kompletten Rationalisierung, sondern im Gegenteil darin, dass diese zwei monströsen Hybriden koextensiv sind." (539)
