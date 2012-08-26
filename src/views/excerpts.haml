@@ -1,8 +1,8 @@
-%h1 Excerpts
-
-%ul
-  - @excerpts.each do |excerpt|
+%ul.nav.nav-list
+  %li.nav-header
+    Texte 
+  - REPOSITORY.excerpts.each do |excerpt|
+    - #%li.active
     %li
-      %a{ :href => "excerpt/#{excerpt.key}" }
+      %a{:href=>"excerpt/#{excerpt.key}"}
         = excerpt.header.title
-

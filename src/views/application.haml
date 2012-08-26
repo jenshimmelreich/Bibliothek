@@ -23,64 +23,21 @@
             %span.icon-bar
             %span.icon-bar
           %a.brand{:href=>"#"}
-            Project name
-          %div.btn-group.pull-right
-            %a.btn.dropdown-toggle{:'data-toggle'=>"dropdown", :href=>"#"}
-              %i.icon-user
-              Username
-              %span.caret
-            %ul.dropdown-menu
-              %li
-                %a{:href=>"#"}
-                  Profile
-              %li.divider
-              %li
-                %a{:href=>"#"}
-                  Sign Out
+            Bibliothek
           %div.nav-collapse
             %ul.nav
               %li.active
                 %a{:href=>"#"}
-                  Home
+                  Texte
               %li
-                %a{:href=>"#about"}
-                  About
-              %li
-                %a{:href=>"#contact"}
-                  Contact
+                %a{:href=>"#marks"}
+                  Marken
 
     %div.container-fluid
       %div.row-fluid
         %div.span3
           %div.well.sidebar-nav
-            %ul.nav.nav-list
-              %li.nav-header
-                Sidebar
-              %li.active
-                %a{:href=>"#"}
-                  Link
-              %li.active
-                %a{:href=>"#"}
-                  Link
-              %li.active
-                %a{:href=>"#"}
-                  Link
-              %li.active
-                %a{:href=>"#"}
-                  Link
-              %li.nav-header
-                Sidebar
-              %li.active
-                %a{:href=>"#"}
-                  Link
-              %li.nav-header
-                Sidebar
-              %li.active
-                %a{:href=>"#"}
-                  Link
-              %li.active
-                %a{:href=>"#"}
-                  Link
+            = haml :excerpts
         %div.span9
           %div.hero-unit
             %h1
