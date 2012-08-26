@@ -8,22 +8,22 @@ class ExcerptHeader
   end
 
   def author
-    @text[/\A.*/]
+    @text[/author=\{(.*)\}/, 1]
   end
 
   def title
-    @text[/^\s*(.*)$\s+====/, 1]
+    @text[/title=\{(.*)\}/, 1]
   end
 
   def mark
-    @text[/^\s*\((.*)\)\s*$/, 1]
-  end
-
-  def source
-    @text[/====\s*$(.*)$\s*\(/m, 1]
+    @text[/@.*\{(.*),/, 1]
   end
 
   def key
-    CGI.escape "#{author}_#{title}"
+    mark
+  end
+
+  def valid?
+    !author.nil? and !title.nil? and !key.nil?
   end
 end

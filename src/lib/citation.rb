@@ -6,14 +6,14 @@ class Citation
   end
   
   def title
-    @text[/^(.*)/]
+    @text[/## (.*)/, 1]
   end
 
   def content
-    @text[/----\s*$(.*)$\s*\(/m, 1]
+    @text[/##.*?$(.*)\(\d+\)\s*$/m, 1]
   end 
 
   def reference
-    @text[/^\s*\((.*)\)\s*$/, 1]
+    @text[/\((\d+)\)\s*$/, 1]
   end
 end

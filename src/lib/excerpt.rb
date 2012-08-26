@@ -9,7 +9,7 @@ class Excerpt
   def initialize text
     @text = text
     parts = text.split(/^\s*$/)
-    header_text = parts.shift + parts.shift
+    header_text = parts.shift + parts.shift + parts.shift
     @header = ExcerptHeader.new header_text
     @citations = []
     parts.each do |part|
@@ -19,6 +19,10 @@ class Excerpt
 
   def key
     @header.key
+  end
+
+  def valid?
+    @header.valid?
   end
 end
 

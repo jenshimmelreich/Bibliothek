@@ -5,6 +5,9 @@ class FakeExcerpt
   def initialize key
     @key = key
   end
+  def valid?
+    !@key.nil?
+  end
 end
 
 describe 'An ExcerptRepository' do
@@ -23,5 +26,10 @@ describe 'An ExcerptRepository' do
     excerpt_1.key.should == 'key1'
     excerpt_2 = @excerpt_repository.find 'key2'
     excerpt_2.key.should == 'key2'
+  end
+
+  it 'should only except valid excerpts' do
+    @excerpt_repository.add_excerpt FakeExcerpt.new nil
+    @excerpt_repository.excerpts.should have(2).excerpts
   end
 end

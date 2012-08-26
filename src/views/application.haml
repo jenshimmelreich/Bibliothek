@@ -1,0 +1,162 @@
+%html{:lang=>"en"}
+  %head
+    %meta{:charset=>"utf-8"}
+    %title
+      Bibliothek
+    %meta{:name=>"viewport", :content=>"width=device-width, initial-scale=1.0"}
+    %meta{:name=>"description", :content=>""}
+    %meta{:name=>"author", :content=>""}
+
+    %link{:href=>"../assets/css/bootstrap.css", :rel=>"stylesheet"}
+    %style{:type=>"text/css"}
+      body { padding-top: 60px; padding-bottom: 40px; }
+      .sidebar-nav { padding: 9px 0; }
+    %link{:href=>"../assets/css/bootstrap-responsive.css", :rel=>"stylesheet"}
+
+  %body
+
+    %div.navbar.navbar-fixed-top
+      %div.navbar-inner
+        %div.container-fluid
+          %a.btn.btn-navbar{:'data-toggle'=>"collapse", :'data-target'=>".nav-collapse"}
+            %span.icon-bar
+            %span.icon-bar
+            %span.icon-bar
+          %a.brand{:href=>"#"}
+            Project name
+          %div.btn-group.pull-right
+            %a.btn.dropdown-toggle{:'data-toggle'=>"dropdown", :href=>"#"}
+              %i.icon-user
+              Username
+              %span.caret
+            %ul.dropdown-menu
+              %li
+                %a{:href=>"#"}
+                  Profile
+              %li.divider
+              %li
+                %a{:href=>"#"}
+                  Sign Out
+          %div.nav-collapse
+            %ul.nav
+              %li.active
+                %a{:href=>"#"}
+                  Home
+              %li
+                %a{:href=>"#about"}
+                  About
+              %li
+                %a{:href=>"#contact"}
+                  Contact
+
+    %div.container-fluid
+      %div.row-fluid
+        %div.span3
+          %div.well.sidebar-nav
+            %ul.nav.nav-list
+              %li.nav-header
+                Sidebar
+              %li.active
+                %a{:href=>"#"}
+                  Link
+              %li.active
+                %a{:href=>"#"}
+                  Link
+              %li.active
+                %a{:href=>"#"}
+                  Link
+              %li.active
+                %a{:href=>"#"}
+                  Link
+              %li.nav-header
+                Sidebar
+              %li.active
+                %a{:href=>"#"}
+                  Link
+              %li.nav-header
+                Sidebar
+              %li.active
+                %a{:href=>"#"}
+                  Link
+              %li.active
+                %a{:href=>"#"}
+                  Link
+        %div.span9
+          %div.hero-unit
+            %h1
+              Hello, world!
+            %p
+              This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.
+            %p
+              %a.btn.btn-primary.btn-large
+                Learn more &raquo;
+          %div.row-fluid
+            %div.span4
+              %h2
+                Heading
+              %p
+                Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+              %p
+                %a.btn{:href=>"#"}
+                  View details &raquo;
+            %div.span4
+              %h2
+                Heading
+              %p
+                Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+              %p
+                %a.btn{:href=>"#"}
+                  View details &raquo;
+            %div.span4
+              %h2
+                Heading
+              %p
+                Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+              %p
+                %a.btn{:href=>"#"}
+                  View details &raquo;
+          %div.row-fluid
+            %div.span4
+              %h2
+                Heading
+              %p
+                Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+              %p
+                %a.btn{:href=>"#"}
+                  View details &raquo;
+            %div.span4
+              %h2
+                Heading
+              %p
+                Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+              %p
+                %a.btn{:href=>"#"}
+                  View details &raquo;
+            %div.span4
+              %h2
+                Heading
+              %p
+                Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+              %p
+                %a.btn{:href=>"#"}
+                  View details &raquo;
+
+      %hr
+
+      %footer
+        %p
+          &copy; Company 2012
+
+    %script{:src=>"../assets/js/jquery.js"}
+    %script{:src=>"../assets/js/bootstrap-transition.js"}
+    %script{:src=>"../assets/js/bootstrap-alert.js"}
+    %script{:src=>"../assets/js/bootstrap-modal.js"}
+    %script{:src=>"../assets/js/bootstrap-dropdown.js"}
+    %script{:src=>"../assets/js/bootstrap-scrollspy.js"}
+    %script{:src=>"../assets/js/bootstrap-tab.js"}
+    %script{:src=>"../assets/js/bootstrap-tooltip.js"}
+    %script{:src=>"../assets/js/bootstrap-popover.js"}
+    %script{:src=>"../assets/js/bootstrap-button.js"}
+    %script{:src=>"../assets/js/bootstrap-collapse.js"}
+    %script{:src=>"../assets/js/bootstrap-carousel.js"}
+    %script{:src=>"../assets/js/bootstrap-typeahead.js"}

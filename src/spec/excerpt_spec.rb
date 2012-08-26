@@ -3,46 +3,46 @@ require "lib/excerpt"
 describe 'An Excerpt' do
   
   before do
-    @text = %<Klaus Dörre
+    text = %<Madleine Akrich
 
-Gibt es ein nachfordistisches Produktionsmodell
-===============================================
-in: Mario Candeias & Frank Deppe
-Ein neuer Kapitalismus
-Hamburg 2001
-(Dörre 2001)
+## Die De-Skription technischer Objekte
 
-Kein überlegenes Rationalitätsprinzip
--------------------------------------
-"Anders als Gramsci für die fordistische Produktion behauptete."
-(83)
+@incollection{akrich2006deskription,
+ author={Madleine Akrich}, 
+ title={Die De-Skription technischer Objekte}, 
+ crossref={belliger2006anthology},
+}
 
-Produktionsmodell
------------------
-"Allgemein läßt sich ein Produktionsmodell als Netzwerk begreifen."
-(84)
+## Inskribieren - Skript
+"Ein großer Teil der Arbeit von Innovationen ... ein 'Skript' oder ein 'Szenario'." (411)
+
+## Skript
+"Also definieren technische Objekte wie ein Filmskript." (411)
 >
+    @excerpt = Excerpt.new text
   end
   
   it 'should create an excerpt from a text and has its raw content' do
-    excerpt = Excerpt.new @text
-    excerpt.text.should_not be_nil
+    @excerpt.text.should_not be_nil
   end
  
   it 'should create an ExcerptHeader' do
-    excerpt = Excerpt.new @text
-    excerpt.header.should_not be_nil
-    excerpt.header.text.should include('Mario Candeias')
+    @excerpt.header.should_not be_nil
+    @excerpt.header.text.should include('belliger2006anthology')
   end 
 
   it 'should use the key of the header' do
-    excerpt = Excerpt.new @text
-    excerpt.key.should == excerpt.header.key
+    @excerpt.key.should == @excerpt.header.key
   end
 
   it 'should create a list of citations' do
-    excerpt = Excerpt.new @text
-    excerpt.citations.should have(2).items
-    excerpt.citations[0].text.should include('fordistische')
+    @excerpt.citations.should have(2).items
+    @excerpt.citations[0].text.should include('Innovationen')
   end
+
+  it 'should be valid if the header is valid' do
+    @excerpt.header.should be_valid
+    @excerpt.should be_valid
+  end
+
 end

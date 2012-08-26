@@ -22,6 +22,6 @@ class ExcerptRepository
   end
 
   def add_excerpt excerpt
-    @excerpts[excerpt.key] = excerpt
+    @excerpts[excerpt.key] = excerpt if excerpt.valid?
   end
 end

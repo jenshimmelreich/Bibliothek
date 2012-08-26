@@ -6,71 +6,111 @@ describe ExcerptHeader do
 
   describe 'for Doerre' do
     before do
-      @text = %<Klaus Dörre
+      @text = %<Madleine Akrich (et al)
 
-Gibt es ein nachfordistisches Produktionsmodell
-===============================================
-in: Mario Candeias & Frank Deppe
-Ein neuer Kapitalismus
-Hamburg 2001
-(Dörre 2001)
+## Die De-Skription technischer Objekte
+
+@incollection{akrich2006deskription,
+ author={Madleine Akrich}, 
+ title={Die De-Skription technischer Objekte}, 
+ crossref={belliger2006anthology},
+}
 >
       @header = ExcerptHeader.new @text
     end
    
     it 'should extract the author' do
-      @header.author.should == 'Klaus Dörre'
+      @header.author.should == 'Madleine Akrich'
     end
    
     it 'should extract the title' do
-      @header.title.should == 'Gibt es ein nachfordistisches Produktionsmodell'
+      @header.title.should == 'Die De-Skription technischer Objekte'
     end
    
     it 'should have a mark' do
-      @header.mark.should == 'Dörre 2001'
+      @header.mark.should == 'akrich2006deskription'
     end
    
-    it 'should have a source' do
-      @header.source.should include('& Frank Deppe')
+    it 'should have a text' do
+      @header.text.should include('belliger2006anthology')
     end
-
-    it 'should generate a key from title and author' do
-      key = CGI.escape "#{@header.author}_#{@header.title}"
-      @header.key.should == key
+ 
+    it 'should use the mark as key' do
+      @header.key.should == 'akrich2006deskription'
     end
   end
 
 
   describe 'for Ehrenberg' do
     before do
-      text = %<Alain Ehrenberg
-
-Die Müdigkeit man selbst zu sein
-================================
-Ehrenberg, Alain: Die Müdigkeit man selbst zu sein.
-In: Endstation. Sehnsucht.
-Kapitalismus und Depression I.
-herausgegeben von Carl Hegemann
-Berlin 2000
-(Ehrenberg 2000)
+      text = %<Bruno Latour
+ 
+  Eine neue Soziologie für eine neue Gesellschaft
+  Einführung in die Akteur-Netzwerk-Theorie
+ 
+ @BOOK{latour2010soziologie, 
+ title={Eine neue Soziologie für eine neue Gesellschaft},
+ author={Bruno Latour}
+}
 >
       @header = ExcerptHeader.new text
     end
    
     it 'should extract the author' do
-      @header.author.should == 'Alain Ehrenberg'
+      @header.author.should == 'Bruno Latour'
     end
    
     it 'should extract the title' do
-      @header.title.should == 'Die Müdigkeit man selbst zu sein'
+      @header.title.should == 'Eine neue Soziologie für eine neue Gesellschaft'
     end
    
     it 'should have a mark' do
-      @header.mark.should == 'Ehrenberg 2000'
+      @header.mark.should == 'latour2010soziologie'
     end
    
-    it 'should have a source' do
-      @header.source.should include('Endstation. Sehnsucht')
+    it 'should have a text' do
+      @header.text.should include('Einführung in die Akteur-Netzwerk-Theorie')
+    end
+  end
+
+  describe 'for an validity of an entry' do
+
+    it 'should need author, title and key' do
+      text = %<@BOOK{latour2010soziologie, 
+ title={Eine neue Soziologie für eine neue Gesellschaft},
+ author={Bruno Latour}
+}
+>
+      header = ExcerptHeader.new text
+      header.should be_valid
+    end
+    
+    it 'should need author' do
+      text = %<@BOOK{latour2010soziologie, 
+ title={Eine neue Soziologie für eine neue Gesellschaft},
+}
+>
+      header = ExcerptHeader.new text
+      header.should_not be_valid
+    end
+
+    it 'should need title' do
+      text = %<@BOOK{latour2010soziologie, 
+ author={Bruno Latour}
+}
+>
+      header = ExcerptHeader.new text
+      header.should_not be_valid
+    end
+
+    it 'should need key' do
+      text = %<
+ title={Eine neue Soziologie für eine neue Gesellschaft},
+ author={Bruno Latour}
+}
+>
+      header = ExcerptHeader.new text
+      header.should_not be_valid
     end
   end
 
