@@ -56,3 +56,50 @@ totalpages={136},
 
 ## Arbeit am Text
 "In der Forschungspraxis zielt die Arbeit am Text - wie sonst auch in der qualitativen Sozialforschung - auf die Rekonstruktion typischer bzw. typisierbarer Strukturelemente, die unterschiedlich - etwas als kognitive, klassifikatorische oder narrative Strukturen, als Deutungsmuster, Topoi u.a. - gefasst werden und als sinnstiftende Muster den untersuchten Diskursen zugrunde liegen." (79)
+
+## Methodische Schritte
+"Diskursanalyse beginnt mit der Festlegung des oder der zu untersuchenden Wissen- bzw. Diskursfelder, [...] Themenaufhänger [...], ein institutionelles Setting [...] Ein nächster Schritt besteht in der ersten, vorläufigen Foumulierung der Fragestellungen [...]. Daran schließen die adäquate Bestimung der Untersuchungsgrößen, deren diskurstheoretische Konzeption und die entsprechend auszuwählenden Datenerhebungs- und Auswertungsverfahren an. [...] Datenerhebung, [...] Zusammenstellung des Datenkorpus [...] Phasen der Feinanalyse einzelner Daten wechseln ab mit Phasen der Hypothensenbildung, der theoretischen Verdichtung und Präsentation von Zwischenegebnissen. [...] Abgeschlossen wird der Rekonstruktionsprozess durch eine zusammenfassende Interpretation und Aufbereitung der Ergebnisse." (85)
+
+## Dokumentenkorpus
+"Diskursanalysen beziehen sich in der Regel nicht auf ein einziges oder wenige solcher Einzeldokumente, sondern sie stellen ein größeres Dokumentenkorpus zusammen. Den wichtigsten Zugang bilden sprachförmige, 'natürliche' Dokumente aller Art [...]. (87)
+
+## Diskursanalyse sozialer Praktiken
+"Die bisherigen Diskursanalysen beschäftigten sich mit sozialen Praktiken in der Regel eher indirekt - sie analysieren Aussagen über Praktiken." (87)
+
+## Maximale/Minimale Kontrastierung
+"Man beginnt zunächst mit einem 'bedeutsam' erscheinen Dokument und sucht dann innerhalb des Datenkorpus nach einem dazu stark unterschiedlichen (maximale Kontrastierung) oder vergleichsweise ähnlichen (minimale Kontrastierung) Aussageereignis." (92)
+
+## Interpretative Analytik
+"Diese umfasst, bezogen auf ein einzelnes Aussageereignis, die Analyse seiner Situiertheit und materialen Gestalt, die Analyse der formalen und sprachlich-rhetorischen Struktur und die interpretative-analytische Rekonstruktion der Aussageinhalte." (97)
+
+## Feinanaylse
+"Beginnend mit dem Lesen einzelner Dokumente schreitet man zu Paraphrasierungen, zur Kontextanalyse und analytischen Zergliederung, zu detailgenauen Interpretation und schließlich zur Zusammenfassung." (99)
+
+## Unterscheidung von Kontextdimensionen
+"- historisch-sozialer , zeitdiagnostische Kontext [...]
+- institutionell-organisatorischer Kontext: [...] Was sind besondere Strukturmerkmale, Regeln und Textformate dieses Feldes? In welcher Auflage, für welches Publikum wurden die Texte verfasst? Wie werden sie verbreitet? Welche Sprachformen, Themen, Machtverhältnisse sind charakteristisch für diese Feld?
+- situativer Kontext: Wer ist als konkreter Autor, Verfasser, Verantwortlicher für ein Dokument benannt? Von welcher institutionell-organisatorischen und situativen Position heraus wurde der Text verfasst?" (100)
+
+## Phänomenstruktur
+"Der Begriff der Phänomenstruktur bezieht sich darauf, dass Diskurse in der Konstitution ihres referenziellen Bezuges (also ihres 'Themas') unterschiedliche Elemente benennen und zu einer spezifischen Gestalt der Phänomenkonstitution, einer Problemstruktur oder -konstellation verbinden." (103)
+
+## Problemstruktur
+"Die analytische Beschreibung der Problemstruktur richtet sich auf Zweierlei:
+(1) Die dimensionale Erschließung des Phänomens [...]
+(2) Die inhaltiche Ausführung der Dimensionen: [...] Durch die Analyse der verschiedenen Aussagen hindurch lassen sich so Kodierfamilien rekonstruieren, d.h. Zuordnungen unterschiedlicher Merkmalsausprägungen zu den entsprechenden Kode-Kategorien wie Ursachen, Konsequenzen, Korrelationen, Randbedingungen, Prozesse, Typen, Identitäten u.a." (105)
+
+## Erschließund der Elemente der Phänomenstruktur
+"Die jeweiligen Gründe für die Vergabe von Kodierbegriffen lassen sich in Form von Memos, also mehr oder weniger systematisierten begleitenden Notizen festhalten. Bei dieser Vorgehensweise werden Wort für Wort bzw. Satz für Satz die Weltbezüge und -dimensionen erschlossen, die ein Diskurs eröffnet bzw. mehr oder weniger implizit setzt. Allerdings stehen diese Bezüge an diesem Punkt der Analyse noch vergleichsweise unverbunden nebeneinander. Erst durch die Rekonstruktion des roten Fadens, der story line oder des 'plots', der sie verknüpft und in einen spezifisch sinnvollen Zusammenhang verwickelt, wird dieser Analyseschritt vollständig (s.u.)" (106f)
+
+## Deutungsmuster
+"Die Konstitution und Aufbereitung des Themas oder Referenzphänomens eines Diskurses kann im Anschluss an die erfolgte Analyse der Phänomenstrukutr auch weitergehend im Hinblich auf die diskursspezische Aktualisierung und Verknüpfung allgemeiner Deutungsmuster rekonstruiert werden, die im Kontext einer Wissens-Gemeinschaft verfügbar sind." [...] Der Begiff des Deutungsmusters visiert den sozial typischen Sinn einer Aussageeinheit an, also gesellschaftlich vorübergehend konvertionalisierte Deutungsfiguren. " [als Beispiel folgt u.a. das Technikdeutungsmuster Risiko] (108)
+
+## Narrative Struktur
+"Verschiedene Ansätze der Diskursforschung betonen die Rolle von story lines, roten Fäden, plots oder narrativen Mustern, durch welche die einzelnen Bestandteile einer Aussage zu einer kleineren oder größeren Erzählung bzw. Geschichte verbunden, also über die willkürliche Reihung sprachlicher Äußerungen hinaus spezisch konfiguriert werden." (110f)
+
+## Vorgehensweise bei der Narrationsanalyse
+[nach Viehöver 2010b]
+1. "Identifikation der einzelnen Episoden der Narration"
+2. "Feinanalyse der Episoden, der Aktanten-, Raum- und Zeitstrukturen der Narrationselemente und ihrer Verknüpfungen durch den plot"
+3. Bestimmung der zentralen Gegensätze und Wertestrukturen"
+4. Bestimmung der für den Diskurs typischen Narrationen." (111)
