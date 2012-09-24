@@ -16,6 +16,8 @@ describe 'An Excerpt' do
 ## Inskribieren - Skript
 "Ein großer Teil der Arbeit von Innovationen ... ein 'Skript' oder ein 'Szenario'." (411)
 
+## Zwischentitel
+
 ## Skript
 "Also definieren technische Objekte wie ein Filmskript." (411)
 >
@@ -36,9 +38,16 @@ describe 'An Excerpt' do
   end
 
   it 'should create a list of citations' do
-    @excerpt.citations.should have(2).items
+    @excerpt.citations.should have(3).items
     @excerpt.citations[0].text.should include('Innovationen')
   end
+
+  it 'should render a subtitle as citation without content' do
+    citation = @excerpt.citations[1]
+    citation.title.should include('Zwischentitel')
+    citation.content.should be_empty
+  end
+
 
   it 'should be valid if the header is valid' do
     @excerpt.header.should be_valid
