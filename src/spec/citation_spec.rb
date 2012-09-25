@@ -32,5 +32,19 @@ Und
     citation = Citation.new text
     citation.reference.should == '411'
   end
+
+  it 'should be a subtitle if it has no content' do
+    text = %<## Zwischentitel
+>
+    citation = Citation.new text
+    citation.title.should == 'Zwischentitel'
+    citation.content.should be_empty
+    citation.should be_subtitle
+  end
+
+  it 'should not be a subtitle if it has content' do
+    @citation.content.shouldnt be_subtitle
+  end
+
 end
 
