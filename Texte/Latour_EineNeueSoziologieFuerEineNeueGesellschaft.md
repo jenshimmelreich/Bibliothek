@@ -27,10 +27,10 @@ Frankfurt am Main: 2010
 ## Wie kann man die Aufgabe wiederaufnehmen, den Spuren der Assoziationen zu folgen?
 
 ## Soziale
-"Im vorliegenden Werk will ich aufzeigen, wieso das Soziale nicht als eine Art von Mateial oder Sphäre aufgefaßt werden kann, und bestreiten, daß sich eine 'sozial Erklärung' irgendeines anderen Sachverhalts liefern läßt." (10)
+"Im vorliegenden Werk will ich aufzeigen, wieso das Soziale nicht als eine Art von Material oder Sphäre aufgefaßt werden kann, und bestreiten, daß sich eine 'soziale Erklärung' irgendeines anderen Sachverhalts liefern läßt." (10)
 
 ## Das Soziale als Verknüpfungstyp
-"In dieser Bedeutung des Adjektis bezeichnet 'sozial' kein Ding unter anderen Dingen, wie etwas ein schwarzes Schaf unter weißen Schafen, sondern einen Verknüpfungstyp zwischen Dingen, die selbst nicht sozial sind." (17)
+"In dieser Bedeutung des Adjektivs bezeichnet 'sozial' kein Ding unter anderen Dingen, wie etwas ein schwarzes Schaf unter weißen Schafen, sondern einen Verknüpfungstyp zwischen Dingen, die selbst nicht sozial sind." (17)
 
 ## Sichtbarkeit des Sozialen
 "Sichtbar ist das Soziale aber nur in den Spuren, die es hinterläßt (im Verlauf von Erprobungen, Versuchen), wenn eine neue Assoziation zwische Elementen hervorgebracht wird, die selbst keineswegs 'sozial' sind." (22)
@@ -56,29 +56,38 @@ Frankfurt am Main: 2010
 ## Erste Quelle der Unbestimmtheit:
 ## Keine Gruppen, nur Gruppenbildungen
 
+## Gruppe oder Gruppenbildung
+"Die Alternative ist demnach klar: Entweder wir folgen den Sozialtheoretikern und beginnen unsere Reise damit, dass wir am Ausgangspunkt klarmachen, auf welche Art von Gruppe und welche Ebene der Analyse wir uns festlegen, oder wir folgen den Wegen der Akteure und beginnen unsere Reiese mit den Spuren, die ihre Aktivität der Gruppenbildung und -auflösung hinterlässt." (53)
+
 ## Konzepte der Analytiker - Konzepte der Akteure
 "Ist es den Konzepten der Akteure erlaubt, stärker als die der Analytiker zu sein, oder ist es der Analytiker, der die ganze Zeit redet?" (55)
 
 ## Kontroversen über Gruppen
-"Die Lösung besteht darin, eine Auflistung der sozialen Aggreggate - eine unmögliche Aufgabe - durch eine Liste der Elemente zu ersetzen, die in Kontroversen über Gruppen stets präsent sind - eine sehr viel einfachere Aufgabe." (56)
+"Während es auf den ersten Blick für Soziologen leichter scheinen könnte, sich im vorhinein auf eine Gruppe festzulegen, anstatt die Kontroverse über Gruppenbildung zu kartographieren, ist genau das Gegenteil der Fall, und zwar aus einem guten empirischen Grund. Gruppenbildungen hinterlassen sehr viel mehr Spuren als bereits etablierte Verbindungen, die, definitionsgemäß, stumm und unsichtbar bleiben. [...] Die Lösung besteht darin, eine Auflistung der sozialen Aggreggate - eine unmögliche Aufgabe - durch eine Liste der Elemente zu ersetzen, die in Kontroversen über Gruppen stets präsent sind - eine sehr viel einfachere Aufgabe." (56)
 
 ## Definition von Gruppen
-"Für jede zu definierende Gruppe wird dementsprechend eine Liste von Anti-Gruppen aufgestellt. Das ist recht angenehm für Beobachter, denn es bedeutet, daß die Akteure ständig mit der Kartographierung des 'sozialen Kontexts' beschäftigt sind, in den sie gestellt sind, und sie so dem Analytiker eine ausgewachsene Theorie darüber anbieten, mit welcher Art von Sozilogie sie zu behandeln seien." (59)
+"Für jede zu definierende Gruppe wird dementsprechend eine Liste von Anti-Gruppen aufgestellt. Das ist recht angenehm für Beobachter, denn es bedeutet, daß die Akteure ständig mit der Kartographierung des 'sozialen Kontexts' beschäftigt sind, in den sie gestellt sind, und sie so dem Analytiker eine ausgewachsene Theorie darüber anbieten, mit welcher Art von Soziologie sie zu behandeln seien." (59)
+
+## Definition von Gruppen
+"Wenn Gruppen gebildet oder umverteilt werden, suchen ihre Sprecher ziemlich verzweifelt nach Wegen, sie zu de-finieren, das heißt abzugrenzen." (60)
 
 ## Untersuchung von Gruppen
 "Für die Soziologen der Assoziationen ist jegliche Untersuchung jeglicher Gruppe durch jegliche Sozialwissenschaftler Teil und Posten dessen, was die Gruppe existieren, dauern, zerfallen oder verschwinden läßt." (61)
 
 ## Ostensive und performative Definition von Gruppen
-"Was wir verloren haben - eine festehende Liste von Gruppen -, haben wir anderswo wieder hinzugewonnen, denn Gruppierungen müssen ständig gebildet oder neu gebildet werden, und während dieser Schöpfung oder Neuschöpfung hinterlassen die Gruppenbildner viele Spruen, die der Analytiker als Daten verwenden kann. Dieser Unterschied läßt sich beispielsweise dadurch kennzeichnen, daß soziale Aggreagete nicht Gegenstand einer ostensiven Definition sind - wie Tassen und Katzen und Stühle, auf die wir mit dem Zeigefingen deuten können -, sondern nur einer performativen Definition." (62)
+"Was wir verloren haben - eine festehende Liste von Gruppen -, haben wir anderswo wieder hinzugewonnen, denn Gruppierungen müssen ständig gebildet oder neu gebildet werden, und während dieser Schöpfung oder Neuschöpfung hinterlassen die Gruppenbildner viele Spuren, die der Analytiker als Daten verwenden kann. Dieser Unterschied läßt sich beispielsweise dadurch kennzeichnen, daß soziale Aggregate nicht Gegenstand einer ostensiven Definition sind - wie Tassen und Katzen und Stühle, auf die wir mit dem Zeigefingen deuten können -, sondern nur einer performativen Definition." (62)
 
-## Ostensive versus perfomative Definition
-"Das Problem bei jeder ostensiven Definition des Sozialen ist, daß anscheinend keine zusätzliche Anstrengung nötig ist, um die Gruppen in Existenz zu halten,, und der Einfluß des Analytikers unerheblich bleibt - oder bloß als störender Faktor gilt, der zu minimieren ist. Der große Nutzen einer performativen Definition liegt darin, daß sie in die entgegengesetzte Richtung weist: Sie lenkt die Aufmerksamkeit auf die erforderlichen Mittel, um die Gruppen unablässig aufrechtzuerhalten, und auf den entscheidenden Beitrag, der durch die spezifischen Ressourcen des Analytikers geliefert wird." (64)
+## Ostensive versus perfomartive Definition
+"Das Problem bei jeder ostensiven Definition des Sozialen ist, daß anscheinend keine zusätzliche Anstrengung nötig ist, um die Gruppen in Existenz zu halten, und der Einfluß des Analytikers unerheblich bleibt - oder bloß als störender Faktor gilt, der zu minimieren ist. Der große Nutzen einer performativen Definition liegt darin, daß sie in die entgegengesetzte Richtung weist: Sie lenkt die Aufmerksamkeit auf die erforderlichen Mittel, um die Gruppen unablässig aufrechtzuerhalten, und auf den entscheidenden Beitrag, der durch die spezifischen Ressourcen des Analytikers geliefert wird." (64)
+
+## Unterschied ostensiv - performativ
+"Der Gegenstand der ostensiven Definition bleibt da, ganz gleich was mit dem Zeigefinger des Zuschauers geschieht. Doch der Gegenstand einer performativen Definition löst sich auf, wenn er nicht länger zu Darstellung gebracht wird - oder, wenn er trotzdem bleibt, dann bedeutet dies, dass andere Akteure die Aufgabe übernommen haben." (68)
 
 ## Zwischenglied - Mittler
 "Ein Zwischenglied ist in meinem Vokabular etwas, das Bedeutung oder Kraft ohne Transformation transportiert: Mit seinem Input ist auch sein Output definiert. [...] Mittler übersetzen, entstellen, modifizieren und transformieren die Bedeutung oder die Elemente, die sie übermittlen sollen." (70)
 
 ## Mittler und Zwischenglieder
-"Die Soziologen des Sozialen glauben an einen Typ sozialer Aggregate, an wenige Mittler und viele Zwischenglieder; für die ANT git es keinen bevorzugten Typ sozialer Aggregate, eine endlose Zahl von Mittlern, und wenn diese in getreue Zwischenglieder verwandelt werden, so bildet das nicht die Regel, sondern eine seltene Ausnahme, die durch irgendeine zusätzliche Arbeit erklärt werden muß - gewöhnlich durch die Mobilisierung von noch mehr Mittlern!" (72)
+"Die Soziologen des Sozialen glauben an einen Typ sozialer Aggregate, an wenige Mittler und viele Zwischenglieder; für die ANT gibt es keinen bevorzugten Typ sozialer Aggregate, eine endlose Zahl von Mittlern, und wenn diese in getreue Zwischenglieder verwandelt werden, so bildet das nicht die Regel, sondern eine seltene Ausnahme, die durch irgendeine zusätzliche Arbeit erklärt werden muß - gewöhnlich durch die Mobilisierung von noch mehr Mittlern!" (72)
 
 
 ## Zweite Quelle der Unbestimmheit:
