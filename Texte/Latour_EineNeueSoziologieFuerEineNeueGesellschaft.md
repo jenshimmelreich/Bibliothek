@@ -77,7 +77,7 @@ Frankfurt am Main: 2010
 ## Ostensive und performative Definition von Gruppen
 "Was wir verloren haben - eine festehende Liste von Gruppen -, haben wir anderswo wieder hinzugewonnen, denn Gruppierungen müssen ständig gebildet oder neu gebildet werden, und während dieser Schöpfung oder Neuschöpfung hinterlassen die Gruppenbildner viele Spuren, die der Analytiker als Daten verwenden kann. Dieser Unterschied läßt sich beispielsweise dadurch kennzeichnen, daß soziale Aggregate nicht Gegenstand einer ostensiven Definition sind - wie Tassen und Katzen und Stühle, auf die wir mit dem Zeigefingen deuten können -, sondern nur einer performativen Definition." (62)
 
-## Ostensive versus perfomartive Definition
+## Ostensive versus performative Definition
 "Das Problem bei jeder ostensiven Definition des Sozialen ist, daß anscheinend keine zusätzliche Anstrengung nötig ist, um die Gruppen in Existenz zu halten, und der Einfluß des Analytikers unerheblich bleibt - oder bloß als störender Faktor gilt, der zu minimieren ist. Der große Nutzen einer performativen Definition liegt darin, daß sie in die entgegengesetzte Richtung weist: Sie lenkt die Aufmerksamkeit auf die erforderlichen Mittel, um die Gruppen unablässig aufrechtzuerhalten, und auf den entscheidenden Beitrag, der durch die spezifischen Ressourcen des Analytikers geliefert wird." (64)
 
 ## Unterschied ostensiv - performativ
@@ -100,7 +100,7 @@ Frankfurt am Main: 2010
 "[Das Wort agency ist in der Tat auch ins Deutsche nicht adäquat durch einen einzigen Begriff zu übertragen. Während es klassischerweise als 'Handeln' und 'Handlung' übersetzt wird (aber auch mit 'Kraft', 'Wirkmächtigkeit' oder 'Wirksamkeit'), geht die neuere wichtige Nuance des verteilbaren Handlungspotentials und verschiedener, auch nicht-menschlicher Handlungsträger dabei verloren. [...] Dort [in der französischen Übersetzung] finden wir etwa forme d'existence (Existenzform), mode d'existence (Existenzweise, -modes, Seinsweise, Existenzform), entité (Entität), actant (Aktant), agent (Agent, Handlungsträger), agence (Agentur, als Pendant zu agency), wobei forme d'existence am häufigsten vorkommt. Neben der von dort entlehnten 'Existenform' habe ich 'Handlungsträger' bevorzugt verwendet, sofern möglich, da sich 'Handlungsträgerschaft' nicht nur wegen seiner Schwerfälligkeit verbietet. A.d.Ü]" (79)
 
 ## Handeln
-"Damit die Sozialwissenschaften ihre anfängliche Energie wiedergewinnen, ist es entscheidend, gerade nicht die verschieden Existenformen, die das Handeln tragen in eine Art von allgemeienm Handlungsträger zusammenzuschmelzen - 'Gesellschaft', 'Kultur', 'Struktur', 'Felder', 'Individuen' oder welchen Namen auch immer man ihm gibt -, der selbst sozial wäre. Handeln sollte eine Überraschung bleiben, eine Vermittlung, eine Ereignis. Daher sollten wir auch hier wieder nicht von der 'Determination des Handelns durch die Gesellschaft', den 'kalkulierenden Fähigkeiten der Individuen' oder der 'Macht des Unbewußten' ausgehen, wie wir es üblicherweise tun, sondern davon, daß das Handeln unterdeterminiiert ist, daß es Unbestimmtheiten und Kontroversen darüber gibt, wer und was handelt, wenn 'wir' handeln - und daß es selbstverständdlich keine Möglichkeit gibt zu entscheiden, ob die Quelle der Unbestimmtheit im Analytiker oder im Akteur liegt." (80)
+"Damit die Sozialwissenschaften ihre anfängliche Energie wiedergewinnen, ist es entscheidend, gerade nicht die verschieden Existenformen, die das Handeln tragen in eine Art von allgemeinen Handlungsträger zusammenzuschmelzen - 'Gesellschaft', 'Kultur', 'Struktur', 'Felder', 'Individuen' oder welchen Namen auch immer man ihm gibt -, der selbst sozial wäre. Handeln sollte eine Überraschung bleiben, eine Vermittlung, eine Ereignis. Daher sollten wir auch hier wieder nicht von der 'Determination des Handelns durch die Gesellschaft', den 'kalkulierenden Fähigkeiten der Individuen' oder der 'Macht des Unbewußten' ausgehen, wie wir es üblicherweise tun, sondern davon, daß das Handeln unterdeterminiiert ist, daß es Unbestimmtheiten und Kontroversen darüber gibt, wer und was handelt, wenn 'wir' handeln - und daß es selbstverständlich keine Möglichkeit gibt zu entscheiden, ob die Quelle der Unbestimmtheit im Analytiker oder im Akteur liegt." (80)
 
 ## Akteur
 "Ein 'Akteur' in dem Bindestrich-Ausdruck Akteur-Netzwerk ist nicht der Ursprung einer Handlung, sondern das bewegliche Ziel eines riesigen Aufgebots von Entitäten, die zu ihm hin stromen." (81)
@@ -118,19 +118,19 @@ Frankfurt am Main: 2010
 "Genauso ist es meines Erachtens möglich, eine begrenzte Menge von Zugriffsmöglichkeiten vorzuschlagen, um zu verfolgen, wie die Akteure in ihren Berichten über ihre Handlungsquellen Entitäten diskreditieren oder kreditieren." (91)
 
 ## Handlungsträger
-"Handlungsträger sind Teil eines Berichts; ihnen wird eine bestimmte Gestalt verliehen; sie werden von anderen konkurrierenden Handlungsträgern abghoben; und schließlich werden sie von irgendeiner Art von Handlungstheorie begleitet." (92)
+"Handlungsträger sind Teil eines Berichts; ihnen wird eine bestimmte Gestalt verliehen; sie werden von anderen konkurrierenden Handlungsträgern abgehoben; und schließlich werden sie von irgendeiner Art von Handlungstheorie begleitet." (92)
 
 ## Figuration
 "Figuration ist einer der technischen Termini, die ich einführen muß, um die reflexhaften Reaktionen der 'sozialen Erklärung' zu brechen, denn es ist wichtig zu begreifen, daß es sehr viel mehr Figuren und Gestalten gibt als bloß anthropomorphe. Dies ist einer der vielen Fälle, wo die Soziologie lernen muß abstrakter zu werden. Einer Entität Anonymität zu verleihen gibt ihr ebensosehr eine Gestalt, wie sie mit einem Namen, einer Nase, eine Stimme ode einem Gesicht zu versehen." (93f)
 
 ## Aktant
-"Um sich vom Einfluß der 'figurativen Soziologie' frei zu machen, wie man sie nennen könnte, verwendet die ANT den technschen Ausdruck Aktant, der aus der Literaturwissenschaft entlehnt ist. [... - ein Beispiel] Daß die erste Figuration ein strukturelles Merkmal ist, die zweite eine Körperschaft, die dritte ein Individuum, die vierte ein loses Aggregat von Individuen macht natürlich einen großen Unterschied aus für den Bericht, doch sie alle liefern verschiedene Fugurationen derselben Aktionen. [...] Die große Schwierigkeit der ANT ist es, sich nicht vom Figurationstyp beeindrucken zu lassen: Ideo- oder Techno- ode Biomorphismen sind genausogut 'Morphismen' wie die Verkörperung eines Aktanten in einem einzigen Individuum." (95)
+"Um sich vom Einfluß der 'figurativen Soziologie' frei zu machen, wie man sie nennen könnte, verwendet die ANT den technschen Ausdruck Aktant, der aus der Literaturwissenschaft entlehnt ist. [... - ein Beispiel] Daß die erste Figuration ein strukturelles Merkmal ist, die zweite eine Körperschaft, die dritte ein Individuum, die vierte ein loses Aggregat von Individuen macht natürlich einen großen Unterschied aus für den Bericht, doch sie alle liefern verschiedene Fugurationen derselben Aktionen. [...] Die große Schwierigkeit der ANT ist es, sich nicht vom Figurationstyp beeindrucken zu lassen: Ideo- oder Techno- oder Biomorphismen sind genausogut 'Morphismen' wie die Verkörperung eines Aktanten in einem einzigen Individuum." (95)
 
-## Handlungshteorien
-"Viertens sind Akteure ebenfalls in der Lage, ihre eigenen Handlungsthreorien vorzuschlagen, um zu erklären, wie die Handlungsträger ihrer Wirkungen entfalten." (100)
+## Handlungstheorien
+"Viertens sind Akteure ebenfalls in der Lage, ihre eigenen Handlungstheorien vorzuschlagen, um zu erklären, wie die Handlungsträger ihrer Wirkungen entfalten." (100)
 
 ## Handlungstheorie
-"Für das Folgende ist es grundlegend, daß dieser Unterschied quer durch alle Existenzformen verläuft, ganz gleich, welches ihre Figuration ist. Ein sogenanntes 'kaltes und anonymes Kräftefeld' kann in den Bericht als Mittler eingegen, während eine nahestehende, individuelle, 'lebendige', 'erlebte' intentionale Person als bloßes Zwischenglied dargestellt werden kann. Mit anderen Worten: Aus der Wahl einer bestimmten Figuration läßt sich schlecht voraussagen, welche Handlungstheorie herangezogen werden wird. Was zählt, ist nicht der Typ der Figuren, sondern das Spektrum von Mittlern, die man sich entfalten läßt." (101)
+"Für das Folgende ist es grundlegend, daß dieser Unterschied quer durch alle Existenzformen verläuft, ganz gleich, welches ihre Figuration ist. Ein sogenanntes 'kaltes und anonymes Kräftefeld' kann in den Bericht als Mittler eingehen, während eine nahestehende, individuelle, 'lebendige', 'erlebte' intentionale Person als bloßes Zwischenglied dargestellt werden kann. Mit anderen Worten: Aus der Wahl einer bestimmten Figuration läßt sich schlecht voraussagen, welche Handlungstheorie herangezogen werden wird. Was zählt, ist nicht der Typ der Figuren, sondern das Spektrum von Mittlern, die man sich entfalten läßt." (101)
 
 ## Mittlern
 "Bei Mittlern ist die Situation eine andere: Aus Ursachen lassen sich keine Wirkungen deduzieren, sie stellen bloß Gelegenheiten, Umstände und Präzedenzfälle bereit." (102)
@@ -145,7 +145,7 @@ Frankfurt am Main: 2010
 "Entweder bleiben wir bei den Analytikern, die nur über eine einzige ausgearbeitete Metaphysik verfügen, oder wir 'folgen den Akteuren', die mit mehr als einer zurechtkommen. Konkretheit erreicht man nicht dadurch, daß man hinsichtlich der Akteure eine Figuration gegenüber einer anderen bevorzugt, sondern dadurch, daß in den Berichten der relative Anteil der Mittler gegenüber den Zwischengliedern zunimmt. An diesem Verhältnis wird man im Grunde immer eine gute soziologische ANT-Untersuchung erkennen." (107)
 
 ## Dritte Quelle der Unbestimmtheit:
-## Welche Aktion fpr welche Objekte?
+## Welche Aktion für welche Objekte?
 
 ## Action - Handlung
 "[Wie schon im Vorigen wurde auch hier action mit Handeln, Handlung und Aktion übersetzt, to act mit handeln, tun und agieren. Wird action stringent mit 'Handeln' übersetzt, dann handeln provokanterweise auch Dinge. Da Latour den emphatischen intentionalen Handlungsbegriff der traditionellen Soziologie kritisiert und somit auch nicht auf Dinge übertragen will, scheint mir eine uneinheitliche und differenziertere Übersetzung, die Objekte in der regel 'nur' agieren oder Tätigkeiten verrichten läßt, angemessen. A. d. Ü.]" (109)
