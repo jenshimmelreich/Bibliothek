@@ -7,6 +7,7 @@ Einleitung
 - sichtbar nur indirekt, als Verknüpfungs/Assoziation
 - Soziologie des Sozialen (I)
 - Soziologie der Assoziation (II)
+- Auf Kontroversen stützen (91)
 
 1. Keine Gruppen nur Gruppenbildungen
 - Gruppenbildungen sind in Kontroversen beobachtbar (Fabrikationsmechanismus) (II)
@@ -23,6 +24,22 @@ Einleitung
 2. Handeln wird aufgehoben
 - Handeln ist nicht transparent (dem Bewußtsein)
 - Agency: klassisch als Handlung/Handeln, hier als Handlungsträger
-- keine monokausale Handlungsursache (Feld, Struktur, Individuum)
+- keine allgemeiner Handlungsträger (Feld, Struktur, Individuum)
 - Handeln ist unterdeterminiert (auch das Wer)
 - Akteur: wer zum Handeln gebracht wird
+- Unschlüssigkeiten, Vielheiten der Akteure bezüglich der Antriebe zum Handeln sind wertvoll
+- Die Gründe der Akteure sind nicht in einer Metasprache zu überspringen
+- Infrasprache der Soziologen soll Aufmerksamkeit auf die Metasprache der Akteure lenken.
+- Kontroversen folgen: Akteuren ordnen und schaffen selber die Entitäten
+- Im Feld gibt es eine Art von Handlungstheorie
+- Aktanten verweisen auf Aktionen.
+- Figurierte Aktanten sind Akteure (meist anthropomorph).
+- Infrasprache der Semiotik als Schutz gegen Metasprache der Soziologie.
+- Handlungsträger in Berichten
+  1. Etwas tuend, einen Unterschied machend
+  2. Eine Gestalt haben, Figuration
+  3. In Kontroversen um Entitäten machen Akteure ihre Metaphysik sichtbar.
+  4. Akteure haben eigene Handlungstheorien.
+     - wesentlich sind nicht die Figuration sondern Mittler vs. Zwischenglieder
+- Anstelle von Ursachen (I) eine Kette von Mittlern (II)
+- anthropomorph figurierte Akteure sind nicht konkreter, entscheidend ist die Frage der Mittler

@@ -108,6 +108,9 @@ Frankfurt am Main: 2010
 ## Akteur
 "Das Wort 'Akteur' zu verwenden bedeutet, daß nie klar ist, wer und was handelt, wenn wir handeln, denn kein Akteur auf der Bühne handelt allein." (81)
 
+## Antriebe des Handelns
+"Gerade weil das Soziale noch nicht gemacht ist, sollten die Soziologen der Assoziation als ihr kostbarstes Gut all jene Spuren ansehen, in denen die Unschlüssigkeit der Akteure hinsichtlich der sie zum Handeln bringenden 'Antriebe' zum Ausdruck kommen. [...] Wir sollten daber paradoxerweise alle Unbestimmtheiten, Unschlüssigkeiten, Verschiebungen, Verlagerungen, Verwirrungen als unsere Grundlage betrachten." (83)
+
 ## Akteure
 "Und doch sagte die Sängerin, daß sie ihr Leben mit ihrer Stimme teilt und daß die Stimme sie dazu bringt, bestimmte Dinge zu tun. Sind wir in der Lage, diese merkwürdige Redeweise zu respektieren oder nicht? Denn sie ist sehr präzise, sehr aufschlußreich, sehr eindrucksvoll und außerdem sehr bewegend." (85)
 
@@ -118,13 +121,17 @@ Frankfurt am Main: 2010
 "Genauso ist es meines Erachtens möglich, eine begrenzte Menge von Zugriffsmöglichkeiten vorzuschlagen, um zu verfolgen, wie die Akteure in ihren Berichten über ihre Handlungsquellen Entitäten diskreditieren oder kreditieren." (91)
 
 ## Handlungsträger
-"Handlungsträger sind Teil eines Berichts; ihnen wird eine bestimmte Gestalt verliehen; sie werden von anderen konkurrierenden Handlungsträgern abgehoben; und schließlich werden sie von irgendeiner Art von Handlungstheorie begleitet." (92)
+"Handlungsträger sind Teil eines Berichts; ihnen wird eine bestimmte Gestalt verliehen; sie werden von anderen konkurrierenden Handlungsträgern abgehoben; und schließlich werden sie von irgendeiner Art von Handlungstheorie begleitet.
+Als erstes werden die umstrittenen Entitäten stets in einem Bericht präsentiert als etwas tuend oder ein Tun veranlassend, das heißt, sie machen einen Unterschied für eine gegebene Situation, indem sie irgendwelche As in Bs verwandeln durch Versuche oder Kraftproben mit Cs." (92)
 
 ## Figuration
-"Figuration ist einer der technischen Termini, die ich einführen muß, um die reflexhaften Reaktionen der 'sozialen Erklärung' zu brechen, denn es ist wichtig zu begreifen, daß es sehr viel mehr Figuren und Gestalten gibt als bloß anthropomorphe. Dies ist einer der vielen Fälle, wo die Soziologie lernen muß abstrakter zu werden. Einer Entität Anonymität zu verleihen gibt ihr ebensosehr eine Gestalt, wie sie mit einem Namen, einer Nase, eine Stimme ode einem Gesicht zu versehen." (93f)
+"Zweitens: Das eine ist die Präsenz einer verborgenen Kraft, etwas anderes ihre Gestalt, ihre Figuration. Figuration ist einer der technischen Termini, die ich einführen muß, um die reflexhaften Reaktionen der 'sozialen Erklärung' zu brechen, denn es ist wichtig zu begreifen, daß es sehr viel mehr Figuren und Gestalten gibt als bloß anthropomorphe. Dies ist einer der vielen Fälle, wo die Soziologie lernen muß abstrakter zu werden. Einer Entität Anonymität zu verleihen gibt ihr ebensosehr eine Gestalt, wie sie mit einem Namen, einer Nase, eine Stimme ode einem Gesicht zu versehen." (93f)
 
 ## Aktant
 "Um sich vom Einfluß der 'figurativen Soziologie' frei zu machen, wie man sie nennen könnte, verwendet die ANT den technschen Ausdruck Aktant, der aus der Literaturwissenschaft entlehnt ist. [... - ein Beispiel] Daß die erste Figuration ein strukturelles Merkmal ist, die zweite eine Körperschaft, die dritte ein Individuum, die vierte ein loses Aggregat von Individuen macht natürlich einen großen Unterschied aus für den Bericht, doch sie alle liefern verschiedene Fugurationen derselben Aktionen. [...] Die große Schwierigkeit der ANT ist es, sich nicht vom Figurationstyp beeindrucken zu lassen: Ideo- oder Techno- oder Biomorphismen sind genausogut 'Morphismen' wie die Verkörperung eines Aktanten in einem einzigen Individuum." (95)
+
+## Empirische Metaphysik
+"Drittens: [...] So wird jeder Akteur zum Nutzen des Analytikers die empirische Metaphysik kenntlich machen, mit der sie beide es zu tun haben." (98f)
 
 ## Handlungstheorien
 "Viertens sind Akteure ebenfalls in der Lage, ihre eigenen Handlungstheorien vorzuschlagen, um zu erklären, wie die Handlungsträger ihrer Wirkungen entfalten." (100)
