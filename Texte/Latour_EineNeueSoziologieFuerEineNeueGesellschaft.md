@@ -164,7 +164,7 @@ Als erstes werden die umstrittenen Entitäten stets in einem Bericht präsentier
 "Das eine sind die lokalen, nackten, dynamischen, ausrüstungslosen face-to-face-Interaktionen - die ich von nun an als 'Soziales Nr. 3' bezeichnen will;" (112)
 
 ## Ausdehnung, Dauer des Sozialen Nr. 3
-"Der Hauptvorteil, wenn  man den Begriff der sozialen Kraft - Soziales Nr. 1 - auflöst und ihn durch kurzlebige Interaktionen ersetzt - Soziales Nr. 3 -, besteht darin, daß jedesmal, wenn wir die Ausdehnung einer beliebigen Interaktion in der Zeit und im Raum erklären wollen, wir die praktische Mittel für diese Ausgehnung aufspüren müssen." (114)
+"Der Hauptvorteil, wenn  man den Begriff der sozialen Kraft - Soziales Nr. 1 - auflöst und ihn durch kurzlebige Interaktionen ersetzt - Soziales Nr. 3 -, besteht darin, daß jedesmal, wenn wir die Ausdehnung einer beliebigen Interaktion in der Zeit und im Raum erklären wollen, wir die praktische Mittel für diese Ausdehnung aufspüren müssen." (114)
 
 ## Ausdehnung sozialer Ferigkeiten
 "Beachtet man nicht sorgfältig den Unterschied zwischen den elementaren sozialen Fertigkeiten und den zu ihrer Ausdehnung mobilisierten nicht sozialen Mitteln, dann laufen die Analytiker Gefahr zu glauben, die Anführung sozialer Kräfte liefere bereits eine Erklärung." (115)
@@ -185,7 +185,7 @@ Als erstes werden die umstrittenen Entitäten stets in einem Bericht präsentier
 "Wenn wir dagegen bei unserer Entscheidung bleiben, von den Kontroversen um Akteure und Handlungsquellen auszugeben, dann ist jedes Ding, das eine gegebene Situation verändert, indem es einen Unterschied macht, ein Akteur - oder, wenn es noch keine Figuration hat, eine Aktant. Daher sind die hinsichtlich jeglichem Handlungsträger zu stellenden Fragen einfach die folgenden: Macht er einen Unterschied im Verlauf der Handlung irgendeines anderen Handlungsträgers oder nicht? Gibt es irgendeine Probe, einen Versuch, der es jemandem erlaubt, diesen Unterschied zu ermittlen?" (123)
 
 ## Affordance - Metaphysik des Handelns
-"Sondern es bedeutet, daß zwischen voller Kausalität und schierer Inexistenz viele metaphysische Schattierungen existieren können. Außer zu 'determinieren' und als bloßer 'Hintergrund für menschliche Handeln' zu dienen, könnten Dinge vielleicht ermächtigen, ermöglichen, anbieten, ermutigen, erlauben, nahelegen, beeinflussen, verhindern, autorisieren, ausschließen und so fort.^[Hier hat sich der Begriff des 'Angebots' (affordance) als nützlich erwiesen, eingeführt in James J. Gobson (1982), _Wahrnehmung und Umwelt: der ökologische Ansatz in der visuellen Wahrnehmung_. Die Vielfalt der Handlungsmodi, wenn man mit Technik - harter und weicher - zu tun hat, wird wunderbar verfolgt von Lucy A. Suchman (1987), _Plans and Situated Actions_, ...]" (124)
+"Sondern es bedeutet, daß zwischen voller Kausalität und schierer Inexistenz viele metaphysische Schattierungen existieren können. Außer zu 'determinieren' und als bloßer 'Hintergrund für menschliche Handeln' zu dienen, könnten Dinge vielleicht ermächtigen, ermöglichen, anbieten, ermutigen, erlauben, nahelegen, beeinflussen, verhindern, autorisieren, ausschließen und so fort. [Hier hat sich der Begriff des 'Angebots' (affordance) als nützlich erwiesen, eingeführt in James J. Gobson (1982), _Wahrnehmung und Umwelt: der ökologische Ansatz in der visuellen Wahrnehmung_. Die Vielfalt der Handlungsmodi, wenn man mit Technik - harter und weicher - zu tun hat, wird wunderbar verfolgt von Lucy A. Suchman (1987), _Plans and Situated Actions_, ...]" (124)
 
 ## Objekt-orientierte Soziologie
 "Wie dem auch sei, weil eine objekt-orientierte Soziologie für objekt-orientierte Menschen geschaffen wurde, wurde diese Denkrichtung überhaupt bemerkt - und ist es sinnvoll, eine Einführung in sie zu schreiben." (127)
@@ -197,7 +197,7 @@ Als erstes werden die umstrittenen Entitäten stets in einem Bericht präsentier
 "ANT ist nicht, ich wiederhole: ist nicht, die Behauptung irgendeiner absurden 'Symmetrie zwischen Menschen und nicht-menschlichen Wesen'." (131)
 
 ## Symmetrie
-[Fußnote:] "Doch im Sinn hatte ich keienswegs _und_, sondern _weder - noch_: eine gleichzeitige _Auflösung beider Kollektoren_. Das letzte, was ich wollte, war, Natur und Gesellschaft mittels 'Symmetrie' eneues Leben einzuhauchen." (131)
+[Fußnote:] "Doch im Sinn hatte ich keienswegs _und_, sondern _weder - noch_: eine gleichzeitige _Auflösung beider Kollektoren_. Das letzte, was ich wollte, war, Natur und Gesellschaft mittels 'Symmetrie' ein neues Leben einzuhauchen." (131)
 
 ## Objekt zum Reden bringen
 "Daher mußten spezifische Tricks erfunden werden, um die Objekte  zum Reden zu bringen, das heißt Beschreibungen ihrer selbst anzubieten, Skripte von dem zu produzieren, wozu sie andere - Menschen oder Nicht-Menschen - bringen." (137)
@@ -205,8 +205,8 @@ Als erstes werden die umstrittenen Entitäten stets in einem Bericht präsentier
 ## Innovationen in der Werkstatt
 "Die erste Lösung besteht darin, Innovationen in der Werkstatt des Handwerkers zu studieren, in der Entwicklungsabteilung des Ingenieurs, [...].“ (138)
 
-## Distant als Erkenntnisinstrument
-"Zweitens: Selbst die alltäglichsten, traditionellesten und stummsten Werkzeige hören auf, für selbstverständlich gehalten zu werden, wenn sich ihnen Nutzer nähern, die durch Distnaz ungeschicht und unwissend geworden sind [...]" (139)
+## Distanz als Erkenntnisinstrument
+"Zweitens: Selbst die alltäglichsten, traditionellesten und stummsten Werkzeige hören auf, für selbstverständlich gehalten zu werden, wenn sich ihnen Nutzer nähern, die durch Distanz ungeschicht und unwissend geworden sind [...]" (139)
 
 ## Pannen
 "Eine dritte Art von Gelegenheit beiten Unfälle, Defekte und Pannen [...]" (139)
@@ -218,7 +218,7 @@ Als erstes werden die umstrittenen Entitäten stets in einem Bericht präsentier
 "Und schließlich, wenn alles andere scheitert, kann die Ressource der Fiktion [...] die soliden Obejkte von heute in die fluiden Zustände versetzen, in denen ihre Verknüpfungen mit Menschen vielleicht wieder Sinn machen." (141)
 
 ## Handlung - Marx, Bourdieu, Goffman
-"Es wäre unglaubwürdig, wenn die Millionen von Beteiligten an unseren Handlungen nur durch drei Existenzformen, und nur drei, in die sozialen Bindugen hineingelangen dürften: als 'materielle Basis', die soziale Beziehungen 'determiniert', wie in den Marxschen Typen von Materialismus; als ein 'Spiegel', der soziale Unterschiede bloß 'reflektiert', wie bei den kritischen Soziologien Pierre Bourdieus; oder als Hintergrund für die Bühne, auf der menschliche Akteure die Hauptrollen spielen wie  in Erving Goffmans interaktionistischen Berichten." (145f)
+"Es wäre unglaubwürdig, wenn die Millionen von Beteiligten an unseren Handlungen nur durch drei Existenzformen, und nur drei, in die sozialen Bindungen hineingelangen dürften: als 'materielle Basis', die soziale Beziehungen 'determiniert', wie in den Marxschen Typen von Materialismus; als ein 'Spiegel', der soziale Unterschiede bloß 'reflektiert', wie bei den kritischen Soziologien Pierre Bourdieus; oder als Hintergrund für die Bühne, auf der menschliche Akteure die Hauptrollen spielen wie in Erving Goffmans interaktionistischen Berichten." (145f)
 
 ## Vierte Quelle der Unbestimmtheit
 ## Unbestreitbare Tatsachen versus umstrittene Tatsachen

@@ -43,3 +43,18 @@ Einleitung
      - wesentlich sind nicht die Figuration sondern Mittler vs. Zwischenglieder
 - Anstelle von Ursachen (I) eine Kette von Mittlern (II)
 - anthropomorph figurierte Akteure sind nicht konkreter, entscheidend ist die Frage der Mittler
+
+3. Welche Aktion für welche Objekte
+- Soziale Kraft: Soziales Nr. 1
+- Kurzlebige soziale Interaktion: Soziales Nr. 2 - Frage was sind die Mittel ihrer Ausdehnung in Zeit und Raum?
+- Dinge verleihen ihre stählerne Eigenschaft der fragilen Gesellschaft leihen.
+- Jedes Ding, das einen Unterschied macht, eine gegebene Situation verändert ist ein Akteur oder, wenn es noch keine Figuration hat, ein Aktant.
+- Metaphysik des Handelns (nicht Ursache-Wirkung, aktive-inaktiv): "ermächtigen, ermöglichen, anbieten, ermutigen, erlauben, nahelegen, beeinflussen, verhindern, autorisieren, ausschließen"
+- Objekte zum Reden bringen: Skripte vom Unterschied machen
+- Tricks um die Objekte zum Reden zu bringen:
+  - Innovationen in der Werkstatt des Handwerkers studieren, Labore, Entwicklungsabteilung
+  - Distanz (Ungeschick, Unwissen) gegenüber dem alltäglichen
+  - Unfälle, Defekte, Pannen
+  - Krisenzustand, Situationen, in denen Geräte zur Welt kommen
+  - Fiktion
+  
