@@ -227,7 +227,7 @@ Als erstes werden die umstrittenen Entitäten stets in einem Bericht präsentier
 "Ihre Reaktionen waren vielleicht übertrieben, doch sie zeigten, daß, wenn immer eine soziale Erklärung gegeben wurde, etwas sehr Trickreiches vor sich ging. Anstatt daß dadurch eine Verbindung zwischen zwei Entitäten hergestellt wurde, geschah es oft, daß die eine Entität die andere ersetzte." (172)
 
 ## Grenzen sozialer Erklärung
-"Wenn die Geselllschaft die Religion erklärt, dann reicht die Gesellschaft aus. Wenn die Gesellschaft das Recht erklärt, dann reicht die Gesellschaft aus. Wenn die Gesellschaft die Wissenschaft erklärt ... 
+"Wenn die Gesellschaft die Religion erklärt, dann reicht die Gesellschaft aus. Wenn die Gesellschaft das Recht erklärt, dann reicht die Gesellschaft aus. Wenn die Gesellschaft die Wissenschaft erklärt ... 
 An diesem Punkt bricht alles zusammen. Wieso? Weil es in diesem Fall, und nur in diesem, von Anfang an für die Forscher wie für die Informanten offenkundig war, daß 'Faktoren' nicht imstande sind, eine Aktion durch ein Ereignis zu transportieren, das auf den Status eines Zwischenglieds reduziert beleibt." (182)
 
 ## Sozial

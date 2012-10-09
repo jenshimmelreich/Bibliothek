@@ -58,3 +58,18 @@ Einleitung
   - Krisenzustand, Situationen, in denen Geräte zur Welt kommen
   - Fiktion
   
+4. Unbestreitbare Tatsachen versus umstittene Tatsachen
+- Konstruktionsstätten: Verbindung von menschlichen und nicht-menschlichen Wesen beiwohnen.
+- Problem des Sozialkonstruktivismus: Das Soziale kann nicht Objekte der Wissenschaft erklären.
+- Sozial: eine Bewegung, die nichtsoziale Dinge verbindet
+- Eine gute Beschreibung der Mittler ersetzt die Beschreibung der Gesellschaft, die hinter den Dingen liegt. Die praktischen Details erklären den Kontext. (Die Telegraphenleitungen - Detail - erklären das Empire - Kontext.)
+- Übersetzung: Mittler die Koexistieren, nicht: Kausalitätstransport
+- Aufgabe: Kartographierung wissenschaftlicher Kontroversen über soziale Tatsachen.
+- Ontologie: Metaphysik + Einheit (= Wahrheit), wichtig: Verfahren des Übergangs festhalten. Ontologie ist die Realität (Natur), Metaphysik die Interpretation (Kultur, Soziales)
+- WWW - physische Verbindung, Nachvollziehbarkeit der Assoziationen
+- Qualitätskontrolle für einen ANT-Bericht
+  a) neue Entität als umstrittene Tatsache einführen
+  b) Kontroverse = Komplexität der Tatsache
+  c) Instrument (Versammlung, Institution) dauerhafter Stabilisierung genau angeben
+  d) Verfahren angeben, die Übergang von Metaphysik zu Ontologie erlauben
+
