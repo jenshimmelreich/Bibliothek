@@ -73,3 +73,34 @@ Einleitung
   c) Instrument (Versammlung, Institution) dauerhafter Stabilisierung genau angeben
   d) Verfahren angeben, die Übergang von Metaphysik zu Ontologie erlauben
 
+5. Das Verfassen riskanter Berichte
+- Der Text ist Mittler.
+- Guter Text bedeutet Ensemble von Beziehungen als Übersetzungen aufzuzeichnen.
+- Netzwerk ist ein Konzept, mit dem etwas beschrieben werden kann.
+- Notizbücher
+  1. Logbuch der Untersuchung selbst
+  2. Information nach Datum und Kategorie gleichzeitig
+  3. Schreibversuche aus dem Stehgreif
+  4. Auswirkungen auf die Akteure
+- Eine gute Beschreibung braucht keine Erklärung.
+- Gute Antworten werden kollektiv in Szene gesetzt und stabilisiert. Sie sind nicht da draußen und auch nicht bei den Akteuren.
+
+Teil II
+Wie kann man Assoziationen wieder nachzeichenbar machen?
+
+- Jede Interaktion quilt über, von Bestandtteilen einer anderen Zeit, einem anderen Ort, einer anderen Existenzweise.
+- Es gilt den sozialen Bereich vollkommen flach zu halten.
+
+1. Erster Schritt: Das Globale lokalisieren
+- Wir erstellen ständig Verbindungen in der Zeit, im Raum, zu anderen Akteuren, wir müssen den Pfaden, den Delegations- und Übersetzungsprozessen folgen.
+- In der abgeflachten Topologie nach den Transportmitteln suchen.
+- Wo werden strukturelle Effekte produziert?
+- Mittler sind die idealen Tracer um die Art des Verhältnisses von Mikro zu Makro zu vestehen.
+- Makro: Mikro-Ort, der mit vielen anderen durch ein Medium verbunden ist, das spezifische Spuren hinterlässt.
+- Oligoptikum: Von Oligoptiken sind robuste aber extrem schmale Ansichten des Ganzen möglich. (Kommandozentrale, Büro des Chefredakteurs)
+- Wo: Wann immer es Struktur, System, globale Eigenschaft, Gesellschaft, Organisation heisst sollte man fragen: In welchem Gebäude, in welchem Büro, durch welchen Korridor?
+- Größenordnung: Sie entsteht durch Transport, gegenseitige Skalierung, Verräumlichung im Feld.
+- Panoramen: Das Große Bild (Ende der Geschichte, Kampf der Kulturen). In welchem Kino, wie projiziert, an wen adressiert.
+- Stärke der Panoramen: Sie inszenieren die Totalität, verschachteln Mikro, Meso, Makro.
+
+

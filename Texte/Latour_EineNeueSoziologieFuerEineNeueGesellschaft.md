@@ -269,28 +269,28 @@ An diesem Punkt bricht alles zusammen. Wieso? Weil es in diesem Fall, und nur in
 "Die Karrieren der Mittler sollten den ganzen Weg bis zum abschließenden Bericht verfolgt werden, denn eine Kette ist nur so stark sie ihr schwächstes Glied." (223)
 
 ## Netzwerk
-"Es [ein Netzwerk] charakterisiert den Grad von dessen Obektivität, das heißt die Fähigkeit jedes Akteurs, die anderen Akteure dazu zu bringen unerwartete Dinge zu tun. Ein guter Text bringt Netzwerke von Akteuren auf den neuesten Stand, wenn er seinem Verfasser erlaubt, ein Ensembele von Beziehungen aufzuzeichen, die als ebenso viele Übersetzungen definiert sind." (224)
+"Es [ein Netzwerk] charakterisiert den Grad von dessen Obektivität, das heißt die Fähigkeit jedes Akteurs, die anderen Akteure dazu zu bringen unerwartete Dinge zu tun. Ein guter Text bringt Netzwerke von Akteuren auf den neuesten Stand, wenn er seinem Verfasser erlaubt, ein Ensemble von Beziehungen aufzuzeichnen, die als ebenso viele Übersetzungen definiert sind." (224)
 
 ## Netzwerk
-"Netzwerk ist ein Konzept, kein Ding da draußen. Es ist ein Werkzeig, mit dessen Hilfe etwas beschrieben werden kann, nicht das Beschriebene." (228)
+"Netzwerk ist ein Konzept, kein Ding da draußen. Es ist ein Werkzeug, mit dessen Hilfe etwas beschrieben werden kann, nicht das Beschriebene." (228)
 
 ## Erstes Notizbuch
 "Das erste Notizbuch sollte als Logbuch der Untersuchung selbst dienen." (232)
 
 ## Zweites Notizbuch
-"Ein zweites Notizbuch sollte geführt werden, um Informationen derart zu sammeln, daß es gleichzeitug möglich ist, alle Posten chronologisch geordnet zu halten und sie in Kategorien einzuordnen, aus denen sich später zunehmend verfeinerte Dateien und Unterdateien entwickeln werden." (233)
+"Ein zweites Notizbuch sollte geführt werden, um Informationen derart zu sammeln, daß es gleichzeitig möglich ist, alle Posten chronologisch geordnet zu halten und sie in Kategorien einzuordnen, aus denen sich später zunehmend verfeinerte Dateien und Unterdateien entwickeln werden." (233)
 
 ## Drittes Notizbuch
 "Ein drittes Notizbuch sollte stets zur Hand sein für Schreibversuche aus dem Stegreif." (233)
 
 ## Viertes Notizbuch
-"In einem vierten Typ von Notizbuch sollte man sorgfältig die Auswirkungen des schriftlichen Berichts auf die Akteure festhalen, deren Welt entweder entfaltet oder vereinigt worden ist." (234)
+"In einem vierten Typ von Notizbuch sollte man sorgfältig die Auswirkungen des schriftlichen Berichts auf die Akteure festhalten, deren Welt entweder entfaltet oder vereinigt worden ist." (234)
 
 ## Beschreibung - Erklärung
 "Eine Beschreibung, die zusätzlich noch eine Erklärung verlangt, ist eine schlechte Beschreibung. Allerdings gibt es eine Ausnahme: Das sind relativ stabile Situationen, wo einige Aktuere in der Tat die Rolle voll determinierter - und so voll 'erklärter' - Zwischenglieder spielen; in diesen einfachen Fällen genügt der traditionelle, prärelativistische Rahmen durchaus." (238)
 
 ## Sozialwissenschaften
-"Es ist nicht so, als wüßten wir, die Sozialwissenschaftler, die Antwort, die irgendwo jenseits der Akteure läge, noch ist es so, daß sie, die berümten 'Akteure selbst', die Antwort kennen. Tatsache ist, daß niemand die Antworten kennt - und daher müssen diese kollektiv in Szene gesetzt, stabilisiert und revidiert werden durch jenes virtuelle Kollektiv, das nur durch energische und ständig aufgefrischte Sozialwissenschaften zusammengerufen werden kann." (241f)
+"Es ist nicht so, als wüssten wir, die Sozialwissenschaftler, die Antwort, die irgendwo jenseits der Akteure läge, noch ist es so, daß sie, die berühmten 'Akteure selbst', die Antwort kennen. Tatsache ist, daß niemand die Antworten kennt - und daher müssen diese kollektiv in Szene gesetzt, stabilisiert und revidiert werden durch jenes virtuelle Kollektiv, das nur durch energische und ständig aufgefrischte Sozialwissenschaften zusammengerufen werden kann." (241f)
 
 ## Teil II
 ## Wie kann man Assoziationen wieder nachzeichenbar machen?
@@ -307,19 +307,19 @@ An diesem Punkt bricht alles zusammen. Wieso? Weil es in diesem Fall, und nur in
 ## Erster Schritt: Das Globale lokalisieren
 
 ## Verbindungen lokaler Interaktionen
-"Wir müssen kontinueriliche Verbindungen erstellen, die von einer lokalen Interaktion zu jenen anderen Orten, Zeiten und Aktanten führen durch die eine lokale Stätte dazu gebracht wird, etwas zu tun." (299)
+"Wir müssen kontinuierliche Verbindungen erstellen, die von einer lokalen Interaktion zu jenen anderen Orten, Zeiten und Aktanten führen durch die eine lokale Stätte dazu gebracht wird, etwas zu tun." (299)
 
 ## Globales und Lokales
 "Wenn man irgendeine lokale Stätte 'innerhalb' eines größeren Rahmens situiert, ist man gezwungen, zu springen. Damit gibt es einen Abgrund zwischen dem, was einschließt, und dem, was eingeschlossen wird, zwischen dem Globaleren und dem Lokaleren. Was würde geschehen, wenn wir jeglichen Bruch und Riß verbieten würden und allein Krümmungen, Streckungen und Komprimierungen erlaubten?" (300)
 
 ## Transportmittel, Transportkanal
-"Für unser Projekt ist es wichtig, daß man in einer solchen abgeflachten Topologie, wenn irgendeine Aktion von einem Ort zum nächsten transportiert werden soll, unbedingt einen  Transportkanal und ein Transportmittel braucht." (300)
+"Für unser Projekt ist es wichtig, daß man in einer solchen abgeflachten Topologie, wenn irgendeine Aktion von einem Ort zum nächsten transportiert werden soll, unbedingt einen Transportkanal und ein Transportmittel braucht." (300)
 
 ## Strukturelle Effekte
 "Die erste Art von Klammer, die wir befestigen wollen, ist eine, die man durch die eher naive Frage gewinnt: 'Wo werden die strukturellen Effekte tatsächlich produziert?'" (302)
 
 ## Mikro - Makro
-"Unser Interesse an diesen bescheidenen Mittlen wird nicht durch irgendeinen reflexiven Drang diktiert oder durch Mißtrauen gegenüber der wirklichen Effizienz dieser Strukuren. Sondern sie bieten ganz einfach ideale Tracer an, um herauszufinden, welche Art von Verhältnis letzten Edndes zwischen dem Mikro und dem Makro besteht." (303)
+"Unser Interesse an diesen bescheidenen Mittlern wird nicht durch irgendeinen reflexiven Drang diktiert oder durch Mißtrauen gegenüber der wirklichen Effizienz dieser Strukturen. Sondern sie bieten ganz einfach ideale Tracer an, um herauszufinden, welche Art von Verhältnis letzten Endes zwischen dem Mikro und dem Makro besteht." (303)
 
 ## Makro
 "Das Makro beschreibt nicht länger eine umfassendere oder ausgedehntere Stätte, in der das Mikro wie eine Russische Puppe eingebettet ist, sondern einen anderen, gleichfalls lokalen, gleichfalls Mikro-Ort, der mit vielen anderen durch irgendein Medium verbunden ist, das spezifische Typen von Spuren transportiert." (304)
@@ -333,7 +333,7 @@ An diesem Punkt bricht alles zusammen. Wieso? Weil es in diesem Fall, und nur in
 ## Oligoptiken - die Frage nach dem Wo
 "Selbst wenn die Frage zunächst recht seltsam - wenn nicht gar von schlechtem Geschmack zu zeugen - scheint: Wann immer jemand von einem 'System', einer 'globalen Eigenschaft', einer 'Struktur', einer 'Gesellschaft', einem 'Imperium', einer 'Weltwirtschaft', einer 'Organisation' spricht, sollte der erste ANT-Reflex darin bestehen zu fragen: 'In welchem Gebäude? In welchem Büro? Durch welchen Korridor erreichbar? Welchen Kollegen vorgelesen? Wie zusammengetragen?'" (316f)
 
-## Größrnordnung
+## Größenordnung
 "Das Problem ist, daß Sozialwissenschaftler die Größenordnung als eine der vielen Variabeln verwenden, die sie aufstellen, bevor sie an ihre Studie gehen, während Größenordnung etwas ist, das die Akteure durch den Transport bestimmter Spuren in bestimmten Transportmitteln leisten, indem sie sich gegenseitig skalieren, verräumlichen und kontextualisieren." (317)
 
 ## Panoramen
@@ -343,7 +343,7 @@ An diesem Punkt bricht alles zusammen. Wieso? Weil es in diesem Fall, und nur in
 "Manchmal offerieren sie [Panoramen] gänzlich neue Programme, etwa wenn ein neues Schauspiel gegeben wird mit dem Titel 'Das Ende der Geschichte', 'Der Kampf der Kulturen' oder 'Die Risikogesellschaft'. Manchmal haben sie einen wichtigen Einfluß auf die Geschichte, wenn sie eine vollständige Neuinterpretation des Zeitgeistes vorschalgen wie die Phänomenologie des Geistes oder das Kommunistische Manifest." (324)
 
 ## Totalität
-"Die Sträke dieser Vorrichtungen [Panoramen] liegt darin, daß sie geschickt die Totalität in Szene setzen, das Auf und Ab ordnen, das 'Mikro', 'Meso' und 'Makro' ineinander verschachteln." (324)
+"Die Stärke dieser Vorrichtungen [Panoramen] liegt darin, daß sie geschickt die Totalität in Szene setzen, das Auf und Ab ordnen, das 'Mikro', 'Meso' und 'Makro' ineinander verschachteln." (324)
 
 ## Panoramen
 "Meist verrät gerade dieses Übermaß an Kohärenz die Illusion." (325)
