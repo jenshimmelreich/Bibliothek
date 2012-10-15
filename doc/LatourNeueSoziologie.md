@@ -1,15 +1,17 @@
-Bruno Latour
+# Bruno Latour
+# Eine Neue Soziologie für eine neue Gesellschaft
 
-Eine Neue Soziologie für eine neue Gesellschaft
-
-Einleitung
+## Einleitung
 - das Soziale als Verknüpfungstyp
 - sichtbar nur indirekt, als Verknüpfungs/Assoziation
 - Soziologie des Sozialen (I)
 - Soziologie der Assoziation (II)
 - Auf Kontroversen stützen (91)
 
-1. Keine Gruppen nur Gruppenbildungen
+# Teil I
+# Die Entfaltung von Kontroversen über die soziale Welt
+
+## 1. Keine Gruppen nur Gruppenbildungen
 - Gruppenbildungen sind in Kontroversen beobachtbar (Fabrikationsmechanismus) (II)
 - Gruppen sind vorhanden und stumm. (I)
 - Kontroverse über Gruppenbildung zu kartographieren:
@@ -21,7 +23,7 @@ Einleitung
 - Zwischenglied: Übermittlung ohne Veränderung
 - Mittler: Transformation
 
-2. Handeln wird aufgehoben
+## 2. Handeln wird aufgehoben
 - Handeln ist nicht transparent (dem Bewußtsein)
 - Agency: klassisch als Handlung/Handeln, hier als Handlungsträger
 - keine allgemeiner Handlungsträger (Feld, Struktur, Individuum)
@@ -44,7 +46,7 @@ Einleitung
 - Anstelle von Ursachen (I) eine Kette von Mittlern (II)
 - anthropomorph figurierte Akteure sind nicht konkreter, entscheidend ist die Frage der Mittler
 
-3. Welche Aktion für welche Objekte
+## 3. Welche Aktion für welche Objekte
 - Soziale Kraft: Soziales Nr. 1
 - Kurzlebige soziale Interaktion: Soziales Nr. 2 - Frage was sind die Mittel ihrer Ausdehnung in Zeit und Raum?
 - Dinge verleihen ihre stählerne Eigenschaft der fragilen Gesellschaft leihen.
@@ -58,7 +60,7 @@ Einleitung
   - Krisenzustand, Situationen, in denen Geräte zur Welt kommen
   - Fiktion
   
-4. Unbestreitbare Tatsachen versus umstittene Tatsachen
+## 4. Unbestreitbare Tatsachen versus umstittene Tatsachen
 - Konstruktionsstätten: Verbindung von menschlichen und nicht-menschlichen Wesen beiwohnen.
 - Problem des Sozialkonstruktivismus: Das Soziale kann nicht Objekte der Wissenschaft erklären.
 - Sozial: eine Bewegung, die nichtsoziale Dinge verbindet
@@ -73,7 +75,7 @@ Einleitung
   c) Instrument (Versammlung, Institution) dauerhafter Stabilisierung genau angeben
   d) Verfahren angeben, die Übergang von Metaphysik zu Ontologie erlauben
 
-5. Das Verfassen riskanter Berichte
+## 5. Das Verfassen riskanter Berichte
 - Der Text ist Mittler.
 - Guter Text bedeutet Ensemble von Beziehungen als Übersetzungen aufzuzeichnen.
 - Netzwerk ist ein Konzept, mit dem etwas beschrieben werden kann.
@@ -85,13 +87,13 @@ Einleitung
 - Eine gute Beschreibung braucht keine Erklärung.
 - Gute Antworten werden kollektiv in Szene gesetzt und stabilisiert. Sie sind nicht da draußen und auch nicht bei den Akteuren.
 
-Teil II
-Wie kann man Assoziationen wieder nachzeichenbar machen?
+# Teil II
+# Wie kann man Assoziationen wieder nachzeichenbar machen?
 
 - Jede Interaktion quilt über, von Bestandtteilen einer anderen Zeit, einem anderen Ort, einer anderen Existenzweise.
 - Es gilt den sozialen Bereich vollkommen flach zu halten.
 
-1. Erster Schritt: Das Globale lokalisieren
+## 1. Erster Schritt: Das Globale lokalisieren
 - Wir erstellen ständig Verbindungen in der Zeit, im Raum, zu anderen Akteuren, wir müssen den Pfaden, den Delegations- und Übersetzungsprozessen folgen.
 - In der abgeflachten Topologie nach den Transportmitteln suchen.
 - Wo werden strukturelle Effekte produziert?
@@ -102,5 +104,19 @@ Wie kann man Assoziationen wieder nachzeichenbar machen?
 - Größenordnung: Sie entsteht durch Transport, gegenseitige Skalierung, Verräumlichung im Feld.
 - Panoramen: Das Große Bild (Ende der Geschichte, Kampf der Kulturen). In welchem Kino, wie projiziert, an wen adressiert.
 - Stärke der Panoramen: Sie inszenieren die Totalität, verschachteln Mikro, Meso, Makro.
+
+## 2. Schritt: das Lokale neu verteilen
+- lokale Interaktion: Versammlung anderer Interaktionen aus Raum und Zeit
+- Das meist, das man braucht um zu handeln, ist bereits an Ort und Stelle.
+- Artilulatoren, Lokalisatoren: transportierte Präsenz
+- Keine zugrundeliegende Struktur, aber strukturierende Schablonen, die durch auffindbare Kanäle zirkulieren und in Techniken materialisiert sind.
+- Handlungen interferieren mit Entitäten anderer Orte, Zeiten, anderer Drücke.
+- Kluft der Ausführung - generische, vorformatierte Akteure und Handlungsverlauf - wird normalerwiese durch Subjektivität, Intentionalität geschlossen.
+- Subjektivitäten zirkulieren ebenfalls: Subjektivierer, Individualisierer kurz: Plug-ins.
+- Vollständige menschliche Akteure: aus vielen Schichten zusammengesetzt. Generischer Körper und intensiver Schauer angebotener Subjektivitäten.
+- Kognitive Fähigkeiten nicht 'in mir', sondern zirkulierende Plug-ins, die sich abonnieren lassen. (Supermarkt: unzählige Werkzeuge)
+- Ego: solange ich individualisiert worden bin. Zirkulation der Subjektivierer verfolgen: Fluten, Schauer, Schwärme von Psycho-Morphs
+- Jede Entität der Innenwelt aus der Außenwelt kommen lassen, nicht als Zwang, sondern als Angebot. Das Individuum nimmt ein sternförmiges Aussehen an.
+- Subjekte, Orte, Kontexte sind Verknüpfungen, je mehr Mittler, desto intensiver die Existenz.
 
 
