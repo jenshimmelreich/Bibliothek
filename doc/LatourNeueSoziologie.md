@@ -119,4 +119,21 @@
 - Jede Entität der Innenwelt aus der Außenwelt kommen lassen, nicht als Zwang, sondern als Angebot. Das Individuum nimmt ein sternförmiges Aussehen an.
 - Subjekte, Orte, Kontexte sind Verknüpfungen, je mehr Mittler, desto intensiver die Existenz.
 
+## 3. Dritter Schritt: Orte verknüpfen 
+- Verbindungen, Transportmittel rücken in den Vordergrund.
+- (1) Welche Konnektoren transportieren Existenzformen, (2) welche Natur haben die transportierten Existenzformen, (3) was liegt zwischen den Verbindungen
+- Form ist etwas, das es erlaubt, etwas von einem Ort an einen anderen zu transportieren.
+- Handlungsträger koordinieren sich durch die Verbreitung von Quasi-Standards.
+- Zirkulation von Quasi-Standars = isolierte Aktanten werden vergleichbar.
+- Versammelnde Aussagen versammeln, repräsentieren nicht.
+- nicht Subjekt oder Objekt, den Strömen nachgehen, den zirkulierenden Entitäten folgen.
+- Menschen und Kontexte treten in den Hintergrund, die Mittler, Quasi-Objekte in den Vordergrung.
+- Sozial: Landebahnen für Existenzformen ins Kollektiv, Assoziationen.
+- Konnektoren rücken ins Zentrum. Ihre Fortbewegungen zeichnen soziale Verbindungen vor.
+- Dinge, Entitäten sind Existenformen oder Äußerungsregime, Mittler, die das Kollektiv zusammenbringen.
+- Plasma ist der Hintergrund, das noch nicht formatierte.
+
+## Schluß: Von der Gesellschaft zum Kollektiv -
+## Kann das Soziale nue erfunden werden?
+- Disziplinen: jede entfaltete einen Typ von Mittlern und begünstigt einen Typ von Stabilisierungen.
 

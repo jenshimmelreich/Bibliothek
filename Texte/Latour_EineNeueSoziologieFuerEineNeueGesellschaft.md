@@ -423,13 +423,13 @@ Wenn man Supermärkte auf diese Weise betrachtet beginnt sich ein Spektrum unzä
 "Nur wenn Flachheit zur Standardeinstellung des Beobachters gemacht wird, kann die Aktivität, die notwendig ist, um einen Größenunterschied zu erzeugen, entdeckt und registriert werden." (380)
 
 ## Konnektoren - Mittler - Dazwischen
-"Drei neue Fragen können nun angegangen werden. Die erste besteht darin, den Typus von Konnektoren auszumachen, die den Transport von Existenzformen über große Entfernungen ermöglichen und zu verstehen, wie sie das Soziale so effizient formatieren können. Die zweite Frage lautet, worin die Natur der so transportierten Existenzformen besteht, was uns dazu führt, dem von mir verwendeten Begriff des Mittlers eine präzisere Bedeutung zu verleihen, Und drittens, wenn das Argument der Verknüpfungen und Konnektoren richtig ist, dann sollte es möglich sein, uns einer logischen Konsequent zu stellen, die die Leser sicher bereits beschägtigt hat: Was liegt zwischen den Verbindungen?" (381f)
+"Drei neue Fragen können nun angegangen werden. Die erste besteht darin, den Typus von Konnektoren auszumachen, die den Transport von Existenzformen über große Entfernungen ermöglichen und zu verstehen, wie sie das Soziale so effizient formatieren können. Die zweite Frage lautet, worin die Natur der so transportierten Existenzformen besteht, was uns dazu führt, dem von mir verwendeten Begriff des Mittlers eine präzisere Bedeutung zu verleihen, Und drittens, wenn das Argument der Verknüpfungen und Konnektoren richtig ist, dann sollte es möglich sein, uns einer logischen Konsequenz zu stellen, die die Leser sicher bereits beschäftigt hat: Was liegt zwischen den Verbindungen?" (381f)
 
 ## Formen
 "Sobald wir uns darauf konzentrieren, was von Ort zu Ort zirkuliert, ist der erste Typ von Entitäten, der in den Fokus gerät: Formen. [...] Eine Form ist einfach etwas, das es erlaubt, etwas anderes von einem Ort an einen anderen zu transportieren." (386)
 
 ## Materielle Beschreibung des Formalismus
-"Was auch immer das Medium sein mag, nun ist eine materielle Beschreibung des Formalismus möglich, die das Verknüpfungsvermögen von Formen - die als so physisch wie möglich begriffen werden - sehr ernst nimmt, während sie die Vorstellung aufgibt, daß Formalismen selbst formal beschrieben ewrden könnten." (388)
+"Was auch immer das Medium sein mag, nun ist eine materielle Beschreibung des Formalismus möglich, die das Verknüpfungsvermögen von Formen - die als so physisch wie möglich begriffen werden - sehr ernst nimmt, während sie die Vorstellung aufgibt, daß Formalismen selbst formal beschrieben werden könnten." (388)
 
 ## Metrologie
 "Sobald das Lokale und das Globale verschwinden, wird offensichtlich, wie wichtig Standards sind und welche immensen Vorteile wir aus der Metrologie - im weitesten Sinne des Begriffs - ziehen können." (391)
@@ -456,7 +456,7 @@ Wenn man Supermärkte auf diese Weise betrachtet beginnt sich ein Spektrum unzä
 "Können wir eine Sozialwissenschaft antizipieren, welche die Wesen ernst nimmt, welche die Menschen zum Handeln bringen?" (405)
 
 ## Den Akteuren folgen
-"Es ist kontraintuitiv, unterscheiden zu wollen, 'was vom Beobachter kommt' und 'was vom Objekt kommt', wenn die offensichtliche Antwort lautet: 'der Strömung nachgehen'. Objekt und Subjekt mögen existieren, doch alles Interessante ereignet sich stromauf und stromab. Man muß nur der Strömung nachgehen. Ja, den Akteuren folgen oder vielmhr dem, was sie handeln macht, nämlich den zirkulierenden Entitäten." (408)
+"Es ist kontraintuitiv, unterscheiden zu wollen, 'was vom Beobachter kommt' und 'was vom Objekt kommt', wenn die offensichtliche Antwort lautet: 'der Strömung nachgehen'. Objekt und Subjekt mögen existieren, doch alles Interessante ereignet sich stromauf und stromab. Man muß nur der Strömung nachgehen. Ja, den Akteuren folgen oder vielmehr dem, was sie handeln macht, nämlich den zirkulierenden Entitäten." (408)
 
 ## Mittler
 "In der neuen Definition verhält es sich genau umgekehrt: Menschliche Teilnehmer und sozialer Kontext sind in den Hintergrund gerückt; was nun hervorgehoben wird, sind all die Mittler, deren starke Vermehrung neben vielen anderen Entitäten hervorbringt, was man Quasi-Objekte und Quasi-Subjekte nennen könnte." (408f)
@@ -471,10 +471,10 @@ Wenn man Supermärkte auf diese Weise betrachtet beginnt sich ein Spektrum unzä
 "Die Wissenschaft kann selbstverständllich weder durch ihren sozialen Kontext erklärt werden, noch muß sie dazu verwendet werden, die Bestandteile sozialer Beziehungen zu erklären. Auch sie hat Besseres zu tun: unter anderem, überall zu zirkulieren und Entitäten auf wissenschaftliche Weise miteinander zu verbinden." (410f)
 
 ## Konnektoren
-"Und dasselbe könnte von vielen anderen Typen von Konnektoren gesagt werden, die nun ins Zentrum der Aufmerksamkeit rücken, weil es ihre Fortbewegungen sind, die soziale Verbindungen vorzeichnen - wobei 'sozila verbindeung', wie wir inzwischen wissen, nicht bedeutet: 'Verbindungen, die aus dem Sozialen gemacht sind', sonder neue Assoziationen zwschen nichtsozialen Elementen." (411)
+"Und dasselbe könnte von vielen anderen Typen von Konnektoren gesagt werden, die nun ins Zentrum der Aufmerksamkeit rücken, weil es ihre Fortbewegungen sind, die soziale Verbindungen vorzeichnen - wobei 'soziale Verbindungen', wie wir inzwischen wissen, nicht bedeutet: 'Verbindungen, die aus dem Sozialen gemacht sind', sonder neue Assoziationen zwischen nichtsozialen Elementen." (411)
 
 ## Existenzformen
-"Was bedeutet es, von juristischen, religiösen, wissenschaftlichen, technischen, ökonomischen und politischen 'Weisen' des Assoziierens zu sprechen? [...] Um zu verstehen, was ich als das höchste Ziel der ANT ansehe, müssen wir Entitäten aus ihren Käfigen herauslassen, denen es bis jetzt strikt untersagt war, den Schauplatz zu betreten, und ihnen erlauben umherzustreichen. [...] Ich verleihe ihnen die terminologische Bezeichnung Existenformen (modes d'existence) oder auch Äußerungsregime (régimes d'énonciation)." (412)
+"Was bedeutet es, von juristischen, religiösen, wissenschaftlichen, technischen, ökonomischen und politischen 'Weisen' des Assoziierens zu sprechen? [...] Um zu verstehen, was ich als das höchste Ziel der ANT ansehe, müssen wir Entitäten aus ihren Käfigen herauslassen, denen es bis jetzt strikt untersagt war, den Schauplatz zu betreten, und ihnen erlauben umherzustreichen. Welchen Namen könnte man ihnen geben? Entitäten, Wesen, Objekte, Dinge, vielleicht könnte man sie als unsichtbare Entitäten (insicibles) bezeichnen. Ich verleihe ihnen die terminologische Bezeichnung Existenformen (modes d'existence) oder auch Äußerungsregime (régimes d'énonciation)." (412)
 
 ## Mittler
 "Endlich haben uns die Mittler ihren wirkliche Namen mitgeteilt: 'Wir sind Existenzformen, Wesen, die das Kollektiv genauso umfassend zusammenbringen und versammeln, wie das, was ihr bislang das Soziale genannt habt, während ihr euch nur auf eine standardisierte Version der Versammlungen beschränkt habt; wenn ihr den Akteuren folgen wollt, dann müßt ihr uns ebenfalls folgen.'" (413)
