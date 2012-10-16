@@ -123,6 +123,9 @@
 - Verbindungen, Transportmittel rücken in den Vordergrund.
 - (1) Welche Konnektoren transportieren Existenzformen, (2) welche Natur haben die transportierten Existenzformen, (3) was liegt zwischen den Verbindungen
 - Form ist etwas, das es erlaubt, etwas von einem Ort an einen anderen zu transportieren.
+- Formen [man denke auch an Formulare], Inskriptionen, etwas, das es erlaubt etwas anderes von einem Ort an einen anderen zu transportieren, eine materiale Definition der Form, keine formale 
+- Eine Information liefern: etwas in eine Form bringen - Papierschnipsel, Dokument
+- Eine materielle Beschreibung des Formalismus, das Verknüpfungsvermögen so physisch wie möglich begriffen
 - Handlungsträger koordinieren sich durch die Verbreitung von Quasi-Standards.
 - Zirkulation von Quasi-Standars = isolierte Aktanten werden vergleichbar.
 - Versammelnde Aussagen versammeln, repräsentieren nicht.
