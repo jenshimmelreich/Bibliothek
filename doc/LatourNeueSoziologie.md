@@ -15,7 +15,7 @@
 - Gruppenbildungen sind in Kontroversen beobachtbar (Fabrikationsmechanismus) (II)
 - Gruppen sind vorhanden und stumm. (I)
 - Kontroverse über Gruppenbildung zu kartographieren:
-  - Liste der Elemente,die in Kontroversen über Gruppen präsent
+    - Liste der Elemente,die in Kontroversen über Gruppen präsent
 - In Gruppenbildungen werden Grenzen gezogen, Anti-Gruppen festgelegt.
 - Sprecher ziehen Grenzen - Definieren.
 - Performative anstelle von ostensiver Definition
@@ -32,7 +32,7 @@
 - Unschlüssigkeiten, Vielheiten der Akteure bezüglich der Antriebe zum Handeln sind wertvoll
 - Die Gründe der Akteure sind nicht in einer Metasprache zu überspringen
 - Infrasprache der Soziologen soll Aufmerksamkeit auf die Metasprache der Akteure lenken.
-- Kontroversen folgen: Akteuren ordnen und schaffen selber die Entitäten
+- Kontroversen folgen: Akteure ordnen und schaffen selber die Entitäten
 - Im Feld gibt es eine Art von Handlungstheorie
 - Aktanten verweisen auf Aktionen.
 - Figurierte Aktanten sind Akteure (meist anthropomorph).
@@ -54,13 +54,13 @@
 - Metaphysik des Handelns (nicht Ursache-Wirkung, aktive-inaktiv): "ermächtigen, ermöglichen, anbieten, ermutigen, erlauben, nahelegen, beeinflussen, verhindern, autorisieren, ausschließen"
 - Objekte zum Reden bringen: Skripte vom Unterschied machen
 - Tricks um die Objekte zum Reden zu bringen:
-  - Innovationen in der Werkstatt des Handwerkers studieren, Labore, Entwicklungsabteilung
-  - Distanz (Ungeschick, Unwissen) gegenüber dem alltäglichen
-  - Unfälle, Defekte, Pannen
-  - Krisenzustand, Situationen, in denen Geräte zur Welt kommen
-  - Fiktion
+    - Innovationen in der Werkstatt des Handwerkers studieren, Labore, Entwicklungsabteilung
+    - Distanz (Ungeschick, Unwissen) gegenüber dem alltäglichen
+    - Unfälle, Defekte, Pannen
+    - Krisenzustand, Situationen, in denen Geräte zur Welt kommen
+    - Fiktion
   
-### 4. Unbestreitbare Tatsachen versus umstittene Tatsachen
+### 4. Unbestreitbare Tatsachen versus umstrittene Tatsachen
 - Konstruktionsstätten: Verbindung von menschlichen und nicht-menschlichen Wesen beiwohnen.
 - Problem des Sozialkonstruktivismus: Das Soziale kann nicht Objekte der Wissenschaft erklären.
 - Sozial: eine Bewegung, die nichtsoziale Dinge verbindet
@@ -70,20 +70,20 @@
 - Ontologie: Metaphysik + Einheit (= Wahrheit), wichtig: Verfahren des Übergangs festhalten. Ontologie ist die Realität (Natur), Metaphysik die Interpretation (Kultur, Soziales)
 - WWW - physische Verbindung, Nachvollziehbarkeit der Assoziationen
 - Qualitätskontrolle für einen ANT-Bericht
-  a) neue Entität als umstrittene Tatsache einführen
-  b) Kontroverse = Komplexität der Tatsache
-  c) Instrument (Versammlung, Institution) dauerhafter Stabilisierung genau angeben
-  d) Verfahren angeben, die Übergang von Metaphysik zu Ontologie erlauben
+    a) neue Entität als umstrittene Tatsache einführen
+    b) Kontroverse = Komplexität der Tatsache
+    c) Instrument (Versammlung, Institution) dauerhafter Stabilisierung genau angeben
+    d) Verfahren angeben, die Übergang von Metaphysik zu Ontologie erlauben
 
 ### 5. Das Verfassen riskanter Berichte
 - Der Text ist Mittler.
 - Guter Text bedeutet Ensemble von Beziehungen als Übersetzungen aufzuzeichnen.
 - Netzwerk ist ein Konzept, mit dem etwas beschrieben werden kann.
 - Notizbücher
-  1. Logbuch der Untersuchung selbst
-  2. Information nach Datum und Kategorie gleichzeitig
-  3. Schreibversuche aus dem Stehgreif
-  4. Auswirkungen auf die Akteure
+    1. Logbuch der Untersuchung selbst
+    2. Information nach Datum und Kategorie gleichzeitig
+    3. Schreibversuche aus dem Stehgreif
+    4. Auswirkungen auf die Akteure
 - Eine gute Beschreibung braucht keine Erklärung.
 - Gute Antworten werden kollektiv in Szene gesetzt und stabilisiert. Sie sind nicht da draußen und auch nicht bei den Akteuren.
 
