@@ -108,7 +108,7 @@
 ### 2. Schritt: das Lokale neu verteilen
 - lokale Interaktion: Versammlung anderer Interaktionen aus Raum und Zeit
 - Das meist, das man braucht um zu handeln, ist bereits an Ort und Stelle.
-- Artilulatoren, Lokalisatoren: transportierte Präsenz
+- Artikulatoren, Lokalisatoren: transportierte Präsenz
 - Keine zugrundeliegende Struktur, aber strukturierende Schablonen, die durch auffindbare Kanäle zirkulieren und in Techniken materialisiert sind.
 - Handlungen interferieren mit Entitäten anderer Orte, Zeiten, anderer Drücke.
 - Kluft der Ausführung - generische, vorformatierte Akteure und Handlungsverlauf - wird normalerwiese durch Subjektivität, Intentionalität geschlossen.
@@ -128,10 +128,10 @@
 - Eine materielle Beschreibung des Formalismus, das Verknüpfungsvermögen so physisch wie möglich begriffen
 - Eine Information von einem Ort an einen anderen Ort bewegen heisst sie materialisieren, diese Form meint die 'materielle Beschreibung des Formalismus'
 - Handlungsträger koordinieren sich durch die Verbreitung von Quasi-Standards.
-- Zirkulation von Quasi-Standars = isolierte Aktanten werden vergleichbar.
+- Zirkulation von Quasi-Standards = isolierte Aktanten werden vergleichbar.
 - Versammelnde Aussagen versammeln, repräsentieren nicht.
 - nicht Subjekt oder Objekt, den Strömen nachgehen, den zirkulierenden Entitäten folgen.
-- Menschen und Kontexte treten in den Hintergrund, die Mittler, Quasi-Objekte in den Vordergrung.
+- Menschen und Kontexte treten in den Hintergrund, die Mittler, Quasi-Objekte in den Vordergrund.
 - Sozial: Landebahnen für Existenzformen ins Kollektiv, Assoziationen.
 - Konnektoren rücken ins Zentrum. Ihre Fortbewegungen zeichnen soziale Verbindungen vor.
 - Dinge, Entitäten sind Existenformen oder Äußerungsregime, Mittler, die das Kollektiv zusammenbringen.
