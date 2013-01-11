@@ -33,3 +33,18 @@ Ingo Schulz-Schaeffer
 ## Präskription
 "Die Präskriptionen, die von technischen Artefakten ausgehen, können normative Einwirkungen substituieren oder ergänzen. Mehr aber noch: Sie sind Einwirkungen, die Aktuere unerbittlicher auf Handlungsprogramme festlegen als alle Normen und Werte: [...]" (127)
 
+## Soziale Zusammenhänge
+"Die Frage, wie ausgehend von lokalen Interaktionen soziale Zusammenhänge entstehen, die in Raum und Zeit ausgreifen, muss anders beantwortet werden, nämlich durch Verweis auf die konkreten empirischen Verbindungen, mittels derern diese Ausdehnungen der Assoziationen über die lokalen Orte hinaus erfolgen: [...]" (132)
+
+## Infrasprache
+"Der radikale Tautologieverzicht des verallgemeinerten Symmetrieprinzips besteht darin, der Beobachtung keine eigenen Vorannahmen zurunde zu legen. Deshalb propagiert Latour eine Beobachtungssprache - früher als 'vocabulary of translation' bezeichnet, jetzt als 'infralanguage' - deren Begriffe für sich genommen völlig leer und bedeutungslos sein sollen und deren Funktion es ist, es dem Beobchter zu ermöglichen, 'to ... become attentive to the actors' own fully developed meta-language'." (137)
+
+## Beobachtertheorie, Ethnotheorie - Agentur
+"Dies ist auch nicht verwunderlich, denn in dieser Unterscheidung spiegelt sich die Differenz zwischen Beobachtertheorie und Ethnotheorie wieder: der Begriff des Akteurs ist im Kern ein ethnotheoretischer Begriff, der Begriff der Agentur dagegen ein konzeptueller Begriff des Beobachters." (141)
+
+## Beobabachtungsinstrument
+"Der symmetrische Beobachter benötigt ein eigenes Beobachtungsinstrument. Dieses Beobachtungsinstrument ist in der Akteur-Netzwerk-Theorie der schwache, anspruchslose Begriff des Handlens im Sinne einer jeden Aktivität verändernder Wirksamkeit." (142)
+
+## Verändernder Wirksamkeit - Agentur
+"Im vorliegenden Text verwende ich durchgängig den Begriff 'verändernde Wirksamkeit', wenn es um die konzeptionelle Erfassung des empirischen Grundtatbestandes der Ein-, Rück- und Folgewirkungen geht, und reserviere den Begriff der Agentur zur Bezeichnung der jeweiligen Entität, von der die betreffende Wirksamkeit aus der Perspektive des Beobachters ausgeht." (142)
+
