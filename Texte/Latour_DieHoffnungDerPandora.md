@@ -46,3 +46,26 @@ Bruno Latour
 
 ## Methode
 "In der Zwischenzeit können wir nur Begriffe, Bindeglieder und Knoten in eine andere Position bringen, so daß wir bei der Rede vom esoterischen Inhalt einer Wissenschaft sofort nach den anderen vier Schleifen Ausschau halten, die ihm Bedeutung geben." (131)
+
+## 4
+## Von der Fabrikation zur Realität
+## Pasteur und sein Milchsäureferment
+
+## Phänomene
+"In Pasteurs Wissenschaftphilosophie gehen die Phänomene dem voraus, wovon sie Phänomene sind." (143)
+
+## Akteur
+"Im nächsten Absatz üersetzt Paszeur es zunächst in einen Aktionsnamen, wie ich es anderswo genannt habe: noch wissen wir nicht, was es ist, doch wir wissen aus den durchgeführten Laborversuchen, was es tut. eine Reihe von Performanzen geht der Definition der Kompetenz voraus, die später zur Ursache ebendieser Performanzen werden wird." (144)
+
+## Von der Nichtexistenz zur Gattung
+"Von einer nicht existierenden Entität zu einer ganzen Gattung zu gelangen ist also möglich, wenn verschiedene Stadien durchlaufen werden: Zunächst besteht die Entität aus flottierennden Sinnesdaten, dann wird sie als Aktionsname verstanden und schließlich in ein organisches, pflanzenähnliches Lebewesen verwandelt, das einen Platz in einer feststehenden Taxonomie einnimmt." (147)
+
+## Akteur
+"Wieso wird ein Akteur durch Versuche definiert? Weil es keinen anderen Weg gibt, einen Aktuer zu definieren, als durch seine Aktion, und keinen anderen Weg, eine Aktion zu bestimmen, als sich zu frage, wie die jeweils interesssierende Figur andere Akteure verändert, tansformiert, stört oder hervorbringt." (148)
+
+## Experiment als Text
+"Ein Experiment ist ein Text über eine nichttextuelle Situation, der später von anderen getestet wird, um zu entscheiden, ob es bloß ein Text war oder mehr ist. Erweist sich der abschließende Versuch als erfolgreich, dann ist es nicht nur ein Text, sondern es steht eine wirkliche Situation hinter ihm." (150)
+
+## Experiment als Ereignis
+"Diese Liste von Inputs muß nicht durch den Rückgriff auf irgendein Konto vervollständigt werden, denn das Konto auf das vor dem experimentellen Ereignis zurückgegriffen werden könnte, ist nicht dasselbe wie nachher. Gerade deshalb ist ein Experiment ein Ereignis und keine Entdeckung, kein Freilegen, kein Aufzwingen, kein synthetisches Urteil a priori, keine Aktualisierung einer Potentialität und so weiter." (153)
+
