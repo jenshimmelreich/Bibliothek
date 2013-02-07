@@ -69,3 +69,11 @@ Bruno Latour
 ## Experiment als Ereignis
 "Diese Liste von Inputs muß nicht durch den Rückgriff auf irgendein Konto vervollständigt werden, denn das Konto auf das vor dem experimentellen Ereignis zurückgegriffen werden könnte, ist nicht dasselbe wie nachher. Gerade deshalb ist ein Experiment ein Ereignis und keine Entdeckung, kein Freilegen, kein Aufzwingen, kein synthetisches Urteil a priori, keine Aktualisierung einer Potentialität und so weiter." (153)
 
+## Propositionen
+"An erster Stelle sind sie Aktanten. [...] Es sind keine Positionen, keine Dinge oder Wesenheiten, die zu einer aus stummen Objekten bestehenden Natur gehören und einem redseligen menschlichen Gesit gegenüberstehen, sondern eben 'Vor-schläge', d.h. Gelegenheiten, die sich verschiedenen Entitäten bieten, miteinandern in Kontakt zu treten." (171f)
+
+## Proposition - Artikulation
+"Während Aussagen auf eine Übereinstimmung aus sind, die sie nie erreichen können, stützen sich Propositionen auf die Artikulation von Diffenrenzen, die neue Phänomene sichtbar machen - in den Brüchen, die sie unterscheiden. [...] Propositionen haben nicht die starren Grenzen von Objekten. Sie sind überraschende Ereignisse, in den Geschichten anderen Entitäten. Je mehr Artikulation, desto besser." (173)
+
+## Proposition - Artikulation
+"Die Artikulation zwischen Propositionen reicht tiefer als Sprache. Weil die Propositionen der Welt selbst artikuliert sind, sprechen wir, nicht umgekehrt." (174)
