@@ -77,3 +77,21 @@ Bruno Latour
 
 ## Proposition - Artikulation
 "Die Artikulation zwischen Propositionen reicht tiefer als Sprache. Weil die Propositionen der Welt selbst artikuliert sind, sprechen wir, nicht umgekehrt." (174)
+
+## 5 Die Gschichtlicheit der Dinge
+## Wo waren die Mikroben vor Pasteur?
+
+## Genauigkeit der Referenz
+"Mit dem Satz 'Fermente existieren' wird jedoch nicht nur einer der Pole - der feste Pier - näher bestimmt, sondern die ganze Serie der Transformationen, aus denen die Referenz besteht. Wie weiter oben gesagt, weist Genauigkeit der Referenz auf die Flüssigkeit und Stabilität einer transversalen Serie hin und nicht auf eine Brücke zwischen zwei stabilen Punkten oder auf ein Tau zwischen einem unbeweglichen Punkt und einem in Bewegung befindlichen." (181)
+
+## Substanz
+"Ebenso wie die Genauigkeit der Referenz einen Typ von flüssiger und leichter Zirkulation anzeigt, ist Substanz ein Name, der die Stabilität einer Zusammensetzung bezeichnet." (183)
+
+## Substanz
+"Wie wir sehen werden, läßt sich eine Substanz am besten mit dem Wort 'Institution' bezeichnen." (183)
+
+## Assoziation - Syntagma, Substitution - Paradigma
+"Jetzt können wir zwei sich überscheidende Dimensionen definieren: Assoziation oder Verbindung (vergleichbar dem Syntagma der Linguisten) und Substitution oder Ersetzung (vergleichbar dem Paradigma der Linguisten)." (194)
+
+## Nicht-essentialistische Definition
+"Um eine Entität zu definieren, wird nicht nach einer Essenz Ausschau gehalten oder nach der Übereinstimmung mit einem Sachverhalt, sondern nach der Liste aller Syntagmen oder Assoziierungen, in die das Element eingeht. Diese nicht-esentialistische Definition erlaubt ein breites Spektrum der Variationen, genauso wie ein Wort durch die Liste seiner Verwendungen definiert wird: [...]" (195)
