@@ -78,7 +78,7 @@ Bruno Latour
 ## Proposition - Artikulation
 "Die Artikulation zwischen Propositionen reicht tiefer als Sprache. Weil die Propositionen der Welt selbst artikuliert sind, sprechen wir, nicht umgekehrt." (174)
 
-## 5 Die Gschichtlicheit der Dinge
+## 5 Die Geschichtlicheit der Dinge
 ## Wo waren die Mikroben vor Pasteur?
 
 ## Genauigkeit der Referenz
@@ -95,3 +95,32 @@ Bruno Latour
 
 ## Nicht-essentialistische Definition
 "Um eine Entität zu definieren, wird nicht nach einer Essenz Ausschau gehalten oder nach der Übereinstimmung mit einem Sachverhalt, sondern nach der Liste aller Syntagmen oder Assoziierungen, in die das Element eingeht. Diese nicht-esentialistische Definition erlaubt ein breites Spektrum der Variationen, genauso wie ein Wort durch die Liste seiner Verwendungen definiert wird: [...]" (195)
+
+## 6 Ein Kollektiv von Menschen und nichtmenschliche Wesen
+
+## Handeln
+"Handlen ist nicht das Vermögen von Menschen, sonder das Vermögen einer Verbindung von Aktanten, und das ist die zweite Bedeutung von technischer Vermittlung." (221)
+
+## Blackboxing
+"Warum ist es aber so schwierig, die vermittelnde Rolle von Techniken halbwegs genau einzuschätzen? Weil der Vorgang, den wir untersuchen wolen, dem Verfahren des 'Blackboxing' unterzogen wird, Dadurch wird die gemeinsame Produktion von Akteur und Artefakt ins Dunkel gehüllt." (222)
+
+## Techniken als Artikulationstyp
+"Techniken haben Bedeutung, doch diese Bedeutung erzeugen sie durch einen besonderen Artikulationstyp, der die gängigen Grenzen zwischen Zeichen und Dingen überquert." (226)
+
+## Ausdrucksmaterial
+"Damit müssen wir die Bedeutung von Umweg und Übesetzung noch einmal erweitern. Sie können nicht nur (wie in den vorigen Beispielen) in einer Verschiebung von Zeilen und Funktionen bestehen, sondern ebenso in einer Veränderung der Ausdrucksmaterie." (227)
+
+## Delegation
+"Die Verschiebung verläuft nicht vom Diskurs zur Materie, denn für die Ingenieure sind diese Schwellen eine sinnvolle Artikulation aus einer ganzen Skala von Möglichkeiten oder  Propositionen, die ähnlich zwingend sind wie die Syntagmen und Paradigmen, die wir in Kaitel 5 kennengelernt haben. [...] Wir bleiben also im Reich der Bedeutung, doch nicht länger im Diskurs." (228)
+
+## Techniken
+"Wir verstehen jetzt, das Techniken als solche nicht existieren, dass es nichts gibt, was sich philosophisch oder soziologisch als ein Objekt, ein Artefakt oder ein Stück Technik bestimmen läßt." (233)
+
+## Obligatorischer Durchgangspunkt
+"Techniker, technische Objekte oder Fertigkeiten sind gleichzeitig untergeordnet (weil schließlich wieder auf die Hauptaufgabe zurückgekommen wird), unentbehrlich (weil das Ziel ohne sie nicht zu erreichen ist) und in gewissem Sinne auch kapriziös, mysteriös, unberechnenbar (da sie abhängig sind von irgendeinem höchst spezialisierten und nur grob umschriebenen Kniff)." (234)
+
+## Technisch
+"'Technisch' bezeichnet außerdem einen sehr spezifischen Typ von Delegation, von Bewegung, von Verschiebung nach unten, der in einer Überkreuzung mit Entitäten besteht, die eine andere Zeitlichkeit, andere Räume, andere Eigenschaften und andere Ontologien haben und die dazu gebracht werden, das gleiche Schicksal zu teilen und so einen neuen Aktanten zu bilden." (234)
+
+## Intentionalität
+"Zweckgerichtetes Handeln und Intentionalität mögen keine Eigenschaften von Objekten sein, aber sie sind auch keine Eigneschaften von Menschen. sie sind Eigenschaften von Institutionen, von Apparaten, von Dispositiven, wie Foucault es genannt hat. Nur 'Körperschaften' können die Ausuferung der Vermittler auffangen, ihre Ausdrucksformen regulieren, die Neuverteilung von Fertigkeiten organisieren und Black Boxes schließen und schwärzen." (235)
