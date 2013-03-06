@@ -124,3 +124,15 @@ Bruno Latour
 
 ## Intentionalität
 "Zweckgerichtetes Handeln und Intentionalität mögen keine Eigenschaften von Objekten sein, aber sie sind auch keine Eigneschaften von Menschen. sie sind Eigenschaften von Institutionen, von Apparaten, von Dispositiven, wie Foucault es genannt hat. Nur 'Körperschaften' können die Ausuferung der Vermittler auffangen, ihre Ausdrucksformen regulieren, die Neuverteilung von Fertigkeiten organisieren und Black Boxes schließen und schwärzen." (235)
+
+## Materielle Gegenstände
+"Doch wie ich hier zu zeigen versuche haben wir es immer dann, wenn wir von materiellen Gegenständen sprechen, mit einem Bündel älterer Überkreuzungen zwischen sozialen und natürlichen Elementen zu tun." (252)
+
+## Methode
+"[...](allgemein lautet das Prinzip folgendermaßen: Man muß sich nach nichtmenschlichehn Wesen umschauen, wenn die Emergenz eines sozialen Phänomens nicht erklärbar ist; und sich den Stand der sozialen Beziehungen anschauen, wenn eine neue und unerklärliche Art von Objekt in das Kollektiv eintritt)." (256)
+
+## 9 Überraschungsmomente des Handelns
+## Fakten, Fetische und Faitiches
+
+## Faitiche
+"Der Faitiche legt einen ganz anderen Schritt nahe: Weil er konstruiert ist, ist er so außerordentlich wirklich, so autonom und unabhängig von unserem Zutun. [...] Solange wir nicht verstanden haben, dass die Begriffe 'Konstruktion' und 'autonome Realität' Synonyme sind, werden wir den Faitiche als eine weitere Form von Konstruktivismus mißdeuten und nicht sehen, dass er die gesamte Theorie davon verändert, was konstruieren bedeutet." (338)
