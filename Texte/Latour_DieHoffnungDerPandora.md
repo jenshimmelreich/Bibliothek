@@ -136,3 +136,12 @@ Bruno Latour
 
 ## Faitiche
 "Der Faitiche legt einen ganz anderen Schritt nahe: Weil er konstruiert ist, ist er so außerordentlich wirklich, so autonom und unabhängig von unserem Zutun. [...] Solange wir nicht verstanden haben, dass die Begriffe 'Konstruktion' und 'autonome Realität' Synonyme sind, werden wir den Faitiche als eine weitere Form von Konstruktivismus mißdeuten und nicht sehen, dass er die gesamte Theorie davon verändert, was konstruieren bedeutet." (338)
+
+## Vokabular der Beherrschung
+"Der Wissenschaftler macht den Fakt, doch wann immer wir etwas machen, haben nicht wir das Kommando: Wir werden von der Handlung leicht überrascht, wie jeder Baumeister weiß." (345)
+
+## Denken
+"Denken wird von nichtmenschlichen Wesen aufgegriffen, modifiziert, verändert, vereinnahmt, die wiederum ihre Bahnen, Geschicke, Geschichten verändern, nachem ihnen das Werk des Wissenschaftlers diese Gelegenheit geboten hat." (347)
+
+## Faitiche
+"Was war die Aufgabe des Faitiche, bevor er durch den Hammerschlag des Antifetischisten zertrümmert wurde? Dass er das Handeln vermittelt hat, zwischen Konstruktion und Autonomie, ist ein Understatement; dabei verläßt man sich zu sehr auf die Ambiguität des Begriffs Vermittlung. Nicht, was Leute tun, ist Handlung, sonder das 'fait-faire', das zum Tun-Bringen, das 'Handeln-Machen', das unter spezifischen, durch die Umstände gebotenen Gelgenheiten zusammen mit anderen in einem Ereignis zustande gebracht wird, diese anderen sind keine Gedanken oder Dinge, sondern nichtmenschliche Entitäten oder, wie ich sie in Kaptiel 4 genannt habe, Propositiononen mit eigenen ontologischen Besonderheiten; [...]" (354)
