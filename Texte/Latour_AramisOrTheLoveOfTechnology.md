@@ -54,3 +54,12 @@ Although this variability can never be eliminated, its scope can nevertheless be
 
 ## Essence of a project
 "There is no such thing as the essence of a project. Only finished products have an essence. For technology, too, 'existence precedes essence.'" (48)
+
+## Sociogram - Technogram
+"So if you don't want the transportation system to turn back into a beet field, you habe to add to the task of interesting humans the task of interesting and attaching nonhumans. To the sociogram, which charts human interests and translations, you have to add the technogram, which charts the interests and atttachments of nonhumans." (58)
+
+## Men and things
+"Men and things exchange properties and replace one another; this is what gives technological projects their full savor." (61)
+
+## Actor
+"When our engineers cross the qualities of drivers with the qualities of automatic pilots and central computers, they're embarking on the definition of a character." (62)
