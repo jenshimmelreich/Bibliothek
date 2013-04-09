@@ -63,3 +63,15 @@ Although this variability can never be eliminated, its scope can nevertheless be
 
 ## Actor
 "When our engineers cross the qualities of drivers with the qualities of automatic pilots and central computers, they're embarking on the definition of a character." (62)
+
+## Project Management
+"The frontier between 'the bulk of the work' and 'fine-tuning details' remains in flux for a long time; its position is the object of intense negotiation. To simplify its task, every group tends to think that its own role is most important, and that the next group in the chain just needs to concern itself with the technical details, or to apply the principles that the first group has defined. Moreover, this way of looking at things is integrated into project management; by going from what is less real to what is more real, you often divide up project into so-called phases: the conceptual phase, the feasibility phase, the scale-model phase, the full-system site study phase, the commercial-demonstration phase, the acceptance phase, the phases of qualification, manufacturing, and homologation." (67)
+
+## Project Phases
+"Consensus about the length, importance, and order of phases is not the general case. It is a special case - that of projects that work well. With difficult projects, it is impossible to rely on phases and their neat arrangements, since depending on the informant and the period, the project may shift from idea to reality or from reality to idea ..." (67)
+
+## Innovatice Project
+"A project is called innovative if the number of actors that have to be taken into account is not a given from the outset. If that number is known in advance, in contrast, the project can follow quite orderly, hierarchical phases; it can go from office to office, and every office will add the concerns of the actors for which it is responsible." (72)
+
+## Unified Point of View
+"VAL, because it exists, unifies points of view. [...] Since it [Aramis] does not exist, it cannot unify points of view." (77)
