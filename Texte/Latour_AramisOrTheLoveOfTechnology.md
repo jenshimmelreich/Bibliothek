@@ -92,3 +92,15 @@ Although this variability can never be eliminated, its scope can nevertheless be
 "There are two models for studying innovations: the linear model and the whirlwind model. Or, if you prefer, the diffusion model and the translation model.
 The two trajectories are quite different. In the first model, the initial idea emerges fully armed from the head of Zeus. [...] Such is the heroic narrative of technological innovation, a narrative of light and shadow in which the original object is complete and can only be degraded or maintained intact - allowing, of course, for a few minor adjustments. 
 In the second model, the initial idea barely counts. It's a gadget, a whatchamacallit, a weakling at best, unreal in principle, ill-conceived from birth, constitutionally ineffective, A second difference stems from the first: the initial gadget is not endowed with autonomous power, nor is it boosted into the world by  a brilliant inventor. It has no inertia. A third difference stems from the first two. the initial gadget moves only if it interests one group or another, and it is impossible to tell whether these groups have petty interests or broad ones, whether they are open or resolutely closed to technological progress. They are what they are, and they want what they want. Period. So how, under these circumstances, can the whatchamacallit interest anyone at all? By translating, as we know, from antoher mode and into another language, the interests of these groups. Hence the fourth difference: every time a new group becomes interested in the project, it transforms the project - a little, a lot, excessively, or not at all. In the translation model, there is no transportation without transformation - except in those miraculous cases where everybody is in total agreement about a project, Hence the fifth and last difference: after many recruitments, displacmentes, and transformations, the project, having become real, then manifests, perhaps, the characteristics of perfection, profitability, beauty, and efficiency that the diffusion model located in the starting point." (118f)
+## Context
+"A technological project is not in a context; it gives itself a context, or sometimes does not give itself one.
+What is required is not to 'replace projects in their context,' as the foolish expression goes, but to study the way the project is contexutalized or decontextualized. To do that, the regid, stuffy word 'context' has to be replaced by the supple, fiendly word 'network.'" (133)
+
+## Context
+"The impression of a context that surrounds the project comes from the fact that one forgets to count the handful of mediators who speak in the name of money, Official Bodies, chips, or voters." (134)
+
+## Contextualizing
+"The work of contextualizing makes the connection between a context and a project completely unforeseeable." (137)
+
+## Context
+"No, indeed, nothing happens by accident; but nothing happens by context either." (138)
