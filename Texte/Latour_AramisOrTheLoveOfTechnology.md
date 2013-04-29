@@ -104,3 +104,45 @@ What is required is not to 'replace projects in their context,' as the foolish e
 
 ## Context
 "No, indeed, nothing happens by accident; but nothing happens by context either." (138)
+
+## Strategy of Actors
+"The actors in a technological project populate the world with other actors whom they endow with qualities, to whom they give a past, to whom they attribute motivations, visions, goals, targets, and desires, and whose margin of maneuver they define. It is precswely because of this wirk of populating that they are called actors. For a given actor, this is the way the strategy of the other actors is interdefinded." (162f)
+
+## Actors metalanguage
+"The actors create both their society and their sociology, their language and their metalanguage. [...]
+There are as many theories of action as there are actors." (167)
+
+## Arithmetic of projects
+"To the multiplicity of actors a new multiplicity is now added: that of the efforts made to unify, to simplify, to make coherent the multiplicity of viewpoints, goals, and desires, so as to impose a single theory of action. In the strange arithemetic of projects, everything is added; nothing is taken away, not even the rules of the metalanguage, not even the arithmetic's variables rules by which addition and subtraction are defined!" (167f)
+
+## Reference mollus
+"If the actors in a project define not only the other actors' essences and desires but also the rules for interpretation that make these definitions workable, all their viewpoints have to be deployed in a supple [geschmeidig] frame of reference - a reference mollusk, as Einstein called it in his essay on relativity. Since they themselves establish their theories, their metatheories, and even their metametatheories, the actors have to be left to their own devices. It's a laissez-faire sociology." (170)
+
+## Synoptic View
+"Each constructs his own instrument in order to elaborate a synoptic view. All the actors thus repair, for themsevles, the disorder they create by multiplying perspectives." (170)
+
+## Realization and Interpretation
+"With a technological project, interpretations of the project cannot be separated from the project itself, unless the project has become an object.
+The actors' or observers' interpretations of the actors' motivations and interests become more real and less real as a function of the progressive realization or derealization of those interpretations." (172)
+
+## Variable Ontology - Stability
+"To survive in a variable-ontology world, the promoters of a technological project have to imagine little bridges that let them temporarily ensure their stability." (175)
+
+## Changes second order
+"Not only has the company itself changed, but its way of changing itself has changed." (176)
+
+## Ensure the translation
+"In order to keep their grasp on the branches, the actors install little valorimeters in as many points as possible, to ensure the translation of one point of view into another." (180)
+
+## Building observable entities
+"By doing their own economics, their own sociology, their own statistics, they do the observer's work and construct the fluctuating object that the observer will have to investigate later on. Bureaucrats are the Einsteins of society. They make incommensurable frames of reference once again commensurable and translatable." (181)
+
+## Interpretations as Performatives
+"The interpretations offered by the relativist actors are performatives.
+They prove themselves by transforming the world in conformity with their perspective on the world. By stabilizing their interpretation, the actors end up creating a world-for-others that strongly resembles an absolute world with fixed reference points." (194f)
+
+## Classical Sociology
+"For classical sociology, the actors are informants". (199)
+
+## Study a Project
+"You can study anything with classical sociology - anything except the sciences and the technologies, anything except projects. [...] To study them, you have to move from classical sociology to relativist sociology, and see in the former only a particular case, an approximation, a valuable one to be sure, but only when nothing more is moving, when project have become objects, institutions. Relativist sociology has no fixed reference frames, an consequently no metalanguage, It expects the actors to understand what they are and what it is." (200)
