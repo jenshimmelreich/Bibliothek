@@ -146,3 +146,31 @@ They prove themselves by transforming the world in conformity with their perspec
 
 ## Study a Project
 "You can study anything with classical sociology - anything except the sciences and the technologies, anything except projects. [...] To study them, you have to move from classical sociology to relativist sociology, and see in the former only a particular case, an approximation, a valuable one to be sure, but only when nothing more is moving, when project have become objects, institutions. Relativist sociology has no fixed reference frames, an consequently no metalanguage, It expects the actors to understand what they are and what it is." (200)
+
+## Inscriptions
+"Although charged by humanists with the sin of being 'simply' efficient, 'purely' functional, 'strctly' material, 'totally' devoid of goals, mechanisms neverthel3ss absorb our compromises, iur deisres, our spirit, and our morality - and silence them. [...] Beyond our inifinite respect for the deciphering of Scripture, we need to have infinite respect for the deciphering of inscriptions. to propose the description of a tchnological mechanism is to extract from it precisely the script that the engineers had transcribed in the mechechanisms an the automatisms of humans or nonhumans." (206f)
+
+## Existence
+"If it can hold its whole contradictory environment together, then it will exist." (207)
+
+## Complication of technical project
+"A technical project always gets more complicated because the engineers want to reinscribe in it what threatens to interrupt its course." (209)
+
+## Object (Existence of)
+"Where is this being , the microprocessor, to be situated? On the side of human beings? No, since humans have delegated, transcribed, inscribed their qualities into nonhumans. On the side of nonhumans, then? Not there either. If the object were lying among nonhumnas alone, it would immediately become a bag of parts, a heap of pins, a pile of silicon, an old-fashioned object. Thus, the object, the real thing, the thing that acts, exists only provided that it holds humans and non humans together, continuously. [...]
+For the thing we are looking for is not a human thing, nor is it an inhuman thing. It offers, rather, a continuous passage, a commerce, an interchnage, between what humans inscribe in it and what it prescribes to humans. It translates the one into the other. [...] What should it be called? Neither object nor subject. An instituted object, quasi-object, quasi-subject, a thing that possesses body and soul indissolubly." (213)
+
+## Bureaucracy
+"No labor without division of labor, and no division of labor without management and coding, without files and flow charts. Our bureaucracy - so widely scorned - is our second brain, as indispensable as the first." (216)
+
+## Complication - Complexity
+"For complication is just the opposite of complexity a complicated task is one made up of many steps, each one of which is simple; a complex task, as the name indicates, is one that simultaneously embraces a large number of variables, none of which can be identified separately." (219)
+
+## Computers
+"Thanks to computers, we now know that there are only differences of degree between matter and texts." (222)
+
+## Programs
+"Programs are written, chips are engraved like etchings or photographed like plans. Yet they do what they say? Yes, of course, for all of them - texts and things - act. They are programs of action whose scriptor may delegete their realization to electrons, or signs, or habits, or neurons." (223)
+
+## The social and the technological
+"[Norbert: ]'But if body and soul, the social and the technological, are separated, the it will die,'" (223)
