@@ -174,3 +174,12 @@ For the thing we are looking for is not a human thing, nor is it an inhuman thin
 
 ## The social and the technological
 "[Norbert: ]'But if body and soul, the social and the technological, are separated, the it will die,'" (223)
+
+## Pure Object
+[Norbert's student:] "Aramis had not incorporated any of the tranformations of its environment, It had remained purely an object, a pure object. Remote from the social arena, remote from history; intact. This was surely it , the hidden staircase Norbert was looking for. Its soul and its body, as he would say, never merged." (280)
+
+## Autonomy of Technology
+[Norbert:] "'Here is our mistake, one we all made, the only one we made. You had a hypersensitive project, and you treated it as if you could get it through under its own steam. [...] You believed in the autonomy of technology." (292)
+
+## Real Aramis?
+[Norbert:] "'You want Aramis to be automated, irreversible, real? It will be, it could be, it could have been. But at the beginning it is still unrel, reversible, manual, terribly manual. Don't ask Aramis, don't ask a project, to do something you, as individuals and corporate bodies, find yourselves incapable of accomplishing. Either you change the world to adapt it to the nominal Aramis, or else, yes, you need - you needed - to change Aramis." (292)
