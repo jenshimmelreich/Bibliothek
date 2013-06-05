@@ -36,3 +36,18 @@ Edwin Hutchins
 
 ## Implementation Details
 "The implementation details have been largely ignored in the past. This may be due in part to the notion that in informationprocessing systems what is important is the structure of the computation, not the means of implementation." (51)
+
+## Relationship between Representational an Implementational Level
+"In this light, the organitzation of systems of cultural representations may become visible and, once noticed, may come to seem much less obvious than before. Furthermore, because the representational ind implementational levels constrain each other more closely than do the comuptational and representational, it is useful to see the relationship between the representational level and its implemtation in cultures that are technologically quite different from each other." (66)
+
+## Artifacts
+"In the Western tradition, physical artifacts became repositories of konwledge, and they were constructed in durable media so that a single artifact might come to represent more than any individual could know. Furthermore, through the combination and superimposition of task-relevant structure, artifacts came to embody kinds of konwledge that would be exceedingly difficult to represent mentally (Latour 1986). Many of the instruments of Western navigation are based on the principle of building computational constraints of the task into the physical structure of the artifact." (96)
+
+## Representation of Syntax
+"The representation of symbolic worlds in physical artifacts, and especilally the representation of the syntax of such a world in the physical constraints of the artifact itself, is an enormously powerful principle." (107)
+
+## Flow of Computational Products
+"The tools of navigation share with one another a rich network of mutual computational and representational dependencies. Each plays a role in the computational environments of the others, providing the raw materials of computation or consuming the products of it. In the ecology of tools, based on the flow of computational products, each tool creates the environment for others. This is easy to see in the history of the physical tools, but the same is certainly true of the mental tools that navigators bring to their tasks." (113f)
+
+## Thinking - Techniques and Tools
+"A way of thinking comes with these techniques and tools. The advances that were made in naviagation were alwys parts of a surrounding culture. They appeared in other fields as well, so they come to permeate our culture. This is what makes it so difficult to see the nature of our way of doing things and to see how it is that other do what they do." (115)
