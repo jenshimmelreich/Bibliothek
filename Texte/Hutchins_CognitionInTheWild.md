@@ -51,3 +51,56 @@ Edwin Hutchins
 
 ## Thinking - Techniques and Tools
 "A way of thinking comes with these techniques and tools. The advances that were made in naviagation were alwys parts of a surrounding culture. They appeared in other fields as well, so they come to permeate our culture. This is what makes it so difficult to see the nature of our way of doing things and to see how it is that other do what they do." (115)
+
+## 3 The Implementation of Contemporary Pilotage
+
+## Problemsolving
+"In his seminal book The Scences of the Artificial Herbert Simon (1981: 153) said that 'solving a problem simply means representing it so as to make the solution transparent.'" (117)
+
+## Fix Cycle
+"The basic prodecures of navigation are accomplished by a cycle of activity, called the fix cycle, [...]" (117)
+
+## Computation
+"Since some of the structure involved in this computation is internal to the individuals and some external, it is useful to adopt a concept of computation that does not require a change of theory to cross the skin. The fix cycle is accomplished by the propagation of representational state across a series of representational media." (117)
+
+## Representational State
+"I will refer to a configuration of the elements of a medium that can be interpreted as a representation of something as a representational state of the medium. Representational states are propagated from one medium to another by bringing the states of the media into coordination with one another." (117)
+
+## Computation
+"For our purposes, 'computation' will be taken, in an broad sense, to refer to the propagation of representational state across representational media." (118)
+
+## Problem solution
+"What lies between the problem and its solution? Between the relation of the ship to its environment and the position plotted on the chart lie a number of representational media across which the representations of the spatial relationship of the ship to the world are propagated." (119)
+
+## Internal organization
+"With systems of socially distributed cognition we can step inside the cognitive system, and while some underlying processes (inside people's heads) remain obscured, a great deal of the internal organization and operation of the system is directly observable." (129)
+
+## Specification of Cognitive Tasks
+"The description of transformations of representational state in the previous sections is both a description of how the system processes information and a specification of cognitive tasks facing the individual members of the navigation team." (129)
+
+## Representations are cultural
+"Notice that, although some of the representations are internal, they are still all cultural in the sense that they are the residua of a process enacted by a community of practice rather than idiosyncratic inventions of their individual users." (130)
+
+## Minimum internal structure
+"In the following, I will attempt to posit the minimum internal structure required to get the task done. I choose the minimum because I would go beyond this point with trepidation [Ängstlichkeit, Beklemmung]." (132)
+
+## Cognitive Abilities for Navigation
+"Indeed, the cognitive abilities that navigation practitioniers employ in their use of the forms and inscriptions are very mundane ones - abilities that are found in a thousand other task settings." (133)
+
+## Tools
+"Even more important, the incorrect relations are 'built out' - it is not possible to produce those relations with these tools." (151)
+
+## Complex Computation
+"A complex computation is realized ba a simple strategy seeing in a carefully constructed environment." (152)
+
+## Tools: Amplifying or Transforming
+"Rather than amplify the cognitive abilities of the task performers or act as intelligent agents in interaction with them, these tools transform the task the person has to do by representing it in an domain where the answer or the path to the solution is apparent." (155)
+
+## Sequential or co-articulated
+"In fact, the maximally co-articualted case is typical. [...] The serial sequential account i the one that appears in the written procedures that describe the task." (158)
+
+## Modularity
+"All these precomputational activities are instance of a wider class of computational phenomena called modularity. They are modula in the sense that they remove from local computations any apsects that are invariant across the spational and temporal extent of the computation." (167)
+
+## Functional System performing Tasks
+"Then, and always, the functional system that performs the task is a constellation of structured representational media that are brought into coordination with one another. These tools permit us to transform difficult tasks into ones that can be done by pattern matching, by the manipulation of simple physical systems, or by mental simulations of manipulations of simple physical systems. These tools are useful precisely because the cognitive processes required to manipulate them are not the computational processes accomplished by thir manipulation. The computational constraints of the problem have been built into the physical structure of the  tools." (170f)
