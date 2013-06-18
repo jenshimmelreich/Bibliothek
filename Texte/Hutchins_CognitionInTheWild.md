@@ -104,3 +104,44 @@ Edwin Hutchins
 
 ## Functional System performing Tasks
 "Then, and always, the functional system that performs the task is a constellation of structured representational media that are brought into coordination with one another. These tools permit us to transform difficult tasks into ones that can be done by pattern matching, by the manipulation of simple physical systems, or by mental simulations of manipulations of simple physical systems. These tools are useful precisely because the cognitive processes required to manipulate them are not the computational processes accomplished by thir manipulation. The computational constraints of the problem have been built into the physical structure of the  tools." (170f)
+
+## 4 The Organization of Team Performances
+
+## Team Computation
+"Since the work of the team is a computation, we can treat this as a computational system and treat the social organisation of the team as a computational architecture." (185)
+
+## Buffering
+"Buffering contribute to what Perrow (1984) has colled 'loose coupling' of the system." (195)
+
+## Individual Memory
+"If we think of individual memory as communication with the self over time (Lants and Stefflre 1964), then the replacement of intrapersonal communication by interpersonal communication is an expected consequence of the move from individual to team performance of a task." (196)
+
+## Partial Procedure without Overall Pattern
+"An interlocking set of partial procedures can produce the overall observed pattern without there being a representation of that overall pattern anywhere in the system." (200)
+
+## Coordination
+"When the nature of the problem is seen as coordination among persons and devices, much of the organization of behavior is removed from the performer and is given over to the structure of the object or system with which one is coordinating." (200)
+
+## People as Glue
+"The people are the glue that sticks the hardware of the system together." (202)
+
+## Distributing attention
+"When a probem has a deeply nested goal structure, a social herarchy con provide a mechanism for distributung the attention to various parts of the goal structure." (203)
+
+## Overlapping Knowledge
+"This sort of overlapping konwledge distribution is characteristic of cooperative work and is an important source of the robustness of such systems in the face of error and interruption." (221)
+
+## Ways to Distribute
+"Given a computational procedure and a social organization, there are better and worse ways to distribute the computation across the social network. One way in which the distribution of tasks can be better or worce concerns the relation between the amount of information that must be passed between computational segments and the capacity of the medium of communication between the participants responsibel for those segments." (223)
+
+## Robustness
+"This robustness is made possible by the redundant distribution of knowledge among the members of the team, the access of members to one another's activities, and the fact that the individual workloads are light enough to permit mutual monitoring and occasional assistance." (223f)
+
+## Constraints on the Behavior
+"An important aspect of these interrelated social and computational structures is that both of them provide constraints on the behavior of the participants." (224)
+
+## What is the subject?
+"'How do you know what they are doing? Maybe what they are making is social relationships and the cars are a side effect.'" (225)
+
+## Cognitive Properties of the System
+"The larger system has cognitive properties very different from those of any individual. In fact the cognitive properties of the navigation team are at least twice removed from the cognitive properties of the individual members of the team. The first remove is a result of the transfroming effects of the interactions with the tools of the trade (chapter 3); the second remove is a consequence of the social organization of distributed cognition." (226)
