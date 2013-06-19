@@ -145,3 +145,17 @@ Edwin Hutchins
 
 ## Cognitive Properties of the System
 "The larger system has cognitive properties very different from those of any individual. In fact the cognitive properties of the navigation team are at least twice removed from the cognitive properties of the individual members of the team. The first remove is a result of the transfroming effects of the interactions with the tools of the trade (chapter 3); the second remove is a consequence of the social organization of distributed cognition." (226)
+
+## 5 Communication
+
+## Structure of Language
+"When cognitive activities are distribute across social space, the language or languages used by task performers to communicate are almost certain to serve as structuring resources, and the structure of language will affect the coginitve properties of the gruop even if they do not affect the cognitive properties of individuals in the group." (232)
+
+## Meanings
+"The meanings of statements and questions are not given in the statements themselves but are negotiated by the participants in the context of their understandings of the activities underway." (236)
+
+## Meanings
+"Meanings can only even be imaginated to be in the messages when the environment about which communication is performed is very stable and there are very strong constaints on the expectations." (239)
+
+## Cognitive Properties of Groups
+"Rather, the cognitive properties of groups are produced by interaction between structures internal to individuals and structures external to individuals." (262)
