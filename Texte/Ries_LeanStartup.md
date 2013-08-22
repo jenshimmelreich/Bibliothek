@@ -75,3 +75,62 @@ Eric Ries
 
 ## Experiment
 "Im Lean-Startup-Modell ist ein Experiment, mehr als eine theoretische Untersuchung; es beinhaltet auch ein erstes Produkt, das getestet wird." (63)
+
+## II. Steuerung
+
+## Messen-Bauen-Lernen-Schleife
+LERNEN -> Ideen -> BAUEN -> Kodieren -> MESSEN -> Daten -> ... (73)
+
+## Gesamtzeit Feedbackschleige
+"Echte Entrpreneuere fokussieren ihre Energie auf die Verringerung der Gesamtzeit, die der Weg durch die Feedbackschleife in Anspruch nimmt." (74)
+
+## Minimales funktionsfähgiges Produkt (MFP)
+"Das MFP ist die Produktversion, die einen vollen Durchlauf der Bauen-Testen-Lernen-Feedbackschleife mit einem Minimum an Kraftaufwand und Entwicklungszeit ermöglicht. [...] Wir müssen in der Lage sein, seine Auswirkung zu messen." (74)
+
+## Planung der Bauen-Messen-Lernen-Schleife
+"Obwohl wir von einer Bauen-Messen-Lernen-Feedbackschleife sprechen, weil die Aktivitäten in dieser Reihenfolge stattfinden, verläuft unsere Planung in umgekehrter Reihenfolge: Wir ergründen, was wir lernen müssen, finden mithilfe der Innovationsbilanz heraus, was einer Analyse bedarf und ob validierte Lernprozesse erfolgen, und ermittlen danach, was für ein Produkt wir entwickeln müssen, um Experimente durchzuführen und zu diesem Messergebnis zu gelangen." (75)
+
+## 5. Sprung
+
+## Design Thinking
+"Doch diese Designaktivitäten [Design Thinking, Interaktionsgestaltung] fließen in ein monolithisches Modell ein, das man dem Klienten auf einen Schlag präsentiert; dafür wurden die Agenturen schließlich bezahlt." (85)
+
+## 6. Tests
+
+## MFP
+"Ein MFP ist, anders als ein Prototyp oder Konzepttest, nicht darauf ausgelegt, Fragen zum Produktdesign oder zu technischen Merkmalen zu beantworten. Es zielt darauf ab, grundlegende Geschätshypothesen zu überprüfen." (88)
+
+## Erste Anwender (Early Adopter)
+"Die ersten Anwender einer Technologie akzeptieren - und bevorzugen teilweise - eine 80-prozentige Problemlösung; man braucht kein perfektes Produkt, um ihr Interesse zu wecken." (89)
+
+## Qualität
+"Einer der ärgerlichsten Aspekte bei einem minimal funktionsfähigen Produkt ist die Herausforderung, vor die es herkömmliche Qualitätsvorstellungen stellt. [...] Wenn wir nicht wissen, wer der Kunde ist, können wir auch nicht wissen, was Qualität für ihn bedeutet." (100)
+
+## Umfang des MFP
+"Wenn Sie die Entwicklung eines minimal funktionsfähigen Produkts in Betracht ziehen, empfehle ich Ihnen, sich an die einfache Regel zu halten: Klammern Sie jede Funktion, jeden Prozess und Jede Aktivität aus, die nicht unmittelbar zu den von Ihnen angestrebten Lernfortschritten führen." (102f)
+
+## 7. Messungen
+
+## Ziel von Aktionen
+"Jede Produktentwicklung, Marketingkampagne oder andere Initative sollte unter dem Aspekt ins Auge gefasst werden, eine der Antriebskräfte des Wachstumsmodelles zu verbessern." (111)
+
+## Kohortenanalyse
+"Statt Ausschau nach kumulativen oder Bruttozahlen zu halten wie Gesamtertrag oder Gesamtzahl der Kunden, konzentriert man sich auf die Ergebnisse der einzenen Kundengruppen, die unabhängig voneinander mit dem Produkt in Berührung kommen. Diese Gruppen werden Kohorten genannt." (115)
+
+## Produkt- und Marketingverbesserungen
+"Wenn sie sich mit ihrem Produkt auf dem Holzweg befinden, tragen weder Produkt- noch Marketingverbesserungen zu nennenswerten Fortschritten bei. Ein Startup muss die Messlatte des Erfolgs von Anfang an hoch ansetzen und nachweisen, dass sein Produkt oder seine Dienstleistung auf einem tragfähigen Geschäftsmodell ruht." (117f)
+
+## Agile Softwareentwicklung
+"Die agile Softwareentwicklung ist ein wirksames System aus der Sicht der Entwickler. Es gestattet ihnen, sich auf neue Funktionen und technische Gestaltungsmöglichkeiten zu konzentrieren. Der Versuch, unabdingbare Lernprozesse in dieses System einzubinden, könnte die Produktitvität untergraben." (125)
+
+## Kohortenanalyse und A-B-Tests
+"Statt die Bruttokenngrößen zugrunde zu legen, ging es zur Kohortenanalyse über, und statt die Zusammenhänge zwischen Ursache und Wirkung zu erforschen, wenn das 'Kind in den Brunnen gefallen war', brachte es jede neue Funktion vorab als Split-Run- oder A-B-Test heraus." (126)
+
+## Produktpriorisierungsprozess
+"In neuen System galten die User Storys so lange als unvollständig, bis sie validierte Lernprozesse herbeiführten. Folglich konnten die Anforderungen katalogisiert und einem der vier Entwicklungssstadien zugeordnet werden: Im Product Backlog, in der aktiven Entwicklung, fertig (Funktion aus technischer Sicht vollständig) oder im Validierungsprozess." (128)
+
+## User Story - Hypothese
+"Im klassischen System würde er die Funktion einfach entwickeln und später herausfinden, wozu sie dient. Im neuen System ist dieses Verhalten kontraproduktiv: Wie kann eine User Story ohne klare Hyptothese validiert werden?" (130)
+
+## Kohortenanalyse
+"Deshalb sind Berichte, die auf Kohortenanalysen basieren, das A und O der Lernparameter: Sie verwandeln vielschichtige Vorgänge in Aktivitäten, in deren Mittelpunkt der Mensch steht. Eine Kohortenanalyse besagt: Das ist der Prozentsatz der Leute, die unser Produkt im genannten Zeitraum benutzt und das von uns angestrebte Verhalten gezeigt haben." (134)
