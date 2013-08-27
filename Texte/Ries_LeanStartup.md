@@ -134,3 +134,57 @@ LERNEN -> Ideen -> BAUEN -> Kodieren -> MESSEN -> Daten -> ... (73)
 
 ## Kohortenanalyse
 "Deshalb sind Berichte, die auf Kohortenanalysen basieren, das A und O der Lernparameter: Sie verwandeln vielschichtige Vorgänge in Aktivitäten, in deren Mittelpunkt der Mensch steht. Eine Kohortenanalyse besagt: Das ist der Prozentsatz der Leute, die unser Produkt im genannten Zeitraum benutzt und das von uns angestrebte Verhalten gezeigt haben." (134)
+
+## 8. Kurswechsel
+
+## Frühe Anwender - Mainstream-Kunden
+"Sobald man bei den frühen Anwendern Erfolg hat, möchte man den Kundenstamm erweitern und an den Mainstream verkaufen. Mainstream-Kunden haben jedoch andere Anforderungen und sind wesentlich anspruchsvoller." (156)
+
+## Kurskorrekturen (Pivot)
+"Kurskorrekuturen können unterschiedliche Formen annehmen. Sie sollten nicht mit dem allgemeinen Begriff Veränderung verwechselt werden. Kurswechsel oder Kurskorrekturen repräsentieren in diesem Zusammenhang eine spezifische Veränderung, mit deren Hilfe eine neue grundlegende Hypothese bezüglich des Produkts, des Geschäftsmodells oder des Wachstumsmotors auf Herz und Nieren überprüft werden soll." (158)
+
+## Kurswechselkatalog
+- Zoom-in-Korrektur
+- Zoom-out-Korrektur
+- Kundensegmentkorrektur
+- Kundenbedarskorrektur
+- Plattformkorrektur
+- Korrektur der Geschäftsarchitektur
+- Wertschöpfungskorrektur
+- Korrektur des Wachstumsmotors
+- Absatzwegkorrektur
+- Technologiekorrektur
+(158ff)
+
+## III. Beschleunigung
+
+## Organisationsstrukturen
+"Startups brauchen Organisationsstrukturen, die ihren größten Feind bekämpfen: die extreme Unsicherheit, mit der sie leben müssen." (167)
+
+## 9. Batchgrößen
+
+## Gesamtleistung des Systems
+"Leider ist bei prozessorientierten Arbeiten wie dieser die individuelle Leistung nicht annähernd so wichtig wie die Gesamtleistung des Systems." (171)
+
+## Andon-Cord-System
+Das Toyotasystem, bei dem jeder das Band mit einer Leine stoppen kann. (172)
+
+## Batchgröße
+"Fast jede bisher geschilderte Lean-Startup-Methode entfaltet ihre magischen Kräfte in zweierlei Hinsicht: sie verwandelt Push-in Pullstrategie und verringert die Batchgröße. Beide führen unter dem Strich zum Schrumpfen des WIP-Bestands." (184)
+
+## Hypothese als Pull-Effekt
+"Folglich übt nicht der Kunde, sondern unsere Hypothese über den Kunden eine Sogwirkung aus, einen Pull-Effekt, der die Produktentwiclkung und andere Funktionen steuert." (185)
+
+## 10. Wachstum
+
+## Neukunden
+"Neukunden gewinnt man durch Erfahrungen mit dem verhalten bestehender Kunden." (190)
+
+## Startups ertrinken
+"'Startups verhungern nicht; sie ertrinken.' Es gibt immer unzählige neue Ideen, wie man einem Produkt Starthilfe gibt, aber die meisten bewirken nur einen kleinen Unerschied, weil es sich um reine Optimierungen handelt. Startups müssen sich auf die großen Experimente einlassen, die zu validierten Lernprozessen führen." (192)
+
+## Wachstum - bestehende Kunden
+"Wachstum findet man durch Konzentration auf die bestehenden Kunden, indem man das Produkt noch attraktiver für sie macht." (194)
+
+## Viraler Koeffizient
+"Der virale Koeffizient misst die Anzalh der Neukunden, die durch Vermittlung eines frischgebackenen Kunden an ein Produkt herangeführt werden." (195)
