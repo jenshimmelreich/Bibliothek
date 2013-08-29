@@ -188,3 +188,31 @@ Das Toyotasystem, bei dem jeder das Band mit einer Leine stoppen kann. (172)
 
 ## Viraler Koeffizient
 "Der virale Koeffizient misst die Anzalh der Neukunden, die durch Vermittlung eines frischgebackenen Kunden an ein Produkt herangeführt werden." (195)
+
+## 11. Anpassung
+
+## 5-Warum-Analyse
+"Die Fünf-Warum-Analyse trägt zum Aufbau einer adaptiven Organisation bei: durch proportionale, aber stetige Investitionen in jede der fünf Hierarchieebenen des Problems." (211)
+
+## 12. Innovation
+
+## Stützende Strukturen
+"Innovationsteams brauchen stützende Strukturen, um erfolgreich zu sein. [...] Gleich ob intern oder extern, drei Strukturmerkmale sind unabdingbar: knappe aber sichere Ressourcen, Handlungsbefugnis, um das Geschäftsmodell zu entwickeln, und ein persönlicher Interesse am Ergebnis." (230)
+
+## Startups - funktionsübergreifend
+"Startups sollten funktionsübergreifend sein, das heißt sich aus Vollzeit-Repräsentanten aller funktionalen Abteilungen des Unternehmenes zusammensetzen, die in die Entwicklung oder Einführung der ersten Produkte eingebunden sind." (231)
+
+## Entrepeneurship
+"Entrpreneurship sollte auch in großen Unternehmen als zukunftsfähiger Karrierepfad für Innovatoren betrachtet werden." (241)
+
+## Effizienz
+"Doch die Effizienz des Einzelnen ist in einem Lean Startup keine Zielgröße. [...] Was zäht, ist allein, wie schnell wir die gesamte Schleife durchlaufen." (245)
+
+## 13. Kapitel
+## Nachwort: Das oberste Gebot - Du sollst nicht verschwenden
+
+## Fazit
+"Wie sähe ein Unternehmen aus, in dem sämtliche Mitarbeiter mit den Waffen einer organisatorischen Lean-Startup-Supermacht ausgerüstet sind? [...]
+Wir würden keine Zeit mit endlosen Auseinandersetzungen zwischen den Verteidigern des Qualitätsprinzips und den Draufgängern verlieren [...] Wir würden uns beeilen, unsere Vision einem Lackmustest zu unterziehen [...]
+Wir würden auf Fehler und Rückschläge mit Ehrlichkeit und Lernprozessen reagieren, nicht mit Schuldzuweisuungen und Vorwürfen. [...] Wir würden und für die Entwicklung neuer Institutionen mit einer langfristigen Zielsetzung, einer echten Mission engagieren, um nachhaltige Werte zu schaffen und die Welt zum Besseren zu verändern.
+Vor allem aber würden wir endlich aufhören, Zeit zu vergeuden." (256)
