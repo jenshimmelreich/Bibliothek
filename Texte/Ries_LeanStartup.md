@@ -114,6 +114,10 @@ LERNEN -> Ideen -> BAUEN -> Kodieren -> MESSEN -> Daten -> ... (73)
 
 ## 7. Messungen
 
+## Innovationsbilanz
+"Die Innovationsbilanz umfasst drei Schritte: Erstens müssen Startups ein minimal funktionsfähiges Produkt zum Einsatz bringen, um echte Daten über den aktuellen Stand des Projekts zu gewinnen. [...]
+Zweitens müssen Strarups versuchen, den Wachstumsmotor durch Feinabstimmung der Parameter von der Start- oder Grundlinie in Richtung Ziel- oder Ideallinie zu bringen. [...] Nachdem alle erforderlichen Mikroveränderungen und Produktoptimierungen durchgeführt wurden, erreicht das Startup einen Punkt, an dem eine wichtige Entscheidung ansteht, Das ist der dritte Schritt, bei dem sich die Frage stellt, ob es den Kurs wechseln oder beibehalten soll." (110)
+
 ## Ziel von Aktionen
 "Jede Produktentwicklung, Marketingkampagne oder andere Initative sollte unter dem Aspekt ins Auge gefasst werden, eine der Antriebskräfte des Wachstumsmodelles zu verbessern." (111)
 
