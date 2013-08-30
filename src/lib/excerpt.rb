@@ -1,5 +1,5 @@
-require 'lib/excerpt_header'
-require 'lib/citation'
+require File.dirname(__FILE__) + '/excerpt_header'
+require File.dirname(__FILE__) + '/citation'
 
 class Excerpt
   attr_reader :text

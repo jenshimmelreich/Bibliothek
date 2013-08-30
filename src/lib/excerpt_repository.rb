@@ -1,5 +1,4 @@
-require 'lib/excerpt'
-
+require File.dirname(__FILE__) + '/excerpt'
 
 class ExcerptRepository
   def initialize dir
@@ -25,3 +24,8 @@ class ExcerptRepository
     @excerpts[excerpt.key] = excerpt if excerpt.valid?
   end
 end
+
+EXCERPT_DIR = "#{File.dirname(__FILE__)}/../../Texte" 
+REPOSITORY = ExcerptRepository.new EXCERPT_DIR
+REPOSITORY.build 
+

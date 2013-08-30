@@ -2,12 +2,7 @@ require 'rubygems'
 require 'sinatra'
 require 'haml'
 require 'cgi'
-
 require 'lib/excerpt_repository'
-
-EXCERPT_DIR = "#{File.dirname(__FILE__)}/../Texte" 
-REPOSITORY = ExcerptRepository.new EXCERPT_DIR
-REPOSITORY.build 
 
 set :haml, :format => :html5
 
@@ -23,4 +18,14 @@ end
 get '/' do
   @excerpts = REPOSITORY.excerpts 
   haml :excerpts, :layout => :application
+end
+
+
+get '/index' do
+  haml :index, :layout => :application
+end
+
+
+post '/index' do
+  haml :index, :layout => :application
 end
