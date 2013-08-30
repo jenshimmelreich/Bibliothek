@@ -12,7 +12,7 @@ Eric Ries
 
 ## Die 5 Prinzipien der Lean-Startup-Methode
 "Die fünf Prinzipien, die der Lean-Startup-Methode zugrunde liegen und nachfolgend erklärt werden, lauten:
-1. Entrpeneuere gibt es überall. [...] Der Begriff des Entrepreneurs trifft auf jeden zu, der in einem 'Startup' arbeitet. Ich verstehen darunter eine menschliche Organisationsform, die sich zum Ziel gesetzt hat, unter extrem unsicheren Bedingungen neue, innovative Produkte und Dienstleistungen zu schaffen. [...] funktioniert auch innerhalb eines etablierten Unternehmens [...].
+1. Entrepeneuere gibt es überall. [...] Der Begriff des Entrepreneurs trifft auf jeden zu, der in einem 'Startup' arbeitet. Ich verstehen darunter eine menschliche Organisationsform, die sich zum Ziel gesetzt hat, unter extrem unsicheren Bedingungen neue, innovative Produkte und Dienstleistungen zu schaffen. [...] funktioniert auch innerhalb eines etablierten Unternehmens [...].
 2. Entrepreneurship ist Management. [...]
 3. Validierter Lernprozess [...]
 4. Bauen-messen-lernen [...] Alle erfolgreichen Startup-Prozesse sollten darauf ausgerichtte sein, diese Feedbackschleife zu bescheunigen.
@@ -68,7 +68,7 @@ Eric Ries
 "Bei der Nutzenhypothese gilt es zu verifizieren, ob ein Produkt oder eine Dienstleistung dem Kunden einen echten Nutzen bringt, sobald er Gebrauch davon macht." (61)
 
 ## Wachstumshypothese
-"Auvh für die Wachstumshypothese lässt sich eine solche Analyse durchführen, die Aufschluss gibt, wie Neukunden ein Produkt oder eine Dienstleistung entdecken." (61)
+"Auch für die Wachstumshypothese lässt sich eine solche Analyse durchführen, die Aufschluss gibt, wie Neukunden ein Produkt oder eine Dienstleistung entdecken." (61)
 
 ## Frühe Anwender
 "Es geht nicht darum, den Durchschnittskunden, sondern die frühen Anwender zu ermitteln: Kunden, bei denen das Bedürfnis, ein Produkt zu nutzen besonders stark ausgeprägt ist. Sie neigen am ehesten dazu, Fehler zu verzeihen und Feedback zu liefern." (62)
@@ -147,7 +147,7 @@ LERNEN -> Ideen -> BAUEN -> Kodieren -> MESSEN -> Daten -> ... (73)
 - Zoom-in-Korrektur
 - Zoom-out-Korrektur
 - Kundensegmentkorrektur
-- Kundenbedarskorrektur
+- Kundenbedarfskorrektur
 - Plattformkorrektur
 - Korrektur der Geschäftsarchitektur
 - Wertschöpfungskorrektur
@@ -178,7 +178,7 @@ Das Toyotasystem, bei dem jeder das Band mit einer Leine stoppen kann. (172)
 ## 10. Wachstum
 
 ## Neukunden
-"Neukunden gewinnt man durch Erfahrungen mit dem verhalten bestehender Kunden." (190)
+"Neukunden gewinnt man durch Erfahrungen mit dem Verhalten bestehender Kunden." (190)
 
 ## Startups ertrinken
 "'Startups verhungern nicht; sie ertrinken.' Es gibt immer unzählige neue Ideen, wie man einem Produkt Starthilfe gibt, aber die meisten bewirken nur einen kleinen Unerschied, weil es sich um reine Optimierungen handelt. Startups müssen sich auf die großen Experimente einlassen, die zu validierten Lernprozessen führen." (192)
@@ -187,7 +187,7 @@ Das Toyotasystem, bei dem jeder das Band mit einer Leine stoppen kann. (172)
 "Wachstum findet man durch Konzentration auf die bestehenden Kunden, indem man das Produkt noch attraktiver für sie macht." (194)
 
 ## Viraler Koeffizient
-"Der virale Koeffizient misst die Anzalh der Neukunden, die durch Vermittlung eines frischgebackenen Kunden an ein Produkt herangeführt werden." (195)
+"Der virale Koeffizient misst die Anzahl der Neukunden, die durch Vermittlung eines frischgebackenen Kunden an ein Produkt herangeführt werden." (195)
 
 ## 11. Anpassung
 
@@ -206,10 +206,9 @@ Das Toyotasystem, bei dem jeder das Band mit einer Leine stoppen kann. (172)
 "Entrpreneurship sollte auch in großen Unternehmen als zukunftsfähiger Karrierepfad für Innovatoren betrachtet werden." (241)
 
 ## Effizienz
-"Doch die Effizienz des Einzelnen ist in einem Lean Startup keine Zielgröße. [...] Was zäht, ist allein, wie schnell wir die gesamte Schleife durchlaufen." (245)
+"Doch die Effizienz des Einzelnen ist in einem Lean Startup keine Zielgröße. [...] Was zählt, ist allein, wie schnell wir die gesamte Schleife durchlaufen." (245)
 
-## 13. Kapitel
-## Nachwort: Das oberste Gebot - Du sollst nicht verschwenden
+## 13. Nachwort: Das oberste Gebot - Du sollst nicht verschwenden
 
 ## Fazit
 "Wie sähe ein Unternehmen aus, in dem sämtliche Mitarbeiter mit den Waffen einer organisatorischen Lean-Startup-Supermacht ausgerüstet sind? [...]
