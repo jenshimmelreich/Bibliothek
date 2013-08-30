@@ -87,6 +87,9 @@ LERNEN -> Ideen -> BAUEN -> Kodieren -> MESSEN -> Daten -> ... (73)
 ## Minimales funktionsfähgiges Produkt (MFP)
 "Das MFP ist die Produktversion, die einen vollen Durchlauf der Bauen-Testen-Lernen-Feedbackschleife mit einem Minimum an Kraftaufwand und Entwicklungszeit ermöglicht. [...] Wir müssen in der Lage sein, seine Auswirkung zu messen." (74)
 
+## Innovationsbilanz
+"Wenn wir ein Produkt herstellen, das niemand will, spielt es keine Rolle, ob wir dabei im Zeit- und Budgetrahmen bleiben. Ein wirksamer quantitativer Ansatz, der zeigt, ob unsere Lern- und Feinabstimmungsaktivitäten Früchte tragen, ist die sogenannte Innovationsbilanz. Sie ermöglicht uns, Meilensteine im Lernprozess zu schaffen, eine Alternative zu den klassischen Meilensteinen bei der Verwirklichung der Unternehmenens- und Produktziele." (75)
+
 ## Planung der Bauen-Messen-Lernen-Schleife
 "Obwohl wir von einer Bauen-Messen-Lernen-Feedbackschleife sprechen, weil die Aktivitäten in dieser Reihenfolge stattfinden, verläuft unsere Planung in umgekehrter Reihenfolge: Wir ergründen, was wir lernen müssen, finden mithilfe der Innovationsbilanz heraus, was einer Analyse bedarf und ob validierte Lernprozesse erfolgen, und ermittlen danach, was für ein Produkt wir entwickeln müssen, um Experimente durchzuführen und zu diesem Messergebnis zu gelangen." (75)
 
