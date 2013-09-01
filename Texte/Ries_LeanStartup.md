@@ -78,6 +78,9 @@ Eric Ries
 
 ## II. Steuerung
 
+## Startup
+"Ein Startup ist in seinem tiefsten Innern ein Katalysator, der Ideen in Produkte umwandelt. Da Kunden mit diesen Produkten interagieren, erzeugen sie Feedback und Daten. [...] Wie im ersten Teil des Buches erläutert, sind die Produkte, die ein Startup herstellt, in Wirklichkeit Experimente; zu lernen, wie man darauf ein tragfähiges Geschäftsmodell aufbaut, ist das Ergebnis dieser Experimente." (73)
+
 ## Messen-Bauen-Lernen-Schleife
 LERNEN -> Ideen -> BAUEN -> Kodieren -> MESSEN -> Daten -> ... (73)
 
