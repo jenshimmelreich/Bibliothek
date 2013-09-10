@@ -159,3 +159,17 @@ Edwin Hutchins
 
 ## Cognitive Properties of Groups
 "Rather, the cognitive properties of groups are produced by interaction between structures internal to individuals and structures external to individuals." (262)
+
+## 6 Navigation as the Context for Learning
+
+## Learning
+"In Many human systems, as individuals become more skilled they move on to other roles in the task-performance group, making way for less skilled individuals behind them and replacing the more expert individuals before them who advance or leave the system." (265)
+
+## The Form as a resource in organization of behavior
+"Filling the blanks in order, from the top to the bottom of the form, provided a sequence for the elements of the task. [...]
+The chief uses the organization of the form as a resource in organizing bis behavior. [...]
+The whole ensemble, consisting of the printed form, the chief (with his internal structures - the ability to read, etc.), and the novice (with his own skills - his understanding of English an his konwledge of how to measure altitude and longitude on the chart), is the functional system that accomplishes this element of the culturally denided activity of navigation.
+The chief's use of the form is both a way to organize his own behavior and an example to the novice of a way to use such a resource to organize behavior." (280f)
+
+## Computational dependencies are social dependencies
+"There are at least two important implications of the fact that computational dependencies are social deplendencies in this system. First, the novices' understandings of the social relations of the workplace are a partial model of the computational dependiencies of the task itself. [...] Second, the communicative acts of the members of the navigation team are not just about the computation; they _are_ the computation. When this is the case, the playing out of computational processes and the playing out of social processes are inextricably intertwined. Social moves have computational as well as social consequences. Computational moves have social as well as computational consequences." (283)
