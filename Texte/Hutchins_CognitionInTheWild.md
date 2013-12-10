@@ -173,3 +173,42 @@ The chief's use of the form is both a way to organize his own behavior and an ex
 
 ## Computational dependencies are social dependencies
 "There are at least two important implications of the fact that computational dependencies are social deplendencies in this system. First, the novices' understandings of the social relations of the workplace are a partial model of the computational dependiencies of the task itself. [...] Second, the communicative acts of the members of the navigation team are not just about the computation; they _are_ the computation. When this is the case, the playing out of computational processes and the playing out of social processes are inextricably intertwined. Social moves have computational as well as social consequences. Computational moves have social as well as computational consequences." (283)
+
+## Learning in Context
+
+## Cognitive Systems
+"Throughout the previous chapters, I have tried to move the boundary of the unit of cognitive analysis out beyond the skin of the individual. Doing this enabled me to describe the cognitive properties of culturally constructed technical and social systems. These systems are simultaneously cognitive systems in their own rights and contexts for the cognition of the people who participate in them." (287)
+
+## Person and Environment
+"Instead of conceiving the relation between person and environment in terms of moving coded information across a boundary, let us look for processes of entrainment, coordination, and resonance among elements of a system that includes a person and the person's surroundings." (288)
+
+## Internal representation
+"In this and all that follows, internal representations are identified by their functional properties only. I make no commitment to proposed mental mechanisms or computational architectures with which the behaviors of the representations might be modeled." (288)
+
+## Learning
+"The proper unit of analysis for talking about cognitive change includes the socio-material environment of thinking. Learning is adaptive reorganization in a complex system." (289)
+
+## Leaning
+"I will attempt to approach this learning problem from the perspective of a softened boundary of the individual and to see the learning that happens inside an individual as simply adaptation of structure in one part o a complex system to organization in other parts." (290)
+
+## Mediating artifact
+"Rather than focus on the mediationg artifact as something that 'stands between,' I will view it as one of many structural elements that are brought into coordination in the performance of the task." (290)
+
+## Mediating Structures
+"Language, cultural knowledge, mental models, arithmetic procedures, and rules of logic are all mediating structures too. So are traffic lights, supermarket layouts, and the contexts we arrange for one anothers's behavior. Mediating structure can be embodies in artifacts, in ideas, in systems of social interaction, or in all of these at once." (290f)
+
+## Bateson
+"I take the fundamentals of an architecture of cognition and a sense of a unit of analysis from Gregory Bateson, who said that 'the elementary cybernetic system with messages in circuit is, in fact, the simplest unit of mind; and the transform of a difference travelling a crucuit is the elemtary idea' (1972: 459)." (291)
+
+## Unit of Analysis
+"_The way to delineate the system is to draw the limiting line in such a way that you do not cut any of these pathways in ways which leave things inexplicable. (ibid.)_
+The proper unit of analysis is, thus, not bounded by the skin or the skull. It includes the socio-material environment of the person, and the boundaries of the system may shift during the course of activity." (291f)
+
+## Processing internal Respresentation
+"_Not only can we manipulate the physical environment and thenn process it, we can also learn to internalize the represetations we create, 'imagine' them, and then process these imagined representations - just aus if they were external._" (292)
+
+## Simple Model of Propagation of Representational State
+"This is a simple model in which a person is situated in a sociomaterial world and learning is adaptive reorganization in other parts of the system. The system operates by the propagation of representational state across media, and the media themselves acquire functional organization as a consequence of the repeated impositions of representational state upon them. [...] The basic building blocks of the system are the coordinative processes that move representational state (horizontally in figure 7.11) and the functional properties of the representational media that permit them to learn to move through a sequence of states." (309)
+
+## Real Power of human cognition
+"But I believe the real power of human cognition lies in our ability to flexibly construct functional systems that accomplish our goals by bringing bits of structure into coordination. That culturally constituted settings for activity are rich in precisely the kinds of artifactual and social interactional resources that can be appropriated by such functional systems is a central truth about human cognition. The processes that create these settings are as much a part of human cognition as the processes that exploit them, an a proper understanding of human cognition must acknowledge the continual dynamic interconectivity of function elements inside with functional elements outside the boundary of the skin." (316)
