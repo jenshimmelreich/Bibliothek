@@ -20,5 +20,11 @@ Andreas Reckwitz
 ## Expressiv-strategischer Selbtorientierung vs. Teamorientierung
 "Nun ist es nicht nur die individuelle Authentizitätsorientierung, sondern gleichzeitig die Wettbewerbskonstellation des 'Unternehmers seiner selbst', die mit der Team- und Netzwerkorierntierung in Konkurrenz geraten." (524)
 
-## Anspruchen der Selbstverantwortlichkeit vs. der Kontingenz des Marktes
+## Anspruch der Selbstverantwortlichkeit vs. der Kontingenz des Marktes
 "Unterminiert werden kann die Kohärenz des post-burokratischen Arbeitssubjekts zweitens durch die Spannung zwischen der Anforderung einer pernamenten Arbeit an sich selbst, welche die individuelle Verantwortlichkeit für erfolgreiches Arbeiten dem Einzelnen zuschreicht, und der Abhängigkeit des individuellen Erfolges von der Nachfragelogik des Marktes, der nicht Leistungsfähigkeit prämiert, sondern zufällig aktuell nachgefragte Leistungen." (525)
+
+## Individualität vs. Markt
+" Der in die post-bürokratische Arbeitspraxis eingelassene Subjektcode verlangt vom Subjekt vielmehr selbst [...], seine unverwechselbare Individualität als ganze, eigentlich kreationsfähige Persönlichkeit zu entwickeln [...] und gleichzeitig, sich in Adaptionsfähigkeit an Marktbedingungen zu schulen;" (527)
+
+## Markt vs. Künstler
+"Perfekte Angepasstheit an Marktbedingungen ruft sein vernachlässigt scheinendes Authentizitätsstreben auf den Plan, die Realisierung des Künstlerideals ohne Rücksicht auf die Marktbedingungen wird mit der Opposition der unternehmerischen Orientierung beantwortet, die dem Subjekt nahelegt, auch und gerade als Kreativer erfolgreich sein zu können." (527)

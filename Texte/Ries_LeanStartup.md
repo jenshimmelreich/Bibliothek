@@ -119,7 +119,7 @@ LERNEN -> Ideen -> BAUEN -> Kodieren -> MESSEN -> Daten -> ... (73)
 
 ## Innovationsbilanz
 "Die Innovationsbilanz umfasst drei Schritte: Erstens müssen Startups ein minimal funktionsfähiges Produkt zum Einsatz bringen, um echte Daten über den aktuellen Stand des Projekts zu gewinnen. [...]
-Zweitens müssen Strarups versuchen, den Wachstumsmotor durch Feinabstimmung der Parameter von der Start- oder Grundlinie in Richtung Ziel- oder Ideallinie zu bringen. [...] Nachdem alle erforderlichen Mikroveränderungen und Produktoptimierungen durchgeführt wurden, erreicht das Startup einen Punkt, an dem eine wichtige Entscheidung ansteht, Das ist der dritte Schritt, bei dem sich die Frage stellt, ob es den Kurs wechseln oder beibehalten soll." (110)
+Zweitens müssen Startups versuchen, den Wachstumsmotor durch Feinabstimmung der Parameter von der Start- oder Grundlinie in Richtung Ziel- oder Ideallinie zu bringen. [...] Nachdem alle erforderlichen Mikroveränderungen und Produktoptimierungen durchgeführt wurden, erreicht das Startup einen Punkt, an dem eine wichtige Entscheidung ansteht, Das ist der dritte Schritt, bei dem sich die Frage stellt, ob es den Kurs wechseln oder beibehalten soll." (110)
 
 ## Ziel von Aktionen
 "Jede Produktentwicklung, Marketingkampagne oder andere Initative sollte unter dem Aspekt ins Auge gefasst werden, eine der Antriebskräfte des Wachstumsmodelles zu verbessern." (111)
@@ -207,7 +207,7 @@ Das Toyotasystem, bei dem jeder das Band mit einer Leine stoppen kann. (172)
 ## 12. Innovation
 
 ## Stützende Strukturen
-"Innovationsteams brauchen stützende Strukturen, um erfolgreich zu sein. [...] Gleich ob intern oder extern, drei Strukturmerkmale sind unabdingbar: knappe aber sichere Ressourcen, Handlungsbefugnis, um das Geschäftsmodell zu entwickeln, und ein persönlicher Interesse am Ergebnis." (230)
+"Innovationsteams brauchen stützende Strukturen, um erfolgreich zu sein. [...] Gleich ob intern oder extern, drei Strukturmerkmale sind unabdingbar: knappe aber sichere Ressourcen, Handlungsbefugnis, um das Geschäftsmodell zu entwickeln, und ein persönliches Interesse am Ergebnis." (230)
 
 ## Startups - funktionsübergreifend
 "Startups sollten funktionsübergreifend sein, das heißt sich aus Vollzeit-Repräsentanten aller funktionalen Abteilungen des Unternehmenes zusammensetzen, die in die Entwicklung oder Einführung der ersten Produkte eingebunden sind." (231)
@@ -223,5 +223,5 @@ Das Toyotasystem, bei dem jeder das Band mit einer Leine stoppen kann. (172)
 ## Fazit
 "Wie sähe ein Unternehmen aus, in dem sämtliche Mitarbeiter mit den Waffen einer organisatorischen Lean-Startup-Supermacht ausgerüstet sind? [...]
 Wir würden keine Zeit mit endlosen Auseinandersetzungen zwischen den Verteidigern des Qualitätsprinzips und den Draufgängern verlieren [...] Wir würden uns beeilen, unsere Vision einem Lackmustest zu unterziehen [...]
-Wir würden auf Fehler und Rückschläge mit Ehrlichkeit und Lernprozessen reagieren, nicht mit Schuldzuweisuungen und Vorwürfen. [...] Wir würden und für die Entwicklung neuer Institutionen mit einer langfristigen Zielsetzung, einer echten Mission engagieren, um nachhaltige Werte zu schaffen und die Welt zum Besseren zu verändern.
+Wir würden auf Fehler und Rückschläge mit Ehrlichkeit und Lernprozessen reagieren, nicht mit Schuldzuweisuungen und Vorwürfen. [...] Wir würden uns für die Entwicklung neuer Institutionen mit einer langfristigen Zielsetzung, einer echten Mission engagieren, um nachhaltige Werte zu schaffen und die Welt zum Besseren zu verändern.
 Vor allem aber würden wir endlich aufhören, Zeit zu vergeuden." (256)
