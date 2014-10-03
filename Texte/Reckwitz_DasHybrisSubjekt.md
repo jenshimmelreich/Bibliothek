@@ -53,6 +53,17 @@ Andreas Reckwitz
 ## Das kulturelle Andere
 "Das kulturelle Andere, das hier verworfen wird, ist die Berechenbarkeit der bürokratischen Organisation, die technische Koordinierung des Manager-Ingenieurs und die Routinetätigkeit des Angestellten." (508)
 
+## Das Kreativsubjekt und seine Projektfähigkeit
+
+## Post-bürokratische Arbeitsformen
+"Im Gegensatz zur Kombination aus strikt arbeitsteiliger funktionaler Differenzierung von Tätigkeiten und einer eindeutigen, hierarchischen Koordination dieser Aktivitäten in der Matrix-Organisation tritt hier die selbstkontrollierte Bündelung eines ganzen Tätigkeitskomplexes 'in einer Hand': Teamförmige Projkete oder 'intrapreneuers', die als Unternehmer in der Organisation agieren, zielen auf die Kreation eines ganzen Produktes ab, während die Arbeitsgestaltung im Detail - einschließlich ihrer zeitlichen und räumlichen Strukurierung - weigehend in die Selbstorganissation der Einzelnen fällt." (509)
+
+## Kreative und Unternehmer
+"In der Subjektkultur, welche diese Arbeitspraktiken enthalten, überformen sich das Modell des 'Kreativen' und das des 'Unternehmers seiner selbst'. [...] Das postmodernen Arbeitssubjekt kombiniert in sich die ästhetische Fähigkeit zur symbolischen Innovationsproduktion, welche jede normative Selbst- Und Fremdkontrolle aufzubrechen sucht, mit der Selbstkontrolle der 'Arbeit an sich selbt' und der Sensibilität für Fremderwartungen, die der 'Markt' an das Profil des Einzelnen stellt." (510)
+
+## Neuen Kulturindustrien und Artekfakterfindung
+"Ausgehend von den neuen Kulturindustrien, sind postmodernen Arbeitspraktiken typischerweise nicht solche der Ausführung, Koordination und Planung geregelter Prozesse, sondern solche der Artkefakterfindung." (511)
+
 ## Paradoxien post-bürokratischen Arbeitens
 
 ## Kreativ-ästhetische und unternehmerisch-ökonomische Überdeterminiertiheit
