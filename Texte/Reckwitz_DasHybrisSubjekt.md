@@ -64,6 +64,44 @@ Andreas Reckwitz
 ## Neuen Kulturindustrien und Artekfakterfindung
 "Ausgehend von den neuen Kulturindustrien, sind postmodernen Arbeitspraktiken typischerweise nicht solche der Ausführung, Koordination und Planung geregelter Prozesse, sondern solche der Artkefakterfindung." (511)
 
+## Artekfaktkreatio
+"Diese Artefaktkreation stellt sich nicht als eine im engeren Sinne technische, ingenieurhafte Aufgabe dar, sie ist primär eine Frage symbolischer Kreation, des Umgangs mit informationellen und ästhetischen Zeichen, in der nurmehr ein kleinerer Anteil i.e.S. technischer Entwickung enthalten ist." (511f)
+
+## Praktiken symbolischer Kreation
+"Die Praktiken der symbolischen Kreation stellen sich für das Arbeitssubjekt als Gegenstand libidinösen Begehrens dar: wenn es in der Arbeit nach self growth und individuellen Grenzerfahrungen trachtet, dann findet es diese in der symbolischen Kreation. Diese ist nach außen Innovationshandeln, nach innen gleichzeitig Innovationserleben." (512)
+
+## Kreativität
+"Kreativität stellt sich als Anforderung des postmodernen Subjekts an sich selbst und als Anforderung dar, welche die post-bürokratischen Arbeitsformen an das Subjekt herantragen." (513)
+
+## Die soziale Form des Projekts
+"[...], gleichzeitig findet diese Arbeit charakteristischerweise in der sozialen Form von 'Projekten' statt. Der Kreative partizipiert an einer Kreativitätsgemeinschaft auf Zeit (eingebettet in eine größere Organisation oder selbständig), die gemeinsam an Artefaktkreationen arbeitet." (514)
+
+## Emotionalität
+"Diese [Emotionalität] erscheint nicht als Rationalitätrisiko, sondern im Sinne einer 'emotionalen Intelligenz' als notwengige Voraussetung für Motiviertheit, kollektiven Enthusiasmus und sensible intersubjektive Abstimmung: 'People are not very rational.'" (515)
+
+## Stilisierungsgemeinschaft
+"In den Projekten der postmodernen Arbeitsorganisation fällt die Erlebensgemeinschaft mit der Stilisierungsgemeinschaft zusammen." (515)
+
+## Der Sinn für das Unternehmerische
+
+## Subjekt der Wahl - Objekt der Wahl
+"Der Unternehmer seiner selbst ist ein Subjekt der Wahl, das zwischen verschiedenen Arbeitsstellen, Projektteams und Tätigkeiten als Selbstständiger in seiner gesamten Arbeitsbiografie wählt, und es ist gleichzeitig ein Objekt der Wahl, indem es von potentiellen Arbeitgebern, Teams und Produktnachfragern gewählt wird (oder nicht) und sich entsprechend als wählbares Subjekt modellieren muss." (517)
+
+## Konsumentenorientierte Artefaktkreation
+"Bereits die Tätigkeit der Artefaktkreation im Projketteam ist auf spezische Weise konsumentenorientiert und verlangt nach einem unternehmerischen Sinn in Form einer sensibilisierten Beobachtung der organisationellen Umwelt, insbesondere der Perspektive der potentiellen Konsumenten." (517)
+
+## Internalisierung des Konsumentblicks
+"Hinzu kommt, dass die Internalisierung des Konsumentenblicks das unternehmerische Subjekt dazu anleitet, die eigene Arbeit unter dem Aspekt der nicht nur temporären, sondern permanenten Selbstoptimierung zu beobachten [...]" (518)
+
+## Non-Konformist (?)
+"Das unternehmerische Geschick besteht hier darin [...] Differenz zu anderen zu markieren, sich als Non-Konformist zu präsentieren und gleichzeitig in diesem spezifischen Non-Konformismus nachgefragte Eigenschaften anbieten zu können." (520)
+
+## Networking
+"Wenn dieser professionelle Wettbewerb immer das Risiko der Degradierung und des Scheiterns enthält, dann ist eine entscheidende Technik innerhalb der postmodernen Subjektkultur der Arbeit, welche die Ungewissheit der Arbeitsbiografie einzugrenzen versucht, das 'networking as a practice'." (521)
+
+## Koepitition
+"[...] zu anderen in Beziehungen der Konkurrenz und zugleich der Kooperation - der Koepitition - zu stehen." (522)
+
 ## Paradoxien post-bürokratischen Arbeitens
 
 ## Kreativ-ästhetische und unternehmerisch-ökonomische Überdeterminiertiheit
