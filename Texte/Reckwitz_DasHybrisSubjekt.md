@@ -118,3 +118,19 @@ Andreas Reckwitz
 
 ## Markt vs. Künstler
 "Perfekte Angepasstheit an Marktbedingungen ruft sein vernachlässigt scheinendes Authentizitätsstreben auf den Plan, die Realisierung des Künstlerideals ohne Rücksicht auf die Marktbedingungen wird mit der Opposition der unternehmerischen Orientierung beantwortet, die dem Subjekt nahelegt, auch und gerade als Kreativer erfolgreich sein zu können." (527)
+
+## 4.2.3 Postmodernen Technologien des Selbst: Individualästhetischer Konsum, körperorientierte Praktiken, digitale Praktiken
+
+## Das Computer-Subjekt zwischen Navigation und Immersion
+
+## User
+"Das Computer-Subjekt trainiert sich im Habitus eines user, in einer Kombination von elektiven, experimentellen und ästhetisch-imaginativen Dispositionen, die den Kern der spätmodernen Subjektform als Schnittstelle von ästhetisch-kreativen und ökonomisch-marktförmigen Kompetenzen ausmachen." (575)
+
+## Exploring
+"Als user bildet das Computer-Subjekt Dispositionen des experimentellen exploring, der Wahl und der Kombination aus. [...] Die Routinisierung der Haltung der Wahl schließt damit eine Routinisierung des vorbewussten Aussortiernes und Abwählens ein. [...] Der experimentelle Prozess des exploring kann damit vom user selbst lustvoll besetzt sein." (578f)
+
+## Neukombination
+Das Computer-Subjekt übt sich hier in der post-avantgardistischen Technologie der Kreation qua Neukombination, die sich in der cut and paste-Technik konkretisiert. [...] Die Computer-Technologie ermöglicht es gleichzeitig, dieser Neukombination den Charakter einer dissonant-verstörenden Montage zu nehmen [...] und ihr die normale Bruchlosigkeit eines 'single seamless object' zu verleichen, [...]" (580)
+
+## Interobjektivität
+"Im Umgang mit dem Computer trainiert sich das spätmodernen Subjekt damit statt in einer Konstellation der Intersubjektivität primar in einer solchen der Interobjektivibität." (584)
