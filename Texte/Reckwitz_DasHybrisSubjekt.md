@@ -1,7 +1,7 @@
 Andreas Reckwitz
 
 # Das hybride Subjekt
-# Eine Theorie der Subjektkutlturen von der bürgerlichen Moderne zur Postmoederne
+# Eine Theorie der Subjektkulturen von der bürgerlichen Moderne zur Postmoderne
 
 @BOOK{reckwitz2006hybridessubjekt, 
  title={Eine Theorie der Subjektkutlturen von der bürgerlichen Moderne zur Postmoederne},
@@ -12,7 +12,7 @@ Andreas Reckwitz
 
 }
 
-## 4. Die kulturrevolutionäre counter culture und die Formation der Postmoderne. Gebenkulturelles Subjekt und konsumtorisches Kreativsubjekt
+## 4. Die kulturrevolutionäre counter culture und die Formation der Postmoderne. Gegenkulturelles Subjekt und konsumtorisches Kreativsubjekt
 
 ## 4.2 Das Subjekt der Postmoderne als ästhetisch-ökonomische Doublette (seit 1980)
 
