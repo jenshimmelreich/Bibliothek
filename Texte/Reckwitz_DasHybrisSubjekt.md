@@ -19,7 +19,7 @@ Andreas Reckwitz
 ## 4.2.1 Post-bürokratische Praktiken der Arbeit und das unternehmerische Kreativsubjekt
 
 ## Das neue Arbeitssubjekt
-"Die symbolproduzierendEn Tätigkeiten in der neuen Kulturindustire - Beratung, Informationstechnologie, Design, Werbung, Tourismus, Finance, Unterhaltungsindustrie, Forschung und Entwicklung - avancieren zur Avantgarde einer Arbeitskultur, welche sich von der sozio-technischen Organisation und ihrem 'organisation man' abgrenzt und an deren Stelle das Modell einer projekt- und teamformigen 'Krativarbeit' setzt, die mit beschleunigten unternehmerischen Produkt-'Innovationen' auf die Fluidität der Konsumenten zu reagieren versucht. Diese post-bürokratische, projektförmige Arbeitskutlur produziert und präjudiziert ein Arbeitssubjekt, das sich als hybride Doppelkonstruktion von 'Kreativsubjekt' und 'unternehmerischem Subjekt' darstellt: Als Kreativsubjekt ist es Träger von semiotischen Innovationsdispositionen und sucht in der Arbeit nach der Herausforderung seines 'inneren Wachstums'; 'Kreativarbeit' ist ein zentrales Element seiner Selbststilisierung. Als 'Unternehmern seiner selbst' ist es fortlaufend bemüht, sein Profil nach Maßgabe des Marktes an Arbeitskräften zu optimieren und seine Arbeitsbiografie in kalkulatorischen Akten der Wahl zu modellieren." (500)
+"Die symbolproduzierenden Tätigkeiten in der neuen Kulturindustire - Beratung, Informationstechnologie, Design, Werbung, Tourismus, Finance, Unterhaltungsindustrie, Forschung und Entwicklung - avancieren zur Avantgarde einer Arbeitskultur, welche sich von der sozio-technischen Organisation und ihrem 'organisation man' abgrenzt und an deren Stelle das Modell einer projekt- und teamformigen 'Kreativarbeit' setzt, die mit beschleunigten unternehmerischen Produkt-'Innovationen' auf die Fluidität der Konsumenten zu reagieren versucht. Diese post-bürokratische, projektförmige Arbeitskultur produziert und präjudiziert ein Arbeitssubjekt, das sich als hybride Doppelkonstruktion von 'Kreativsubjekt' und 'unternehmerischem Subjekt' darstellt: Als Kreativsubjekt ist es Träger von semiotischen Innovationsdispositionen und sucht in der Arbeit nach der Herausforderung seines 'inneren Wachstums'; 'Kreativarbeit' ist ein zentrales Element seiner Selbststilisierung. Als 'Unternehmern seiner selbst' ist es fortlaufend bemüht, sein Profil nach Maßgabe des Marktes an Arbeitskräften zu optimieren und seine Arbeitsbiografie in kalkulatorischen Akten der Wahl zu modellieren." (500)
 
 ## Kultureller Andere: der Angestellte
 "Der kulturelle Andere, gegen den sich die unternehmerisch-kreative Subjektkultur des postmodernen Arbeitens abgrenzt und der ihr defizitär erscheint, ist der organization man, der Angestellte und der soziotechnische Manager-Ingenieur der organisierten Moderne." (500)
@@ -42,7 +42,7 @@ Andreas Reckwitz
 "Das 'Künstlerideal' (L. Boltanski) dieses durch die Gegenkulturen direkt oder indirekt beeinflussten Milieus grenzt sich von 'Technokratie', 'Bürokratie' und sozialer Statussicherung ab und implantiert in neuen Mittelschichts-Subjekt eine Motivation nach 'intrinsischer Motivation':" (504)
 
 ## Neoliberale Gouvernementalität
-"So wie sich der Code des Sozio-Technischen in ein politisches Programm des social engineering umsetzte, verbreitert sich der post-bürokratisch, unternehmensorientierte Managementsdiskurs zu politischen Porgrammen neoliberaler Goervernemenatalität." (506)
+"So wie sich der Code des Sozio-Technischen in ein politisches Programm des social engineering umsetzte, verbreitert sich der post-bürokratisch, unternehmensorientierte Managementsdiskurs zu politischen Programmen neoliberaler Gouvernementalität." (506)
 
 ## Wettbewerb und Unternehmen
 "Die entsprechende soziale Normalform ist der Wettbewerb zwischen eigen interessierten, selbstverantwortlichen Individuen. Gleichzeitig wird dieses Subjekt als eine risikobereite, akivistische Instanz vorgestellt. Seine gesellschaftliche Normalform ist das 'Unternehmen' (enterprise), das sich in beständiger, aktiver Reaktion auf die Wünsche von 'Kunden'/Konsumten auf dem Gütermarkt positioniert." (506)
@@ -56,13 +56,13 @@ Andreas Reckwitz
 ## Das Kreativsubjekt und seine Projektfähigkeit
 
 ## Post-bürokratische Arbeitsformen
-"Im Gegensatz zur Kombination aus strikt arbeitsteiliger funktionaler Differenzierung von Tätigkeiten und einer eindeutigen, hierarchischen Koordination dieser Aktivitäten in der Matrix-Organisation tritt hier die selbstkontrollierte Bündelung eines ganzen Tätigkeitskomplexes 'in einer Hand': Teamförmige Projkete oder 'intrapreneuers', die als Unternehmer in der Organisation agieren, zielen auf die Kreation eines ganzen Produktes ab, während die Arbeitsgestaltung im Detail - einschließlich ihrer zeitlichen und räumlichen Strukurierung - weigehend in die Selbstorganissation der Einzelnen fällt." (509)
+"Im Gegensatz zur Kombination aus strikt arbeitsteiliger funktionaler Differenzierung von Tätigkeiten und einer eindeutigen, hierarchischen Koordination dieser Aktivitäten in der Matrix-Organisation tritt hier die selbstkontrollierte Bündelung eines ganzen Tätigkeitskomplexes 'in einer Hand': Teamförmige Projekte oder 'Intrapreneuers', die als Unternehmer in der Organisation agieren, zielen auf die Kreation eines ganzen Produktes ab, während die Arbeitsgestaltung im Detail - einschließlich ihrer zeitlichen und räumlichen Strukturierung - weigehend in die Selbstorganissation der Einzelnen fällt." (509)
 
 ## Kreative und Unternehmer
-"In der Subjektkultur, welche diese Arbeitspraktiken enthalten, überformen sich das Modell des 'Kreativen' und das des 'Unternehmers seiner selbst'. [...] Das postmodernen Arbeitssubjekt kombiniert in sich die ästhetische Fähigkeit zur symbolischen Innovationsproduktion, welche jede normative Selbst- Und Fremdkontrolle aufzubrechen sucht, mit der Selbstkontrolle der 'Arbeit an sich selbt' und der Sensibilität für Fremderwartungen, die der 'Markt' an das Profil des Einzelnen stellt." (510)
+"In der Subjektkultur, welche diese Arbeitspraktiken enthalten, überformen sich das Modell des 'Kreativen' und das des 'Unternehmers seiner selbst'. [...] Das postmodernen Arbeitssubjekt kombiniert in sich die ästhetische Fähigkeit zur symbolischen Innovationsproduktion, welche jede normative Selbst- und Fremdkontrolle aufzubrechen sucht, mit der Selbstkontrolle der 'Arbeit an sich selbst' und der Sensibilität für Fremderwartungen, die der 'Markt' an das Profil des Einzelnen stellt." (510)
 
 ## Neuen Kulturindustrien und Artekfakterfindung
-"Ausgehend von den neuen Kulturindustrien, sind postmodernen Arbeitspraktiken typischerweise nicht solche der Ausführung, Koordination und Planung geregelter Prozesse, sondern solche der Artkefakterfindung." (511)
+"Ausgehend von den neuen Kulturindustrien, sind postmodernen Arbeitspraktiken typischerweise nicht solche der Ausführung, Koordination und Planung geregelter Prozesse, sondern solche der Artefakterfindung." (511)
 
 ## Artekfaktkreatio
 "Diese Artefaktkreation stellt sich nicht als eine im engeren Sinne technische, ingenieurhafte Aufgabe dar, sie ist primär eine Frage symbolischer Kreation, des Umgangs mit informationellen und ästhetischen Zeichen, in der nurmehr ein kleinerer Anteil i.e.S. technischer Entwickung enthalten ist." (511f)
@@ -77,7 +77,7 @@ Andreas Reckwitz
 "[...], gleichzeitig findet diese Arbeit charakteristischerweise in der sozialen Form von 'Projekten' statt. Der Kreative partizipiert an einer Kreativitätsgemeinschaft auf Zeit (eingebettet in eine größere Organisation oder selbständig), die gemeinsam an Artefaktkreationen arbeitet." (514)
 
 ## Emotionalität
-"Diese [Emotionalität] erscheint nicht als Rationalitätrisiko, sondern im Sinne einer 'emotionalen Intelligenz' als notwengige Voraussetung für Motiviertheit, kollektiven Enthusiasmus und sensible intersubjektive Abstimmung: 'People are not very rational.'" (515)
+"Diese [Emotionalität] erscheint nicht als Rationalitätrisiko, sondern im Sinne einer 'emotionalen Intelligenz' als notwendige Voraussetzung für Motiviertheit, kollektiven Enthusiasmus und sensible intersubjektive Abstimmung: 'People are not very rational.'" (515)
 
 ## Stilisierungsgemeinschaft
 "In den Projekten der postmodernen Arbeitsorganisation fällt die Erlebensgemeinschaft mit der Stilisierungsgemeinschaft zusammen." (515)
