@@ -34,4 +34,4 @@ Third, the homomorphism insure that the structure of the system will reflect the
 "Primarily, we have found a criterion for the structuring of design organizations: a design effort should be organized according to the need for communication." (31)
 
 ## Flexibility
-"Because the design which occurs first is almost never the best possible, the prevailing system concept may need to change. Therefore, flexibility of organization is inportat to effective design." (31)
+"Because the design which occurs first is almost never the best possible, the prevailing system concept may need to change. Therefore, flexibility of organization is important to effective design." (31)
