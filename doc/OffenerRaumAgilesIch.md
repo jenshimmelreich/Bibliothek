@@ -8,7 +8,7 @@ Alexandra Rau
 2. Affektive Dynamik -> Affektive Effekt
    "welcher Effekt der Logik nach in affektiver Hinsicht evoziert wird"
    "welche Weise 'zu sein' dies impliziert"
-3. Allefektiver Effekt -> Last der Psyche
+3. Affektiver Effekt -> Last der Psyche
    "Erfahrung des Leids, das sich als negative Kehrseite potentiell einstellen kann"   
 4. Last der Psyche -> Verteidigung des Selbst
    "Taktiken einer direkten Gegenregierung, ... um in einer Art Kampf um ihr Selbst zu bestehen"
