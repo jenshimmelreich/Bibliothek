@@ -54,6 +54,27 @@ C: Bei mir staut sich da immer was auf. Wenn ich was hab', dann kann ich das abe
 
 # 5.4.3. Selbstverhaftung/ Haftbarmachung des Selbst – Angst
 
+A: Ich arbeite ja für ein Dorf. Und ich weiss genau, wenn die Falle nicht rechtzeitig fertig wird, dann fallen die Drachen ein. Ja und ich weiss auch, wenn wir denen nicht versprechen, dass wir die Fallen rechtzeitig fertig kriegen, dann kommt eine andere Werkstatt. Aber meist schaffen wir es nicht oder es wird ganz eng.
+
+B: Ja, es klappt nur, wenn es ganz reibungslos läuft. Und das tut es nie. Deshalb schätzen und planen wir ja auch nur den nächsten Sprint. Irgendwas kommt immer dazwischen. Und so kannst du die Zusage nicht kalkulieren. Die wollen ja nicht wissen, was du tust, sondern wann sie die Falle einsetzen können.
+
+C: Bei mir geht das nach Innen. Das merkt man so nicht. aber ich werde dann nervös. Ich bin unter Druck und werde nicht schneller, sondern schlechter. Ich denke immer an die Dörfer und sehe die Drachen, wie sie die Dörfer überfallen. Ich fühlt mich dann gedrängt. Zur Arbeit zum schneller Arbeiten gedrängt.
+
+B: Ich nehm das mit nach Hause. Ich denk dann immer weiter über die Dinge nach. Wie können wir dieses neue Problem lösen? Wie werden wir schneller.
+
+A: Ich frag' mich schon am Anfang. Sollen wir einen sicheren, realistischen Termin kommunizieren oder versprechen wir einen, so'ne Art Netto-Termin, den wir halben können? Und die Frage kann mir immer keiner beantworten. Die muss ich mit mir selbst und mit dem Team austragen.
+
+C: Ich nehm das auch mit nach Hause. Ich bin so leicht unter Druck zu setzen. Sch hab' sogar 'nen Tinnitus davon bekommen, aber ich bin so, ich lass mich so leicht unter Stress setzen.
+
+D: Ich finde, ich und mein Team, wir haften für die Fallen. Und deshlab haften wir auch für die Lösung der Probleme. Und je auswegloser das Problem desto stärker spüre ich die Haftung.
+
+B: Wenn ich keine Lösung sehe, bekomme ich Angst. Ich weiss: das wird jetzt Zeit verschlingen und ich kann es nocht stoppen. 
+
+A: Ja und du hast keine Macht mehr über die Situation. Das ist bei mir auch so, dass ist die bloße Angst.
+
+D: Mir hilft dann Abschalten. Sport, Familie, Hobby, irgendwas intensives, auf andere Gedanken kommen. Ein Kollege ist Gildemeister und organisiert ganz viel für unsere Zusammenkünfte, der hat bestimmt keine Zeit sich Gedanken zu machen.
+
+
 # 5.4.4. Persönliche Identifizierung – Schuld
 
 # 5.4.5. Politiker-Sein – Selbstabwertung
