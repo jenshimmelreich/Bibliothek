@@ -77,6 +77,55 @@ D: Mir hilft dann Abschalten. Sport, Familie, Hobby, irgendwas intensives, auf a
 
 # 5.4.4. Persönliche Identifizierung – Schuld
 
+A: Was ich gut finde: Ich krieg nicht mehr gesagt, was ich tun soll. Wir kriegen gesagt, was das Ziel ist und dann entscheiden wir selbst wie wir dahinkommen.
+
+B: Immer wenn man selbst entscheiden kann, macht man es lieber. Das sehe ich auch bei meinen Kindern. Wenn ich denen sage: Räum dein Zimmer auf, dann machen die das auch - irgendwann. Wenn ich sag': Räum jetzt dein Zimmer auf, dann krieg ich nur Wind von vorn.
+
+C: Kinder ja. Und dass Projekt? Ich find' wenn du das als Team selber überlegt hast, wie du die Falle so konstruierst, wie die sich da so einpasst und wie sie funktionieren soll, dann ist das auch dein Baby. Wie so'n Kinder, das du wachsen siehst. Und dann freuste dich auch, eben wie so'n wohl geratenes Kind, das sagt immer auch wass über die Eltern. Das biste auch stolz. 
+
+B: Und wenn das Kind aus dem Haus ist. Dann biste doch noch verantwortlich. Ist ja dein Kind. 
+
+A: Ja und wenn's Mist macht. Dann ist das auch dein Mist. Dann fühl ich mich ganz mies. Dann ist nicht die Falle kaputt, dann ist unsere Falle kaputt, das nagt am Stolz. Und wende dreimal Mist baust, dann klebt das an deiner Stirn.
+
+B: Das ist dann wie ein persönliches Scheitern und Versagen - nicht gut. Dann bist nicht mehr Stolz und Elternteil, sondern schuldig. Und dass kann man nicht so einfach ablegen.
+
+C: Egal wer das im Team gemacht hat, man hat die Verantwortung und den Stress. Manchmal wünsche ich mir ich könnte sagen: Das ham wir nicht selbst entschieden, das waren die da oben.
+
+A: Wenn wir so Stress haben, dann kann ich kaum anderes Tun. Das fühlt sich wie ein Versagen an. Es ist gut, dass wir im Team nicht so aufeinander zeigen. Wir kennen dass alle und schieben da keine Verantwortung hin und her. 'Einer für alle, alle für einen.' hat mal einer an unsere Tür geschrieben und das steht da immer noch.
+
 # 5.4.5. Politiker-Sein – Selbstabwertung
+
+A: Bei unserm Job: stets brauchst du andere. Eine Falle kannst du gar nicht alleine bauen. Du musst so viel wissen: Mechanik, Zoologie, Chemie, Botanik, das passt nie in einen Kopf rein. Die Koordination das ist echt 'ne Kunst.
+
+B: Ja du musst mit den ganzen Leuten klarkommen, von denen du was willst.
+
+C: Du bist Einzelkämpfer und Teamplayer. Du musst deine Sache schon hinkriegen und du musst ja auch wass einbringen. Und dann musst du ganz viel reden. Mit den richtigen Leuten, du musst dich auf sie einstellen.
+
+B: Du musst auch Lust haben, Lust auf die anderen und auch Lust mal was anderes zu machen, mal einen trinken.
+
+A: Ich fühl mich wohl, wenn ich weiss wer was kann. Wenn ich so'n Bild hab'. Wer spielt welche Rolle, wenn kann ich was fragen.
+
+B: Wenn wir anfangen eine neue Falle zu bauen, dann sind wir immer ein neuen Team. Das ist wie so'n zusammengewürfelter Haufen. Und dann kannst erleben, wie sich das so langsam in eine Mannschaft verwandelt, in so'ne gut geölte Maschine, wo ein Rädchen ins andere greift.
+
+C: Alle wissen, dass sie voneinander abhängig sind. Jeder weiss, was er nimmt und was er gibt. Das kenn' ich auch.
+
+A: Ja und wenn du weisst, wie die anderen so ticken, wie du die so ansprechen kannst. Du willst ja keinen verletzen. Da musste erstmal so'n Gespür entwicke
+
+D: Das ist doch wie ein Politiker, du brauchst politisches Gespür und Einfühlungsvermögen. Und dann musst du 'Politik machen', du musst das ganze irgendwie zusammenbringen, dass das läuft. Dein Team, die Auftraggeber, die Leute im Dorf. Hier mal 'nen Argument, dort mal ein Bier, und langsam setzt sich die ganze Maschine zusammen und fängt an zu schnurren. Und immer mal wieder musst du schmieren.
+
+B: Wenn du da kein Gefühl für die anderen hast, dann bist du aufgeschmissen. Aber auch, wenn die Mauern. Wenn die im Dorf die richtige Stelle für die Falle nicht freiräumen, dann ist das purer Stress. Da weiss ich oft nicht was ich so machen soll. Das sind so Kämpfe, auf die hab' ich keine Lust. Die kann ich mir echt sparen.
+
+A: Über kurz oder lang fängst du an die alle so zu sehen. Du kriegst so'nen strategischen Blick. Was sind die Stärken, die Schwächen? Wie pack ich's an und wer schuldet mir noch was: Eine Hand wäscht die andere.
+
+C: Naja und alle gucken auf dich. Du musst dich auch immer so'n bisschen selbst vermarkten. Du musst dich auch mal zeigen und wissen, was die für'n Bild von dir haben. Du bist auch wie so'n Schauspieler. Du musst drauf achten, wie du auftrittst.
+
+D: Ja und zwischen den Zeilen musst du lesen. Wenn du im Dorf bist. Was geht hier eigentlich ab. Wer mit wem, was ist hier Thema. Sonst verstehst du gar nicht, warum sie die Falle jetzt wollen und warum die unbedingt auf den Acker von dem XY soll. ... Politiker - das triffst, so fühl ich mich manchmal.
+
+B: Ich find' das manchmal sehr anstrengend. Ich krieg da richtig Selbstzweifel. Kann ich das wirklich. Was die in mir sehen, dass bin ich doch gar nicht. Kann ich die morgen überzeugen. Was bring ich eigentlich ein.
+
+C: Ich sag' mir dann: Du darfst nicht an dir zweifeln. Das ist fatal. Da musste die Augen zukneifen und durch. 
+
+A: Ich wünsch mir, dass das mehr wie in einer Freundschaft wär. Da denkst du auch nicht so taktisch, da schätzt du die anderen doch auch, egal was sie jetzt leisten.
+
 
 # Individualisierung zu Bedingungen der Masse
